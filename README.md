@@ -37,3 +37,6 @@ See [CONTENT.md](CONTENT.md) for provenance and the section/topic map, and [PAGE
 - site.js — task sections, scroll catalogue, search, and header pause control.
 
 This is a buildless static site; no dependency installation is required.
+
+## Suggested Navy events
+Voyage Board includes voyage learning, sea trade, and Ship Arena suggestions supplied by Ticca, with in-game mail to Elius for availability. Dates, times, meeting places, and participation details remain to be announced; these are not scheduled events.
