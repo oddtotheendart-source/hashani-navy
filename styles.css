@@ -15,3 +15,19 @@
 @media(max-width:950px){.hero{background-size:auto,auto,auto 110%}.motion-control{bottom:25px}}
 @media(max-width:600px){.hero{background-size:auto,auto,auto 110%}.motion-control{top:235px;bottom:auto;right:12px;font-size:10px;padding:6px 8px}}
 @media(prefers-reduced-motion:reduce){.hero,.vessel{animation:none}.motion-control{display:none}}
+/* Compact scenic banner and separate Admiral feature. */
+.hero{min-height:620px;height:620px;border-bottom:2px solid var(--gold)}
+.hero-copy{padding:70px 6% 40px;max-width:490px}
+.hero h1{font-size:72px}
+.vessel{width:min(45%,530px);right:22%;bottom:0}
+.hero-caption{bottom:20px}
+.motion-control{bottom:50px}
+.admiral-strip{background:linear-gradient(90deg,#172a3a,#091420);border-bottom:1px solid var(--line)}
+.admiral-inner{max-width:1200px;margin:auto;min-height:200px;padding:20px 36px;display:flex;align-items:center;gap:30px;position:relative}
+.admiral-portrait{width:150px;height:180px;object-fit:cover;object-position:center 15%;align-self:end;filter:drop-shadow(0 4px 14px #0005)}
+.admiral-inner h2{font-size:34px;margin:5px 0 10px}
+.admiral-inner p{margin:0;color:var(--muted)}
+.admiral-inner .eyebrow{color:var(--gold)}
+.admiral-inner>a{margin-left:auto;font-size:13px}
+@media(max-width:1100px) and (min-width:601px){.hero .crest{width:280px}.vessel{right:15%;width:48%;bottom:0}.hero h1{font-size:62px}.hero-copy{max-width:420px}}
+@media(max-width:600px){.hero{height:760px;min-height:760px}.hero-copy{padding:230px 22px 0;max-width:85%}.hero h1{font-size:52px}.vessel{width:78%;right:2%;bottom:0}.hero-copy>p:not(.eyebrow){font-size:17px}.motion-control{top:auto;bottom:18px}.admiral-inner{padding:18px 22px;gap:18px;flex-wrap:wrap;min-height:180px}.admiral-portrait{width:100px;height:145px}.admiral-inner h2{font-size:25px}.admiral-inner .eyebrow{font-size:9px;letter-spacing:1px}.admiral-inner>a{margin-left:118px;margin-top:-15px}.admiral-inner p{font-size:12px}}
