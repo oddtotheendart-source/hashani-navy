@@ -1,0 +1,47 @@
+clhelp targetlist
+Composed by: Aurola on or about the 18th of Mayan, 974 AF.
+
+All Hashani ships should have the following target list so that all
+ships will have the same list.
+
+If another ship needs to be added to this list, please message the
+Admiral the name of the ship and who it is affiliated with
+(city/person/clan, etc).
+
+                                                                        
+------------------------------------------------------------------------
+Target/Shortname      Full Name of Ship Targetted          Affiliation
+------------------------------------------------------------------------
+def                   TLS Defiance                         MHALDOR
+hok                   The Hokulea
+tfm                   The Forbidden Maiden
+obh                   Obsidian Heart
+acci                  The Acseapiter
+fuo                   Forward Unto Oblivion
+si                    Sudden Impulse
+inex                  TLS Inexorable                       MHALDOR
+hql                   Hailqas'an's Lament
+fury                  Shuun'eludiela's Fury
+sure                  SHIP OUT OF LUCK
+hnvc                  HNS Verdict of the Court
+tul                   Leviathan's Lure
+kur                   MTC Peshwarian Sea Turtle            TARG NAVY
+lem                   MTC Lemnian Sea Bear                 ARTANIS
+lum                   MTC Luman's Own                      ARTANIS
+sap                   MTC Lumanian Sapphire Sea Dragon     TARG NAVY
+abs                   CTS Absolution                       TARG NAVY
+fer                   CTS Fervour                          TARG NAVY
+res                   CTS Resilient                        TARG NAVY
+oak                   Oaken Spirit                         LANDON
+pen                   Penultimate Word                     LANDON
+sea                   Sea Talvace                          LANDON
+sir                   The Siren of Black Waters            LANDON
+cat                   ENS Cataclysm                        ELEUSIS
+que                   ENS Queen Titania                    ELEUSIS
+san                   ENS Sanguine Rose                    ELEUSIS
+lio                   SHS Lion, Raven, and Wolf            LANDON
+kuy                   MTC Lumanian Sea Badger              TARG NAVY
+inq                   CTS Inquisitor                       TARG NAVY
+inc                   MTC Jaru's Inconceivable Dawn        TARG NAVY
+clo                   MTC Cloudfall's Sunshine Tea         TARG NAVY
+las                   Last Word                            LANDON
