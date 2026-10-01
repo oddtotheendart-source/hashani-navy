@@ -39,3 +39,4 @@
 @media(max-width:600px){.hero{height:820px;min-height:820px}.vessel{bottom:100px}.admiral-banner{left:22px;bottom:14px}.admiral-banner .admiral-portrait{width:65px;height:90px}.admiral-banner h2{font-size:18px}.motion-control{bottom:20px}}
 /* Admiral feature occupies one third of the title-to-ship gap. */
 @media(min-width:1101px){.admiral-banner{left:33%;width:7.5%;bottom:16px;flex-direction:column;gap:4px;align-items:center;text-align:center}.admiral-banner .admiral-portrait{width:60px;height:85px}.admiral-banner h2{font-size:14px;line-height:1.2;margin:3px 0;white-space:normal}.admiral-banner .eyebrow{font-size:8px;letter-spacing:1px}}
+@media(min-width:1101px){.vessel{width:min(46%,650px);right:22%;bottom:0}.admiral-banner{left:24%;width:12%;bottom:16px}.admiral-banner .admiral-portrait{width:140px;height:195px}.admiral-banner h2{font-size:18px}.admiral-banner .eyebrow{font-size:10px;letter-spacing:1.5px}}
