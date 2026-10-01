@@ -1,0 +1,64 @@
+clhelp command
+Composed by: Minkai on or about the 15th of Mayan, 832 AF.
+
+    Command Specialisation
+
+Specialist: Aitroyo, on Zanzibaar
+
+
+====== Rank I ======
+
+--Command Aura--
+
+Allows you to activate this aura. While active, invoking seaspells uses
+less figurehead power. This aura scales with your rank in Command.
+
+
+====== Rank II ======
+
+--Fleetsense--
+    FLEETSENSE
+
+Get detailed information on the ships upon which you have captain perms.
+This includes hull and sails damage, strongbox, provisions, current
+flag, and the date the ship was last docked.
+
+
+====== Rank III ======
+
+--Keelhaul--
+    KEELHAUL <target>
+
+Does great damage to the target if the ship is moving.
+
+
+====== Rank IV ======
+
+--Comm Screen--
+    SHIP COMMSCREEN CHECK
+    SHIP COMMSCREEN RAISE
+    SHIP COMMSCREEN LOWER
+
+Removes everyone on board from all WHO lists and prevents the sending
+and receiving of tells. However, tells to those on other ships will
+still work.
+
+
+====== Rank V ======
+
+--Remotebuoy--
+    SHIP BUOY ACTIVATE <buoy>
+    SHIP CARGOBOX TRANSFER <box>
+    SHIP CARGOBOX DUMP <box>
+
+Allows you to activate a buoy from a ship that you don't own, so long as
+you have captain permissions on the ship that owns the buoy.
+
+
+--Max Aura Bonus--
+
+This passive effect allows you to invoke seaspells while not melded with
+the figurehead, excluding wavecall. However, they will cost 1.5x the
+normal power.
+If there are any corrections or additions to be done to this scroll,
+please contact the MMA or an Aide!

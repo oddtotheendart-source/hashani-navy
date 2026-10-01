@@ -1,0 +1,76 @@
+clhelp helm
+Composed by: Minkai on or about the 18th of Chronos, 843 AF.
+
+    Helm Specialisation
+
+Specialist: Ambo, on Zaphar Island
+
+The Helm specialisation grants the ability to use manoeuvres.
+
+
+====== Rank I ======
+
+--Helm Aura--
+
+Allows you to activate this aura. While active, ship crew receives a
+bonus to experience and morale gain. This aura scales with your rank in
+Helm.
+
+
+====== Rank II ======
+
+--Steadygoing--
+    SHIP MANOEUVRE STEADYGOING
+
+Begin manoeuvres that will provide a steadier base for your ship's
+weapons.
+  - Decreases weapon aim time**
+  - Increases ship turn time
+  - Increases ship speed
+  **If you have both WEAPONS 5 and HARPOONER trait, steadygoing will not
+    reduce your weapon aim time further.
+
+--Emergencies--
+    SHIP MANOEUVRE EMERGENCIES
+
+Initiate emergency manoeuvres in difficult circumstances.
+  - Decreases ship turn time
+  - Increases the time your ship stays afloat after the emergency siren
+    go off
+
+
+====== Rank III ======
+
+--Smart Orders--
+    SHIP SMARTORDERS
+
+Increase the turn speed of the ship by up to 20% for two minutes. After
+the effect of smart orders wears off, smart orders cannot be used on the
+same crew for the next 10 minutes.
+
+
+====== Rank IV ======
+
+--Evasives--
+    SHIP MANOEUVRE EVASIVES
+
+Manoeuvre your ship in an erratic fashion.
+  - Decreases ship turn time
+  - Increases the time it takes for other ships to fire at you
+
+--Jink--
+    JINK CLEAR|LARBOARD or LEFT|STARBOARD or RIGHT|SHOW
+
+Allows you to set a jink direction for the ship to avoid ship
+collisions.
+
+
+====== Rank V ======
+
+--Max Aura Bonus--
+
+This passive effect increases the row speed of the ship by about 1kt.
+It also increases the experience and morale gained by denizen crew.
+
+If there are any corrections or additions to be done to this scroll,
+please contact the MMA or an Aide!

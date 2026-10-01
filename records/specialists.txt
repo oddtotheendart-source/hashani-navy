@@ -1,0 +1,12 @@
+clhelp specialists
+Composed by: Artanis on or about the 18th of Daedalan, 546 AF.
+
+This is a list of what denizen can teach you whatever spec you wish to
+learn in and their locations.
+
+   Spec             Specialist               Location
+| Deckhand | Rorthgar, the mariner      | Ilyrean Isle     |
+| Weapons  | Hawkins, the shipwright    | Shastaan Harbour |
+| Helm     | Ambo, the Sailor           | Zaphar Isle      |
+| Watch    | Natalie, the ferrywoman    | Shala-Khulia     |
+| Command  | Aitroyo, the harbourmaster | Zanzibaar        |

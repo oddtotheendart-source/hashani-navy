@@ -1,0 +1,60 @@
+clhelp watch
+Composed by: Minkai on or about the 16th of Daedalan, 833 AF.
+
+   Watch Specialisation
+
+Specialist: Natalie, found in Shala-Khulia (accessible via ferry from
+the Aalen)
+
+
+====== Rank I ======
+
+--Watch Aura--
+
+Allows you to activate this aura. While active, everyone onboard will
+climb mast and swing up to the riggings faster. This aura scales with
+your rank in Watch.
+
+
+====== Rank II ======
+
+--Spyglass--
+    SPYGLASS LOOK
+    SPYGLASS INFO <seamonster>
+
+Requires a spyglass in inventory to use.
+
+Look will display any seamonsters or ships in a small radius around your
+ship. Info <seamonster> will show you specific information, such as
+health remaining, about a nearby seamonster.
+
+
+====== Rank III ======
+
+--Anticipate--
+    SHIP ANTICIPATE SHOW
+    SHIP ANTICIPATE STOP
+    SHIP ANTICIPATE START <full or short name of ship in range>
+
+Anticipate the movement of ships in range. Shows you the direction the
+ship is heading, the direction the ship is turning to, and if the ship
+stops rowing and strikes sails, or starts rowing and sets the sails.
+
+
+====== Rank IV ======
+
+--Enhanced SHIPWHO and SHIPSCAN--
+    SHIPWHO <full or short name of ship in range>
+    SHIPSCAN <full name of ship in range>
+
+This ability allows you to see who is present on a different ship.
+
+====== Rank V ======
+
+--Max Aura Bonus--
+
+This passive effect makes climbing mast and climbing rigging
+balanceless.
+
+If there are any corrections or additions to be done to this scroll,
+please contact the MMA or an Aide!

@@ -1,0 +1,64 @@
+clhelp deckhand
+Composed by: Tydas on or about the 18th of Aeguary, 720 AF.
+
+    Deckhand Specialisation
+
+Specialist: Rorthgar, on the Ilyrean Isle
+
+NOTE - Due to the out-of-the-way location of this specialist,
+please ask on the Hashani Navy clan for help if you're having
+trouble finding a ride up north. Several Maritime aides can
+bring a city ship specially docked on the Isle down to the
+northern part of the Achaean wilderness, giving you a fast and
+easy ride to the specialist.
+
+Rank I
+    --Deckhand Aura--
+
+    Allows you to activate this aura. While active, there is a
+    small chance of an increased repair amount on a repair
+    tick. This aura scales with your rank in Deckhand.
+
+
+Rank II
+    --Salvageops--
+        SHIP SALVAGE SCAN
+        SHIP SALVAGE <ship id>
+        SHIP SALVAGE STOP
+
+    While anchored above a shipwreck, this ability allows you
+    to raise the ship from the sea floor, setting it alongside
+    your own ship after a period of time. Salvaging a wreck
+    requires a ship equipped with a salvage crane. Salvageops
+    also comes with the ability to scan for nearby sunken ships
+    in order to know where you should anchor to raise it.
+
+
+Rank III
+    --Cooking Good Stores--
+
+    This rank enhances the general Seafaring Cooking ability,
+    allowing any food stores you cook to be of good quality
+    instead of merely common.
+
+Rank IV
+    --Plundering--
+        SHIP PLUNDER <full name/short name>
+        SHIP PLUNDER
+
+    This gives you the ability to send your ship's
+    swashbucklers over to another ship that is grappling or has
+    been grappled by your ship. The swashbucklers will attempt
+    to relieve the contents of the strongbox and the ship's
+    trade cargo and bring them back to your ship. Attacking
+    swashbucklers are more likely to suffer losses than those
+    defending, and subsequent plunderings will decrease your
+    chances at success and increase the danger to the invading
+    crew.
+
+
+Rank V
+    --Fire Suppression--
+
+    This passive effect gives a chance for fires on your ship
+    to be put out by your crew automatically.

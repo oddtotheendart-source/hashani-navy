@@ -1,0 +1,424 @@
+clhelp command
+Composed by: Minkai on or about the 15th of Mayan, 832 AF.
+
+    Command Specialisation
+
+Specialist: Aitroyo, on Zanzibaar
+
+
+====== Rank I ======
+
+--Command Aura--
+
+Allows you to activate this aura. While active, invoking seaspells uses
+less figurehead power. This aura scales with your rank in Command.
+
+
+====== Rank II ======
+
+--Fleetsense--
+    FLEETSENSE
+
+Get detailed information on the ships upon which you have captain perms.
+This includes hull and sails damage, strongbox, provisions, current
+flag, and the date the ship was last docked.
+
+
+====== Rank III ======
+
+--Keelhaul--
+    KEELHAUL <target>
+
+Does great damage to the target if the ship is moving.
+
+
+====== Rank IV ======
+
+--Comm Screen--
+    SHIP COMMSCREEN CHECK
+    SHIP COMMSCREEN RAISE
+    SHIP COMMSCREEN LOWER
+
+Removes everyone on board from all WHO lists and prevents the sending
+and receiving of tells. However, tells to those on other ships will
+still work.
+
+
+====== Rank V ======
+
+--Remotebuoy--
+    SHIP BUOY ACTIVATE <buoy>
+    SHIP CARGOBOX TRANSFER <box>
+    SHIP CARGOBOX DUMP <box>
+
+Allows you to activate a buoy from a ship that you don't own, so long as
+you have captain permissions on the ship that owns the buoy.
+
+
+--Max Aura Bonus--
+
+This passive effect allows you to invoke seaspells while not melded with
+the figurehead, excluding wavecall. However, they will cost 1.5x the
+normal power.
+If there are any corrections or additions to be done to this scroll,
+please contact the MMA or an Aide!
+= Sl Furl - hp 99%,Hl: 99%,Wd SE@38kts,Cr/Sp N@0,Sea Tempestuous
+clhelp deckhand
+Composed by: Tydas on or about the 18th of Aeguary, 720 AF.
+
+    Deckhand Specialisation
+
+Specialist: Rorthgar, on the Ilyrean Isle
+
+NOTE - Due to the out-of-the-way location of this specialist,
+please ask on the Hashani Navy clan for help if you're having
+trouble finding a ride up north. Several Maritime aides can
+bring a city ship specially docked on the Isle down to the
+northern part of the Achaean wilderness, giving you a fast and
+easy ride to the specialist.
+
+Rank I
+    --Deckhand Aura--
+
+    Allows you to activate this aura. While active, there is a
+    small chance of an increased repair amount on a repair
+    tick. This aura scales with your rank in Deckhand.
+
+
+Rank II
+    --Salvageops--
+        SHIP SALVAGE SCAN
+        SHIP SALVAGE <ship id>
+        SHIP SALVAGE STOP
+
+    While anchored above a shipwreck, this ability allows you
+    to raise the ship from the sea floor, setting it alongside
+    your own ship after a period of time. Salvaging a wreck
+    requires a ship equipped with a salvage crane. Salvageops
+    also comes with the ability to scan for nearby sunken ships
+    in order to know where you should anchor to raise it.
+
+
+Rank III
+    --Cooking Good Stores--
+
+    This rank enhances the general Seafaring Cooking ability,
+    allowing any food stores you cook to be of good quality
+    instead of merely common.
+
+Rank IV
+    --Plundering--
+        SHIP PLUNDER <full name/short name>
+        SHIP PLUNDER
+
+    This gives you the ability to send your ship's
+    swashbucklers over to another ship that is grappling or has
+    been grappled by your ship. The swashbucklers will attempt
+    to relieve the contents of the strongbox and the ship's
+    trade cargo and bring them back to your ship. Attacking
+    swashbucklers are more likely to suffer losses than those
+    defending, and subsequent plunderings will decrease your
+    chances at success and increase the danger to the invading
+    crew.
+
+
+Rank V
+    --Fire Suppression--
+
+    This passive effect gives a chance for fires on your ship
+    to be put out by your crew automatically.
+= Sl Furl - hp 99%,Hl: 99%,Wd SE@38kts,Cr/Sp N@0,Sea Tempestuous
+clhelp helm
+Composed by: Minkai on or about the 18th of Chronos, 843 AF.
+
+    Helm Specialisation
+
+Specialist: Ambo, on Zaphar Island
+
+The Helm specialisation grants the ability to use manoeuvres.
+
+
+====== Rank I ======
+
+--Helm Aura--
+
+Allows you to activate this aura. While active, ship crew receives a
+bonus to experience and morale gain. This aura scales with your rank in
+Helm.
+
+
+====== Rank II ======
+
+--Steadygoing--
+    SHIP MANOEUVRE STEADYGOING
+
+Begin manoeuvres that will provide a steadier base for your ship's
+weapons.
+  - Decreases weapon aim time**
+  - Increases ship turn time
+  - Increases ship speed
+  **If you have both WEAPONS 5 and HARPOONER trait, steadygoing will not
+    reduce your weapon aim time further.
+
+--Emergencies--
+    SHIP MANOEUVRE EMERGENCIES
+
+Initiate emergency manoeuvres in difficult circumstances.
+  - Decreases ship turn time
+  - Increases the time your ship stays afloat after the emergency siren
+    go off
+
+
+====== Rank III ======
+
+--Smart Orders--
+    SHIP SMARTORDERS
+
+Increase the turn speed of the ship by up to 20% for two minutes. After
+the effect of smart orders wears off, smart orders cannot be used on the
+same crew for the next 10 minutes.
+
+
+====== Rank IV ======
+
+--Evasives--
+    SHIP MANOEUVRE EVASIVES
+
+Manoeuvre your ship in an erratic fashion.
+  - Decreases ship turn time
+  - Increases the time it takes for other ships to fire at you
+
+--Jink--
+    JINK CLEAR|LARBOARD or LEFT|STARBOARD or RIGHT|SHOW
+
+Allows you to set a jink direction for the ship to avoid ship
+collisions.
+
+
+====== Rank V ======
+
+--Max Aura Bonus--
+
+This passive effect increases the row speed of the ship by about 1kt.
+It also increases the experience and morale gained by denizen crew.
+
+If there are any corrections or additions to be done to this scroll,
+please contact the MMA or an Aide!
+= Sl Furl - hp 99%,Hl: 99%,Wd SE@38kts,Cr/Sp N@0,Sea Tempestuous
+clhelp specialisations
+Composed by: Minkai on or about the 13th of Glacian, 869 AF.
+
+  --Specialisation Points (SPPs)--
+Specialisation points are gained as you grow more proficient in the
+skill of seafaring until you transcend the skill. You get a couple
+points immediately after becoming an unquestioned seafarer, but you must
+use lessons to gain more by learning more seafaring. At trans seafaring,
+you will have 32 SPPs.
+
+
+  --Spending Specialisation Points--
+
+One question often asked is "how should I spend my specialisation points
+(SPPs)?"
+
+To answer that question, you must first understand what purpose each
+specialisation (spec) serves on a ship and how specialisations work.
+
+There are five specs that one may train and each one can go up to rank
+five. Each rank consumes the same number of SPPs as the rank. So for
+example, rank one deckhand consumes one SPP, rank two deckhand consumes
+two SPPs, rank three deckhand consumes three SPPs, and so on with a
+total of fifteen SPPs to get to rank five.
+
+The specs are as follows: deckhand, weapons, helm, watch, command. Each
+one serves a specific set of duties that may be needed aboard a ship.
+
+Deckhands perform basic duties pertaining to maintenance. People who
+choose this spec gain a bonus to maintaining the hull and sails of a
+ship and can salvage a sunken ship (as long as the rescue ship has a
+salvage crane). They can also plunder other ships in a combat situation.
+Their aura provides a bonus to the repair speed of a ship. CLHELP
+DECKHAND for more.
+
+
+Those who choose the weapons specialisation deal directly with the
+weapons aboard a ship. They are able to dip ammo in dragon tears which
+will set other ships on fire and repair weapons. The navy recommends
+that all sailors have this specialisation up to RANK 2. Their aura
+provides a bonus to the speed of weapon aiming. CLHELP WEAPONS for more.
+
+
+The Helm specialisation allows for easier navigation over the open
+oceans and quicker training of crew. They are masters of tricky
+maneuvers that can help the ship turn more quickly or even slip around a
+ship on a collision course. Their aura provides a small bonus to row
+speed and a bonus to things that increase crew experience, and increase
+crew morale, such as cooking. CLHELP HELM for more.
+
+
+Watchmen are the eyes of the ship. Primarily utilizing the crow's nest,
+they watch for other ships and keep the captain informed of any new
+developments upon the sea. They can use spyglasses to gain detailed
+information about the surroundings and anticipate the movement of other
+ships. Their aura provides a speed bonus to climbing the rigging and the
+mast. CLHELP WATCH for more.
+
+The command specialisation is all about command. Sailors specialised in
+this will be able to use seaspells without invoking the sea spirits, be
+able to observe the status of their fleet at once and keelhaul unruly
+adventurer crew members. Their aura reduces the cost of seaspells.
+CLHELP COMMAND for more.
+
+
+Once you understand each specialisation, you must ask yourself: "what
+purpose do I wish to serve aboard a ship?" Do you want to be a deckhand
+and help maintain the ship? Or would you rather take a direct hand in
+sinking other ships with the weapon specialisation?
+
+Furthermore, do you plan to sail alone, or in a group? Do you plan to
+dedicate yourself to sinking other ships or hunting the monsters of the
+seas?
+
+Keep in mind that you have enough SPPs at transcendent seafaring to get
+to rank five in any two specialisations, so your duties are not limited
+to a single spec. Also keep in mind that as long as you have access to
+the specialisation teachers, you can change your specialisations at
+will.
+= Sl Furl - hp 99%,Hl: 99%,Wd SE@38kts,Cr/Sp N@0,Sea Tempestuous
+clhelp specialists
+Composed by: Artanis on or about the 18th of Daedalan, 546 AF.
+
+This is a list of what denizen can teach you whatever spec you wish to
+learn in and their locations.
+
+   Spec             Specialist               Location
+| Deckhand | Rorthgar, the mariner      | Ilyrean Isle     |
+| Weapons  | Hawkins, the shipwright    | Shastaan Harbour |
+| Helm     | Ambo, the Sailor           | Zaphar Isle      |
+| Watch    | Natalie, the ferrywoman    | Shala-Khulia     |
+| Command  | Aitroyo, the harbourmaster | Zanzibaar        |
+= Sl Furl - hp 99%,Hl: 99%,Wd SE@38kts,Cr/Sp N@0,Sea Tempestuous
+clhelp watch
+Composed by: Minkai on or about the 16th of Daedalan, 833 AF.
+
+   Watch Specialisation
+
+Specialist: Natalie, found in Shala-Khulia (accessible via ferry from
+the Aalen)
+
+
+====== Rank I ======
+
+--Watch Aura--
+
+Allows you to activate this aura. While active, everyone onboard will
+climb mast and swing up to the riggings faster. This aura scales with
+your rank in Watch.
+
+
+====== Rank II ======
+
+--Spyglass--
+    SPYGLASS LOOK
+    SPYGLASS INFO <seamonster>
+
+Requires a spyglass in inventory to use.
+
+Look will display any seamonsters or ships in a small radius around your
+ship. Info <seamonster> will show you specific information, such as
+health remaining, about a nearby seamonster.
+
+
+====== Rank III ======
+
+--Anticipate--
+    SHIP ANTICIPATE SHOW
+    SHIP ANTICIPATE STOP
+    SHIP ANTICIPATE START <full or short name of ship in range>
+
+Anticipate the movement of ships in range. Shows you the direction the
+ship is heading, the direction the ship is turning to, and if the ship
+stops rowing and strikes sails, or starts rowing and sets the sails.
+
+
+====== Rank IV ======
+
+--Enhanced SHIPWHO and SHIPSCAN--
+    SHIPWHO <full or short name of ship in range>
+    SHIPSCAN <full name of ship in range>
+
+This ability allows you to see who is present on a different ship.
+
+====== Rank V ======
+
+--Max Aura Bonus--
+
+This passive effect makes climbing mast and climbing rigging
+balanceless.
+
+If there are any corrections or additions to be done to this scroll,
+please contact the MMA or an Aide!
+= Sl Furl - hp 99%,Hl: 99%,Wd SE@38kts,Cr/Sp N@0,Sea Tempestuous
+clhelp weapons
+Composed by: Minkai on or about the 18th of Mayan, 832 AF.
+
+    Weapons Specialisation
+
+Specialist: Hawkins, found near Shastaan's harbour
+
+In addition to the abilities listed below, each rank in Weapons will
+also decrease the amount of time it takes to a fire a ship weapon.
+
+Note that no new abilities are gained at Rank IV.
+
+====== Rank I ======
+
+--Status--
+    SHIP WEAPON STATUS
+
+Gain an overview of all the ship's weapons, including the details of
+their ammunition, damage and months of usefulness remaining.
+
+--Weapons Aura--
+
+Allows you to activate this aura. While active, everyone onboard will
+aim ship weapons faster. This aura scales with your rank in Weapons.
+
+--Loadweapon--
+
+Allows you to load ammo into ship weapons without incurring a balance
+cost.
+
+
+====== Rank II ======
+
+--Ammo Enhancement--
+    LOAD <weapon> WITH <ammo> DIPPED
+
+Allows you to enhance certain types of ammunition by coating them with
+dragon's tears, acquired from Yabbahar on Zanzibaar.
+
+Effect of dragon's tears:
+* starshot: sets the target ship's bow on fire
+* chainshot: sets the target ship's sails on fire
+* darts: sets the target ship's deck on fire
+
+
+====== Rank III ======
+
+--Weapon Maintenance--
+    SHIP WEAPON MAINTAIN <weapon>
+    Comms needed: 1 wood, 1 iron, 1 rope
+
+Allows you to reduce the time to decay on a ship weapon. Eight weapon
+maintenance sessions will add one month to the life of the weapon.
+
+
+====== Rank V ======
+
+--Max Aura Bonus--
+
+This passive effect increases the pace at which attacked ships leak.
+
+If there are any corrections or additions to be done to this scroll,
+please contact the MMA or an Aide!

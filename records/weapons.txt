@@ -1,0 +1,63 @@
+clhelp weapons
+Composed by: Minkai on or about the 18th of Mayan, 832 AF.
+
+    Weapons Specialisation
+
+Specialist: Hawkins, found near Shastaan's harbour
+
+In addition to the abilities listed below, each rank in Weapons will
+also decrease the amount of time it takes to a fire a ship weapon.
+
+Note that no new abilities are gained at Rank IV.
+
+====== Rank I ======
+
+--Status--
+    SHIP WEAPON STATUS
+
+Gain an overview of all the ship's weapons, including the details of
+their ammunition, damage and months of usefulness remaining.
+
+--Weapons Aura--
+
+Allows you to activate this aura. While active, everyone onboard will
+aim ship weapons faster. This aura scales with your rank in Weapons.
+
+--Loadweapon--
+
+Allows you to load ammo into ship weapons without incurring a balance
+cost.
+
+
+====== Rank II ======
+
+--Ammo Enhancement--
+    LOAD <weapon> WITH <ammo> DIPPED
+
+Allows you to enhance certain types of ammunition by coating them with
+dragon's tears, acquired from Yabbahar on Zanzibaar.
+
+Effect of dragon's tears:
+* starshot: sets the target ship's bow on fire
+* chainshot: sets the target ship's sails on fire
+* darts: sets the target ship's deck on fire
+
+
+====== Rank III ======
+
+--Weapon Maintenance--
+    SHIP WEAPON MAINTAIN <weapon>
+    Comms needed: 1 wood, 1 iron, 1 rope
+
+Allows you to reduce the time to decay on a ship weapon. Eight weapon
+maintenance sessions will add one month to the life of the weapon.
+
+
+====== Rank V ======
+
+--Max Aura Bonus--
+
+This passive effect increases the pace at which attacked ships leak.
+
+If there are any corrections or additions to be done to this scroll,
+please contact the MMA or an Aide!

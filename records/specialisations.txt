@@ -1,0 +1,79 @@
+clhelp specialisations
+Composed by: Minkai on or about the 13th of Glacian, 869 AF.
+
+  --Specialisation Points (SPPs)--
+Specialisation points are gained as you grow more proficient in the
+skill of seafaring until you transcend the skill. You get a couple
+points immediately after becoming an unquestioned seafarer, but you must
+use lessons to gain more by learning more seafaring. At trans seafaring,
+you will have 32 SPPs.
+
+
+  --Spending Specialisation Points--
+
+One question often asked is "how should I spend my specialisation points
+(SPPs)?"
+
+To answer that question, you must first understand what purpose each
+specialisation (spec) serves on a ship and how specialisations work.
+
+There are five specs that one may train and each one can go up to rank
+five. Each rank consumes the same number of SPPs as the rank. So for
+example, rank one deckhand consumes one SPP, rank two deckhand consumes
+two SPPs, rank three deckhand consumes three SPPs, and so on with a
+total of fifteen SPPs to get to rank five.
+
+The specs are as follows: deckhand, weapons, helm, watch, command. Each
+one serves a specific set of duties that may be needed aboard a ship.
+
+Deckhands perform basic duties pertaining to maintenance. People who
+choose this spec gain a bonus to maintaining the hull and sails of a
+ship and can salvage a sunken ship (as long as the rescue ship has a
+salvage crane). They can also plunder other ships in a combat situation.
+Their aura provides a bonus to the repair speed of a ship. CLHELP
+DECKHAND for more.
+
+
+Those who choose the weapons specialisation deal directly with the
+weapons aboard a ship. They are able to dip ammo in dragon tears which
+will set other ships on fire and repair weapons. The navy recommends
+that all sailors have this specialisation up to RANK 2. Their aura
+provides a bonus to the speed of weapon aiming. CLHELP WEAPONS for more.
+
+
+The Helm specialisation allows for easier navigation over the open
+oceans and quicker training of crew. They are masters of tricky
+maneuvers that can help the ship turn more quickly or even slip around a
+ship on a collision course. Their aura provides a small bonus to row
+speed and a bonus to things that increase crew experience, and increase
+crew morale, such as cooking. CLHELP HELM for more.
+
+
+Watchmen are the eyes of the ship. Primarily utilizing the crow's nest,
+they watch for other ships and keep the captain informed of any new
+developments upon the sea. They can use spyglasses to gain detailed
+information about the surroundings and anticipate the movement of other
+ships. Their aura provides a speed bonus to climbing the rigging and the
+mast. CLHELP WATCH for more.
+
+The command specialisation is all about command. Sailors specialised in
+this will be able to use seaspells without invoking the sea spirits, be
+able to observe the status of their fleet at once and keelhaul unruly
+adventurer crew members. Their aura reduces the cost of seaspells.
+CLHELP COMMAND for more.
+
+
+Once you understand each specialisation, you must ask yourself: "what
+purpose do I wish to serve aboard a ship?" Do you want to be a deckhand
+and help maintain the ship? Or would you rather take a direct hand in
+sinking other ships with the weapon specialisation?
+
+Furthermore, do you plan to sail alone, or in a group? Do you plan to
+dedicate yourself to sinking other ships or hunting the monsters of the
+seas?
+
+Keep in mind that you have enough SPPs at transcendent seafaring to get
+to rank five in any two specialisations, so your duties are not limited
+to a single spec. Also keep in mind that as long as you have access to
+the specialisation teachers, you can change your specialisations at
+will.
