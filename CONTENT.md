@@ -33,4 +33,6 @@ The user supplied successful CLAN MEMBERS output, preserved verbatim in records/
 
 ## Operational source received 2026-10-01
 
+Additional captain command list: Rhydian, 8 Glacian 883 AF, crediting Ilsefi, preserved in records/captain-basic-commands.txt. No helpfile topic heading was supplied; routing under basiccommands is provisional and explicitly labeled. commands.js separates the command reference and editorial notes from exact source text. Original angle-bracket arguments, vertical-bar alternatives, capitalization, and the comma-separated rigging line are preserved in the source. The quick reference displays the rigging commands individually.
+
 CLHELP CITYSHIPS, Hendrik, 21 Chronos 956 AF, copied unchanged from the attached Pasted text.txt to records/cityships.txt. CHELP NAVALPOLICY, Nezaya, 3 Sarapin 927 AF, transcribed from the user's message to records/navalpolicy.txt, preserving spelling and the supplied line structure. verified.js contains clearly labeled editorial summaries and exact-source links/inline text. These are the supplied records, not verification of later revisions. No enemy list is inferred. The 51-topic planned CLHELP catalogue remains separate from the CHELP policy section.

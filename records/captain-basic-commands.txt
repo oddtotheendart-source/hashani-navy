@@ -1,0 +1,60 @@
+Composed by: Rhydian on or about the 8th of Glacian, 883 AF.
+
+This is a quick rundown of some of the basic ship commands you will
+likely be using often as a captain. Thank you to Ilsefi for composing
+this list!
+
+Ship Abilities:
+      - INVOKE SEA SPIRIT
+*Must be done at the figurehead, this is to meld so you can use
+seaspells.
+      - SEASPELL INVESTED - See seaspells prepared for your journey
+      - AURA STATUS - See auras that are up
+      - SHIPWARNING ON - See what ships are moving around you.
+
+Ammunitions:
+      - SHIP AMMO
+      - SHIP AMMO STATUS
+      - SHIP AMMO ADD <crate#>
+      - SHIP AMMO REMOVE <#> <ammunitiontype>
+
+Loading weapons:
+      - LOAD <weapon> WITH <ammo>
+      - LOAD <weapon> WITH <ammo> DIPPED
+
+Unloading weapons:
+      - UNLOAD <ammo> from <weapon>
+
+Firing weapons:
+      - FIRE <weapon> AT <seamonster>
+      - FIRE <weapon> AT <shiptarget>
+
+If the ship has locked on to a target:
+      - FIRE <weapon>
+Ship targeting:
+      - SHIP TARGET LOCK <ship>
+      - SHIP TARGET LOCK CLEAR
+
+Clearing entanglements:
+      - CHOP TETHER when hookshots have grappled.
+      - CLIMB RIGGING , CLEAR RIGGING
+      - CLEAR FIGUREHEAD
+      - CLEAR <weapon>
+*These abilities are channeled so you cannot move until the execution is
+complete.
+
+Fire control:
+       -  FILL BUCKET WITH WATER (requires rope and empty bucket)
+       -  DOUSE ROOM|GROUND
+       -  DOUSE <person>|<item>
+       -  DOUSE FIRE - Be in crows nest and this'll douse sails
+*Must have a bucket and rope in hand to execute these actions upon a
+ship.
+
+Spyglass:
+       - SPYGLASS
+       - SPYGLASS LOOK
+*This will display any seamonsters or ships in a small radius around
+your ship.
+       - SPYGLASS INFO <seamonster>
+*This will show you specific information about a seamonster.
