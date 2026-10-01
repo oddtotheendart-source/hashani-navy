@@ -1,0 +1,73 @@
+clhelp ships
+Composed by: Minkai on or about the 11th of Daedalan, 946 AF.
+
+
+The Court of Shadows currently owns seven Navy ships that you can be
+approved to sail! Please contact the Maritime Minister or one of the
+AIDES MARITIME to begin this process if desired.
+
+After using a Navy ship, you are required to ensure that all stores and
+strongboxes are restored to an acceptable level and the ship is safely
+docked. If you sink, you are going to need to replace the token stores.
+You are welcome to ask the Navy for assistance if you do not know how to
+do this.
+
+
+--Cutters--
+
+#49  HNS Silver Spectre  (hnss)
+** This ship is to be kept at the Valho harbour, though it can be taken
+to visit the Ilyrean Isles.
+
+Strongbox minimum: 10k
+Food stores minimum: 10k
+Token stores minimum: 100
+
+
+#169  HNS Black Wave  (hnbw)
+** This ship is to be kept at the Orilla harbour, though it can be taken
+to visit Prin.
+
+Strongbox minimum: 10k
+Food stores minimum: 10k
+Token stores minimum: 100
+
+
+#898 HNS Dart Tide (hndt)
+** This ship is to be kept at Tuar harbour.
+
+Strongbox minimum: 10k
+Food stores minimum: 10k
+Token stores minimum: 100
+
+
+--Striders--
+
+#154  HNS Edge of Night   (hnen)
+
+Strongbox minimum: 15k
+Food stores minimum: 5k
+Token stores minimum: 318
+
+
+#178  HNS Shadow Tempest   (hnst)
+
+Strongbox minimum: 15k
+Food stores minimum: 5k
+Token stores minimum: 318
+
+
+--Galleys--
+
+#543  HNS Grey Wind   (hngw)
+
+Strongbox minimum: 20k
+Food stores minimum: 5k
+Token stores minimum: 393
+
+
+#835  HNS Verdict of the Court   (hnvc)
+
+Strongbox minimum: 20k
+Food stores minimum: 5k
+Token stores minimum: 393

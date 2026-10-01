@@ -33,6 +33,8 @@ The user supplied successful CLAN MEMBERS output, preserved verbatim in records/
 
 ## Operational source received 2026-10-01
 
+CLHELP SHIPS: Minkai, 11 Daedalan 946 AF, exact text in records/ships.txt. Seven ship IDs and its own minimums/locations appear separately from CITYSHIPS (956 AF). fleet.js explicitly compares cutter identity/location, token, strongbox, and food differences without selecting an authoritative replacement rule. The source dates are preserved; later date alone is not treated as proof of comprehensive supersession. Vasselart's ID remains unknown.
+
 CLHELP HARBOURDIRECTIONS: Rhydian, 7 Glacian 883 AF, preserved in records/harbourdirections.txt. All 15 destination/start/sequence records appear as searchable route cards. These are land directions, not sailing courses. Both Ulangi entries are retained. The attached harbour descriptions/services/fees scroll, same author/date, is copied unchanged to records/harbours.txt and provisionally indexed as harbours because its heading is absent. Bitterfork versus Bitterflow is an unresolved source-name discrepancy. Ulangi north's recorded cost 34463 and capacity 0 are not normalized. No coordinates, return routes, current availability, or corrections are inferred.
 
 Additional captain command list: Rhydian, 8 Glacian 883 AF, crediting Ilsefi, preserved in records/captain-basic-commands.txt. No helpfile topic heading was supplied; routing under basiccommands is provisional and explicitly labeled. commands.js separates the command reference and editorial notes from exact source text. Original angle-bracket arguments, vertical-bar alternatives, capitalization, and the comma-separated rigging line are preserved in the source. The quick reference displays the rigging commands individually.
