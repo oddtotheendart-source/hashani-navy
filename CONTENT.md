@@ -1,0 +1,28 @@
+# Hashani Navy content record
+
+## Provenance
+
+Design and topic routing: ChatGPT conversation “Build Navy Site”, ID `6abe3a3e-1134-83ea-9d80-2041695fbb2c`, retrieved 2026-10-01. Its working explanations are planning material, not original Navy scrolls.
+
+Admiral: the current user instruction supplies “Admiral Elius Mor'akova” and identifies a log as the source. The available conversation confirms Elius as Admiral, but neither the full-name log excerpt nor his description or generated portrait is available in this checkout. The public page identifies this source gap explicitly.
+
+Existing repository artwork is reused unchanged. The extensionless sunrise is an image and is served by browsers as a CSS background. No replacement artwork has been invented.
+
+## Source separation
+
+The at-a-glance displays organize topics, not verified gameplay procedures. All prose in the working reference is editorial. Scroll records reserve space for exact successful CLHELP output and composed-by attribution. Never insert paraphrases into the original-scroll field. Ignore manually typed commands that fail to return a scroll.
+
+## Section / topic map
+
+- Quarterdeck: welcome, whatnow, basiccommands, progression, seafaring.
+- Watch Bill: specialisations, specialists, command, deckhand, helm, watch, weapons.
+- Ship's Book: ships, shiptypes, cityships, crew, newship, buyingaship, shipequipment, shipfitting, seaspells, needammo.
+- Chartroom: mapnew, mapold, harbours, harbourdirections, statues.
+- Battle Stations: ammo, combattraining, combatvolunteers, nwtintro, nwtcrew, nwtstrategy, sailors, targetlist, underattack, sunk.
+- Hunting Chart: seamonsters, seamonsterareas, kraken, deepseadiving, deepseatreasure.
+- Merchant's Ledger: shiptrades, tradecargo, tradedealchart, trademath, traderewards, traderouteguide.
+- Voyage Board: voyages, voyagelist, bounties.
+
+## Outstanding records
+
+All exact scroll bodies; the expressly missing targetlist helpfile; original Admiral log excerpt; Elius portrait; rank hierarchy and advancement requirements; Navy member roster. No gameplay thresholds, coordinates, targets, prices, or member assignments are inferred.
