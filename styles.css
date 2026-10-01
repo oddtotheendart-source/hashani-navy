@@ -60,3 +60,6 @@
 .policy-document h3{font-size:26px;font-weight:700;text-align:center;line-height:1.3;margin:25px 0 30px;color:#30281b}
 .paper-heading{font-weight:700;color:#453824;letter-spacing:2.5px}
 @media(max-width:600px){.policy-parchment .exact-scroll{font-size:15px;line-height:1.8}.policy-document h3{font-size:22px}.policy-parchment .policy-document{padding:8px 12px 8px 4px}}
+.policy-parchment .policy-document,.policy-parchment .policy-document p{color:#21170f}
+.policy-parchment .policy-document h3{color:#21170f}
+.policy-parchment .policy-document .document-command,.policy-parchment .policy-document .document-attribution{color:#352414}
