@@ -63,3 +63,4 @@
 .policy-parchment .policy-document,.policy-parchment .policy-document p{color:#21170f}
 .policy-parchment .policy-document h3{color:#21170f}
 .policy-parchment .policy-document .document-command,.policy-parchment .policy-document .document-attribution{color:#352414}
+.role-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:25px}.role-grid p{font-size:14px}.skills-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:25px}.skills-table{min-width:0;font-size:13px}.skills-table th,.skills-table td{padding:9px}#first-steps,#seafaring-skills{scroll-margin-top:25px}@media(max-width:700px){.role-grid,.skills-grid{grid-template-columns:1fr}}

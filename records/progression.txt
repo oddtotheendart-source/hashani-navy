@@ -1,0 +1,52 @@
+clhelp progression
+Composed by: Jamieo on or about the 23rd of Valnuary, 961 AF.
+
+These are the five roles of the Hashani Navy.
+
+CREWMEN
+- A rank for those who do not yet feel confident on the sea, or are not
+interested in captaining Hashani naval ships.
+- For very new sailors, this role can captain naval ships under the
+observation of a Teacher.
+- This rank will permit you to crew naval ships and view the help
+scrolls.
+- You will become a Crewman upon induction.
+
+
+CAPTAINS
+- A rank for those who know the basics of sailing and the
+responsibilities that come with sailing a city ship.
+- This rank will permit you to captain naval ships following the
+guidelines in CHELP CITYSHIP. Failure to follow these guidelines will
+result in the rank being stripped.
+- To become a Captain, review CHELP CITYSHIP and speak to a Teacher.
+
+
+MERCHANT MARINES
+- A rank for those who know the basics of sailing and the
+responsibilities that come with sailing a city ship, but who DO NOT want
+to engage in ship combat.
+- Merchant Marines have a right to take ships out for voyages, trading,
+and exploration. Merchant Marines are not expected to crew combat ships,
+but can if they like.
+- This rank will permit you to captain naval ships following the
+guidelines in CHELP CITYSHIP. Disobeying the guidelines will result in
+the rank being stripped.
+- To become a Merchant Marine, speak with the Admiral or an Aide.
+
+
+TEACHERS
+- A rank for those who have experience sailing and are willing to teach
+others or answer questions.
+- This rank will allow you to share captain perms to Crewmen while under
+observation, and progress Crewmen to Captains after a short, verbal
+examination.
+- To become a Teacher, speak to the Admiral.
+
+
+AIDES
+- A rank for those who are willing to assist in the maintenance of the
+Hashani Navy fleet and/or its help scrolls.
+- This rank allows access to the funds for refilling strongboxes, and
+permits editing help scrolls within the clan.
+- To become an Aide, speak to the Admiral.

@@ -1,0 +1,27 @@
+clhelp welcome
+Composed by: Minkai on or about the 1st of Lupar, 950 AF.
+
+Welcome to the world of seafaring and the Hashani Navy! We are glad that
+you have decided to join our ranks, and look forward to sailing the seas
+with you. Feel free to peruse the following scrolls at your leisure, and
+as always, we are here to answer questions.
+
+
+CLHELP WHATNOW
+- This scroll talks you through the very basics of Seafaring.
+Recommended for our newest members who are still learning to crew.
+
+CLHELP PROGRESSION
+- This scroll lays out the roles of the Navy, and the requirements for
+each one.
+
+CHELP CITYSHIP
+- This scroll details the city policy regarding the use of the Hashan
+Navy Fleet. Essential reading for those who want to captain Navy ships,
+as misuse of the ships will result in permissions being stripped.
+
+CHELP NAVALPOLICY
+- This scroll details the city policy regarding foreigners upon the sea.
+
+HELP 23
+- This is a list of all public Seafaring-related scrolls.

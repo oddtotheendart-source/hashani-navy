@@ -1,0 +1,66 @@
+clhelp whatnow
+Composed by: Elyra on or about the 20th of Daedalan, 833 AF.
+
+Hail, Sailor!
+
+You've joined the Navy and you want to help out, but you're not sure
+how? Great, you're in the right place.
+
+Firstly, you don't need skill in seafaring to be useful, though it will
+help. Getting your marque (HELP MARQUE) even if you can't put lessons in
+seafaring yet will also help you gain your sea legs.
+
+Everyone in the Navy should, irrelevant of skill in seafaring, have this
+equipment on hand at all times, and know how to use it:
+An empty bucket (HELP BUCKETS, bought from Rurin's shops in the Bazaar)
+A piece of rope (Commodity - bought from the City commodity shop in the
+Bazaar, or the CM)
+-With the rope and bucket in your inventory (stash this in your rift
+when you leave realm or it will drop out) you can FILL BUCKET WITH WATER
+from a ship's deck.
+-Then you can DOUSE ROOM to put out a fire once you've located it.
+
+*A magi can also FLOOD the room to put out fires.
+
+A ship's axe (Crafted by a Shipfitter for 15 wood and 15 iron, TRADEWHO
+SHIPFITTING)
+-When an enemy ship fires a hook shot at your ship, this will tether
+your ships together and stop you from escaping, find the hook and CHOP
+HOOK or CHOP TETHER to get rid of it. This is a CHANNELED action, that
+means it will take time to complete and you can interrupt it if you try
+to do anything before it's finished.
+
+Once you have these things and know how to use them reliably and
+quickly, congrats, you can ask to be moved to the role of 'Deckhand' in
+the Navy. You are now a useful part of the crew!
+
+If you do have some Seafaring Promotion Points (SPP), then you're even
+more useful! The first, most important skill you can pick up is weapons
+II. This only takes 3 SPP. It will allow you to load a weapon without
+using balance and dip your ammunition to set your target on fire. Make
+sure your reflexes allow you to quickly do the following:
+
+-Load each of the three ship weapons with their various types of
+ammunition, both dipped and undipped. (HELP SHIP WEAPONS) and know what
+each does.
+-Fire these weapons at ships (your captain will lock your target, you
+just need to FIRE WEAPON once your ammo is ready. For this you use
+dipped ammunition if a vat is available and it makes sense for that
+ammunition.
+-Fire these weapons at seamonsters (You need to FIRE BALLISTA AT
+SEAMONSTER, for example), you will always use undipped ammo for
+seamonsters, dipping it is just wasting your vats.
+-Know how to CLEAR weapons (CLEAR BALLISTA, CLEAR THROWER, CLEAR ONAGER)
+when they are hit with Spidershot.
+-Know how to access the sails and rigging and CLEAR them too, and DOUSE
+SAILS if they're on fire.
+-Know how to AURA ACTIVATE and AURA SWITCH and what Auras you have
+available at what levels.
+
+NOTE: CLEARING and FIRING are both channeled actions and can be
+interrupted by your curing or actions.
+
+For further information about how to progress in the Navy, read CLHELP
+PROGRESSION.
+
+

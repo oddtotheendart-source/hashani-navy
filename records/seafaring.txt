@@ -1,0 +1,79 @@
+clhelp seafaring
+Composed by: Tydas on or about the 8th of Scarlatan, 730 AF.
+
+
+    Seafaring Skill Information
+
+The following are a series of charts demonstrating how skill progression
+works in Seafaring. The first chart shows how many lessons in total are
+needed for each ability. In the upper right is a chart showing how many
+SPP's are gained at each rank in Seafaring. The last five charts show
+what you gain in the specialisation, and the rank you gain it it. Some
+specialisations don't have advantages at certain ranks, and some have
+multiple abilities per rank.
+
+To see details on each specialisation's ability, and the location of the
+teacher for that specialisation, please check CLHELP <specialisation>.
+
+Also remember that the SPP cost for a rank in a specialisation increases
+by one for each rank you've already obtained. A maximum of fifteen SPP's
+are required to master a specialisation.
+
+
+  o===========================o       o============================o
+ /       Seafaring Skill       \     /        Seafaring SPPs        \
+o-------------------------------o   o--------------------------------o
+|   Ability             Lessons |   |   Rank           SPPs   Total  |
+|   Sealegs             0       |   |   Inept           1       1    |
+|   Hunger              0       |   |   Novice          1       2    |
+|   Shipaura            0       |   |   Apprentice      1       3    |
+|   Shipmeld            0       |   |   Capable         1       4    |
+|   Dodging             9       |   |   Adept           2       6    |
+|   Mast                16      |   |   Skilled         2       8    |
+|   Crossplank          23      |   |   Gifted          2       10   |
+|   Harbourinfo         34      |   |   Expert          3       13   |
+|   Rigging             45      |   |   Virtuoso        3       16   |
+|   Sounding            52      |   |   Fabled          4       20   |
+|   Fireweapon          67      |   |   Mythical        5       25   |
+|   Command             89      |   |   Transcendent    7       32   |
+|   Shipwho             112     |   o================================o
+|   Shipscan            245     |
+|   Weaponaiming        289     |
+|   Deepseafishing      356     |
+|   Deepseadiving       378     |
+|   Seaspells           423     |
+|   Seaprayer           500     |     o============================o
+|   Bearings            578     |    /            Watch             \
+|   Shipwarning         841     |   o--------------------------------o
+|   Cooking             910     |   |   Skill             Spec Rank  |
+|   Sailmaintenance     1082    |   |--------------------------------|
+|   Hullmaintenance     1255    |   |   Watchaura             I      |
+|   Mapscribe           1427    |   |   Spyglass              II     |
+|   Etch                1565    |   |   Anticipate            III    |
+|   Shipreturn          1703    |   |   Shipwho other ships   IV     |
+|   Homeport            1738    |   |   Faster chop sailing   V      |
+o===============================o   o================================o
+
+  o============================o      o============================o
+ /           Command            \    /           Deckhand           \
+o--------------------------------o  o--------------------------------o
+|   Skill             Spec Rank  |  |   Skill             Spec Rank  |
+|   Commandaura           I      |  |   Deckhandaura          I      |
+|   Fleetsense            II     |  |   Salvageops            II     |
+|   Keelhaul              III    |  |   Cook good stores      III    |
+|   Commscreen            IV     |  |   Plundering            IV     |
+|   Remote                V      |  |   Fire suppression      V      |
+o================================o  o================================o
+
+  o============================o      o============================o
+ /             Helm             \    /           Weapons            \
+o--------------------------------o  o--------------------------------o
+|   Skill             Spec Rank  |  |   Skill             Spec Rank  |
+|   Helmaura              I      |  |   Status                I      |
+|   Steadygoing           II     |  |   Weaponsaura           I      |
+|   Emergencies           II     |  |   Loadweapon            I      |
+|   Smartorder            III    |  |   Ammoenhancement       II     |
+|   Evasives              IV     |  |   Weaponmaintenance     III    |
+|   Jink                  IV     |  |   Grappling             IV     |
+|   Rowing boost          V      |  |   Fast target leaking   V      |
+o================================o  o================================o
