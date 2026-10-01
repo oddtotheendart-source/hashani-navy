@@ -1,0 +1,54 @@
+clhelp tradedealchart
+Composed by: Minkai on or about the 7th of Phaestian, 930 AF.
+
+|                      T R A D E D E A L   C H A R T                   |
+
+
+  _________   _________   _________   _________   _________   _________
+ |  SALT   | |  WOOL   | |SANDSTONE| | COTTON  | |  GRAIN  | |   ORE   |
+ | (ZAPH)  | | (TASUR) | | (SHAST) | | (SHAST) | | (THRAS) | | (THRAS) |
+ |  1000g  | |  1000g  | |  1000g  | |  1000g  | |  1000g  | |  1000g  |
+   Minos       Suliel     Tasur'ke     Orilla       Zaphar    Zanzibaar
+     4:3         1:1         4:3         4:3         4:3         4:3
+      V           V           V           V           V           V
+  _________   _________   _________   _________   _________   _________
+ |  HONEY  | |   FUR   | | GRANITE | |  TERRA  | |  SUGAR  | |  FRUIT  |
+ |         | |         | |         | |  COTTA  | |         | |         |
+   Karbaz     Shastaan      Karbaz    Zanzibaar    Tasur'ke    Thraasi
+     3:2         4:3         3:2         3:2         3:2         3:2
+      |           V           |           |           |           |
+      |       _________       |           |           |           |
+      |      |  HEMP   |      |           |           |           |
+      |   Karbaz     Karbaz   |           |           |           |
+      |    3:2         3:2    |           |           |           |
+      V   v              V    V           V           V           V
+  _________               _________   _________   _________   _________
+ |CERAMICS |             | MARBLE  | |   TEA   | |  KAWHE  | |  GLASS  |
+ |         |<--          |         | |         | |         | |         |
+  |     |    Mysia 2:3    |       |    Minos     /    | Shala-Khulia |
+  |     |         \       |        |    3:2     /     |     3:2      |
+  |   Umbrin       \    Colchis    Minos |     /     Suliel   |      |
+  |    3:2          \    3:2        3:2  |   Umbrin      3:2  |      |
+ Mysia  |            \    |           |  |    2:3         |   |      |
+  2:3   V             \   V           V  V     |          V   V  Colchis
+  | _________          \ _________      _________           ________2:3
+   |PORCELAIN|    ---->|  SILK   |    |  WINE   |         | INCENSE |-
+   |         |    |    |         |    |         | ------->|         |
+    ---------  Agiero   ---------      ---------  |        ---------
+          |      2:3      /              /    ^   |           |
+         Mysia    |   Mysia         Umbrin   |            Colchis
+          3:2     |    3:2           3:2     | Shastaan      3:2
+            |     |   /              /       |     2:3      /
+             V    |  V              V        |             V
+              _________           _________  Zanzibaar _________
+             |         |         |         |  3:2     |         |
+             |  TABAC  |         |ARMAMENTS|   |      | PERFUME |
+                  |          Thraasi  |           Zanzibaar  |
+               Ageiro          1:2    |              1:2     |
+                 2:1          /   Zanzibaar          /    Shastaan
+                  |      _________   2:1     _________      2:1
+                  |     | SPICES  |<---     |  GEMS   |<-----
+
+Original design ideal and research by Favonius Stormcrow-Xanatov
+Charting by Lisbethe Etienne Le'Murzen-Sparrow
+

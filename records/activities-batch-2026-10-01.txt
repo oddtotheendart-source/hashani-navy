@@ -1,0 +1,1442 @@
+Activities
+bounties         deepseadiving    deepseatreasure  kraken           seamonsterareas  seamonsters      shiptrades      
+tradecargo       tradedealchart   trademath        traderewards     traderouteguide  voyagelist       voyages
+
+Guides
+buyingaship    crew           mapold         needammo       newship        seaspells      shipequipment  shipfitting   
+statues
+
+Misc
+cityships
+= Sl Furl - hp 99%,Hl: 99%,Wd SE@30kts,Cr/Sp N@0,Sea Rough
+clhelp bounties
+Composed by: Atul on or about the 17th of Valnuary, 932 AF.
+
+Hashan Navy Bounty Board
+
+To claim a bounty, report your successful mission to the Admiral,
+Ministry of Defense, or a Regent.
+Only one bounty can be claimed at a time.
+The board is subject to change at any time.
+
+Eligibility
+Be a Petty Officer or Battle Officer.
+Complete the bounty as the Captain of an HN vessel.
+Sailors of a lower rank can crew for an Officer and use the battle
+experience towards promotion.
+
+
+Permanent Bounties
+
+BOUNTY: Sink a city enemy
+REWARD: 30,000 gold
+STATUS: OPEN. REPEATABLE
+*This can be claimed multiple times at once with a cap of 200k gold per
+year*
+
+
+Current Bounties
+
+BOUNTY: Sink Landon
+REWARD: 50,000 gold
+STATUS: OPEN
+
+BOUNTY: Sink the Last Word
+REWARD: 50,000 gold
+STATUS: OPEN
+
+BOUNTY: Sink Artanis
+REWARD: 50,000 gold
+STATUS: OPEN
+
+BOUNTY: Ashtani Ships (ANS, private owned, or Captained by Ashtani)
+REWARD: 50,000 gold
+STATUS: OPEN
+
+If you wish to have something added or removed from the bounty list,
+contact the Admiral.
+
+Happy hunting,
+Admiral Atul
+= Sl Furl - hp 99%,Hl: 99%,Wd SE@30kts,Cr/Sp N@0,Sea Rough
+clhelp deepseadiving
+Composed by: Alizais on or about the 19th of Valnuary, 947 AF.
+
+DEEP SEA DIVING by Czanthria
+Table of Contents
+1. Deep Sea Diving - the grid while sailing
+2. Deep Sea Diving - ocean floor maps for diving
+3. Deep Sea Diving - creatures
+4. Deep Sea Diving - treasure chests
+5. Deep Sea Diving - techniques, tips, and tricks
+
+1. Deep Sea Diving - the grid while sailing
+There are 13 different ocean floor areas. Each one is depicted in the
+grid below by the first letter of the name of the ocean floor area and
+cooresponds to the sea floor map below that.
+
+Each letter in the grid is a 10x10 metron square of the ocean. Meaning,
+if you dive and are in "Cave around an undergroun volcano" depicted by
+the letter C, if you move your ship east 10 metrons, you will then dive
+and be in "On an Abysmal floor" depicted by the letter O.
+
+Raising the bell while any individual remains on the ocean floor kills
+them.
+
+Notes about deep sea diving are below the individual maps.
+
+    --The Grid--
+    COWRMPITNBAJF
+    MPITNBAJFCOWR
+    NBAJFCOWRMPIT
+    FCOWRMPITNBAJ
+    RMPITNBAJFCOW
+    TNBAJFCOWRMPI
+    JFCOWRMPITNBA
+    WRMPITNBAJFCO
+    ITNBAJFCOWRMP
+    AJFCOWRMPITNB
+    OWRMPITNBAJFC
+    PITNBAJFCOWRM
+    BAJFCOWRMPITN
+
+2. Deep Sea Diving - ocean floor maps for diving
+There are 13 distinct and separate locations, total is over 180 rooms
+
+Map Legend
+o = location of the diving bell when on the ocean floor
+? = hidden exit/entrance
+ A. Amidst the wreckage of a ship | B. Between Submerged Boulders
+         x-o-x                    |            x     o x
+ C. Cave around an underground    | F. Far below waves
+     volcano                      |
+        |/ /     \ \              |              x x--x     R
+              o   x               |          |\ /|       /|\|
+             / \                  |          | o |      x | x
+| R - south returns you to same room
+ I. In the murky depths           | J. Inside a chasm of coral
+        x--x--x                   |              o
+        x--o--x                   |              |
+ M. Murky Chasm                   | N. Near remains of gigantic Crabs
+         x---x-x-o                |               x    |
+                                  |           x   o
+ O. On an Abysmal floor           | P. Winding paths between sea
+                                  |      mountains
+       x     o     x              |        \ / \ /|
+        \   ? \   /               |         x   o |
+ R. Ruins of an undersea temple   | T. A twisting reef
+                      2   1       |                      x
+    x-x         x   / |           |               x   2--x
+      |/       \   x  |           |               |   | 1
+                 x   1|           |               |   x
+              x   o   x           |               x x   x x x
+                x   x             |             o?x x x   x
+ 1 - takes you to 2               | 1 - takes you to 2
+ W. Within the bleak and
+     caliginous ocean
+
+          x-o   x
+
+
+3. Deep Sea Diving - creatures
+Ocean Floor Sea Creatures (name, temperment, reagent)
+  malevolent sea dragon, aggressive, seadragonscales
+    seadragonscales - AB SHIPFITTING GIRDING
+  redfin tuna, aggressive, fishscales
+  duskfin tuna, aggressive, fishscales
+  pale, four-fin ray, aggressive, fishscales
+  silver sea spider, aggressive, meat/fat
+  fangtooth, aggressive, fishscales
+  coelacanth, aggressive, fishscales
+
+  hippocampi, peaceful, meat/fat, protected by Lord Neraeos
+  turtle, peaceful, runner, meat/fat
+  merrow, peaceful, meat/fat
+  geryas, peaceful, meat/fat
+  hideaway nautilus, peaceful, meat/fat
+  two-headed fish, peaceful, fishscales
+  hatchetfish, peaceful, fishscales
+  peppermint stripefish, peaceful, fishscales
+  whiskerknot skrei, peaceful, fishscales
+  millstone, peacefull, runner, fishscales
+  cucumber, peaceful, meat/fat
+
+4. Deep Sea Diving - treasure chests
+Chests
+a steel-encased strongchest
+   A large steel-encased strongchest sits conspicuously on the ground,
+     coated with silt.
+   Key will fall out of a corpse or can be dug up. If you do not find
+     the key, TURN CHEST HANDLE RIGHT
+   Gold: 500 to 22000
+
+a coral-encrusted chest
+   A coral-encrusted chest of moderate size blends in with its
+     surroundings.
+   PUSH CHEST every time it remains stuck
+   Gold: under 1000
+
+a strongchest of pale bone
+   A large strongchest embellished with pale bone sits unobtrusively
+     on the side.
+   OPEN WITH EXTREME CAUTION
+   Gold: I've opened 2. One was 22k the other was 45k. Salvage cost
+     me 20k.
+
+5. Deep Sea Diving - techniques, tips, and tricks
+1.  Leadlines are your friend. Any shipfitter can make one for you.
+      TRADEWHO SHIPFITTING. It requires 10 leather and 40 rope.
+      SHIP TAKE SOUNDING will tell you ahead of time if it's a good
+      location to dive and deep sea fish.
+2.  If you do not have a diamond-tipped shovel, take extras. They will
+      break.
+3.  Post one person topside deep sea fishing to serve as look out.
+4.  Do not raise the bell until everyone is accounted for.
+5.  You can return topside as soon as you are in the bell, while it
+      remains on the ocean floor just SHIP LEAVE BELL. You cannot
+      re-enter the bell until it's topside.
+6.  You do not have to raise the bell the entire way each time you dive.
+      Once you see brightness you can SHIP LOWER BELL. "The bell
+      continues its ascent into the brightness above."
+7.  Recommendations: Kill the aggressives, they are more likely to drop
+      a key. Kill the other creatures. Dig the entire area. Then if you
+      still have not found a key and have a steel-encased strongchest,
+      TURN CHEST HANDLE RIGHT.
+8.  Most of your dives will be one bell. Anything above one bell is more
+      likely to have a sea dragon. Those happen once a month, per sea
+      floor area.
+9.  When you cook, severed fingers are worth good gold, if one falls
+      out of the sea creature keep it, AB SHIPFITTING SCRIMSHAW.
+10. Pale bone chests - good gold, lots of risk. You open these up with
+      the skeleton keys made through shipfitting. At the moment you
+      unlock the chest, you have a random chance of summoning a sea
+      monster. Beware, I did not summon a level 1, I summoned a level 5.
+      2 chomps and my cutter was sunk. So get the gold and put it in
+      your pack, FAST and take necessary steps for this potential event.
+11. CLHELP DEEPSEATREASURE in the Hashan Navy clan gives you a list of
+      the items you might dig up, when digging on the ocean floor.
+12. All deep sea creatures can be used to cook; except dragons, spiders,
+      hippocampi, and merrow.
+13. You can butcher all creatures before cooking them.
+14. Activating Helm Aura level 5 is 20 pts to crew morale per creature
+      as you cook them.
+15. Deckhand level 1 or 2 adds 200 common food to larder per creature.
+      Deckhand level 3 to 5 adds 200 good food to larder per creature.
+16. A Sailors' Decree artefact allows you to specialise anywhere on
+[Type MORE if you wish to continue reading. (98% shown)]
+= Sl Furl - hp 99%,Hl: 99%,Wd SE@30kts,Cr/Sp N@0,Sea Rough
+clhelp deepseatreasure
+Composed by: Rhydian on or about the 8th of Glacian, 883 AF.
+
+If you like to deepsea dive, this is a list of treasures that can be
+found deep in the oceans. They are listed in order of rarity, from
+common junk to valued treasures.
+
+a silver seashell hand mirror
+a tarnished silver bell
+a corroded key
+a rune-inked amphora
+a small chest decorated with mermaids
+a miniscule icon
+a water-worn idol
+A long, humanoid bone
+a battered old music box
+a jawless humanoid skull
+a complex key
+an onyx pendant
+a rusty, oyster-encrusted axe
+rusty iron shackles
+a barnacled sextant
+a dodecahedral box
+an antique mahogany music box
+a curved steel cutlass with a mermaid hilt
+a chipped glass goblet
+a barnacle-encrusted narwhal horn
+a clear glass jar
+a bone dagger etched with scrimshaw
+a clawed gauntlet
+a thin ring
+a rotting unicorn figurehead
+
+You can get these by using a shovel to dig in each location, by killing
+things, and opening chests.
+
+Coral chests - smaller amounts of gold, opened by turn/push/pull/twist
+chest over and over until unlocked.
+
+Steel strongbox chests - open via 'turn chest handle right' once and
+waiting a long period of time.
+
+Note: Some chests may require a key fallen from a kill or dug up.
+
+Note: If you don't own the artefact shovel, it is advisable to take more
+than one with you, as they can break down there, leaving you
+shovel-less.
+
+= Sl Furl - hp 99%,Hl: 99%,Wd SE@30kts,Cr/Sp N@0,Sea Rough
+clhelp deepseadiving
+Composed by: Alizais on or about the 19th of Valnuary, 947 AF.
+
+DEEP SEA DIVING by Czanthria
+Table of Contents
+1. Deep Sea Diving - the grid while sailing
+2. Deep Sea Diving - ocean floor maps for diving
+3. Deep Sea Diving - creatures
+4. Deep Sea Diving - treasure chests
+5. Deep Sea Diving - techniques, tips, and tricks
+
+1. Deep Sea Diving - the grid while sailing
+There are 13 different ocean floor areas. Each one is depicted in the
+grid below by the first letter of the name of the ocean floor area and
+cooresponds to the sea floor map below that.
+
+Each letter in the grid is a 10x10 metron square of the ocean. Meaning,
+if you dive and are in "Cave around an undergroun volcano" depicted by
+the letter C, if you move your ship east 10 metrons, you will then dive
+and be in "On an Abysmal floor" depicted by the letter O.
+
+Raising the bell while any individual remains on the ocean floor kills
+them.
+
+Notes about deep sea diving are below the individual maps.
+
+    --The Grid--
+    COWRMPITNBAJF
+    MPITNBAJFCOWR
+    NBAJFCOWRMPIT
+    FCOWRMPITNBAJ
+    RMPITNBAJFCOW
+    TNBAJFCOWRMPI
+    JFCOWRMPITNBA
+    WRMPITNBAJFCO
+    ITNBAJFCOWRMP
+    AJFCOWRMPITNB
+    OWRMPITNBAJFC
+    PITNBAJFCOWRM
+    BAJFCOWRMPITN
+
+2. Deep Sea Diving - ocean floor maps for diving
+There are 13 distinct and separate locations, total is over 180 rooms
+
+Map Legend
+o = location of the diving bell when on the ocean floor
+? = hidden exit/entrance
+ A. Amidst the wreckage of a ship | B. Between Submerged Boulders
+         x-o-x                    |            x     o x
+ C. Cave around an underground    | F. Far below waves
+     volcano                      |
+        |/ /     \ \              |              x x--x     R
+              o   x               |          |\ /|       /|\|
+             / \                  |          | o |      x | x
+| R - south returns you to same room
+ I. In the murky depths           | J. Inside a chasm of coral
+        x--x--x                   |              o
+        x--o--x                   |              |
+ M. Murky Chasm                   | N. Near remains of gigantic Crabs
+         x---x-x-o                |               x    |
+                                  |           x   o
+ O. On an Abysmal floor           | P. Winding paths between sea
+                                  |      mountains
+       x     o     x              |        \ / \ /|
+        \   ? \   /               |         x   o |
+ R. Ruins of an undersea temple   | T. A twisting reef
+                      2   1       |                      x
+    x-x         x   / |           |               x   2--x
+      |/       \   x  |           |               |   | 1
+                 x   1|           |               |   x
+              x   o   x           |               x x   x x x
+                x   x             |             o?x x x   x
+ 1 - takes you to 2               | 1 - takes you to 2
+ W. Within the bleak and
+     caliginous ocean
+
+          x-o   x
+
+
+3. Deep Sea Diving - creatures
+Ocean Floor Sea Creatures (name, temperment, reagent)
+  malevolent sea dragon, aggressive, seadragonscales
+    seadragonscales - AB SHIPFITTING GIRDING
+  redfin tuna, aggressive, fishscales
+  duskfin tuna, aggressive, fishscales
+  pale, four-fin ray, aggressive, fishscales
+  silver sea spider, aggressive, meat/fat
+  fangtooth, aggressive, fishscales
+  coelacanth, aggressive, fishscales
+
+  hippocampi, peaceful, meat/fat, protected by Lord Neraeos
+  turtle, peaceful, runner, meat/fat
+  merrow, peaceful, meat/fat
+  geryas, peaceful, meat/fat
+  hideaway nautilus, peaceful, meat/fat
+  two-headed fish, peaceful, fishscales
+  hatchetfish, peaceful, fishscales
+  peppermint stripefish, peaceful, fishscales
+  whiskerknot skrei, peaceful, fishscales
+  millstone, peacefull, runner, fishscales
+  cucumber, peaceful, meat/fat
+
+4. Deep Sea Diving - treasure chests
+Chests
+a steel-encased strongchest
+   A large steel-encased strongchest sits conspicuously on the ground,
+     coated with silt.
+   Key will fall out of a corpse or can be dug up. If you do not find
+     the key, TURN CHEST HANDLE RIGHT
+   Gold: 500 to 22000
+
+a coral-encrusted chest
+   A coral-encrusted chest of moderate size blends in with its
+     surroundings.
+   PUSH CHEST every time it remains stuck
+   Gold: under 1000
+
+a strongchest of pale bone
+   A large strongchest embellished with pale bone sits unobtrusively
+     on the side.
+   OPEN WITH EXTREME CAUTION
+   Gold: I've opened 2. One was 22k the other was 45k. Salvage cost
+     me 20k.
+
+5. Deep Sea Diving - techniques, tips, and tricks
+1.  Leadlines are your friend. Any shipfitter can make one for you.
+      TRADEWHO SHIPFITTING. It requires 10 leather and 40 rope.
+      SHIP TAKE SOUNDING will tell you ahead of time if it's a good
+      location to dive and deep sea fish.
+2.  If you do not have a diamond-tipped shovel, take extras. They will
+      break.
+3.  Post one person topside deep sea fishing to serve as look out.
+4.  Do not raise the bell until everyone is accounted for.
+5.  You can return topside as soon as you are in the bell, while it
+      remains on the ocean floor just SHIP LEAVE BELL. You cannot
+      re-enter the bell until it's topside.
+6.  You do not have to raise the bell the entire way each time you dive.
+      Once you see brightness you can SHIP LOWER BELL. "The bell
+      continues its ascent into the brightness above."
+7.  Recommendations: Kill the aggressives, they are more likely to drop
+      a key. Kill the other creatures. Dig the entire area. Then if you
+      still have not found a key and have a steel-encased strongchest,
+      TURN CHEST HANDLE RIGHT.
+8.  Most of your dives will be one bell. Anything above one bell is more
+      likely to have a sea dragon. Those happen once a month, per sea
+      floor area.
+9.  When you cook, severed fingers are worth good gold, if one falls
+      out of the sea creature keep it, AB SHIPFITTING SCRIMSHAW.
+10. Pale bone chests - good gold, lots of risk. You open these up with
+      the skeleton keys made through shipfitting. At the moment you
+      unlock the chest, you have a random chance of summoning a sea
+      monster. Beware, I did not summon a level 1, I summoned a level 5.
+      2 chomps and my cutter was sunk. So get the gold and put it in
+      your pack, FAST and take necessary steps for this potential event.
+11. CLHELP DEEPSEATREASURE in the Hashan Navy clan gives you a list of
+      the items you might dig up, when digging on the ocean floor.
+12. All deep sea creatures can be used to cook; except dragons, spiders,
+      hippocampi, and merrow.
+13. You can butcher all creatures before cooking them.
+14. Activating Helm Aura level 5 is 20 pts to crew morale per creature
+      as you cook them.
+15. Deckhand level 1 or 2 adds 200 common food to larder per creature.
+      Deckhand level 3 to 5 adds 200 good food to larder per creature.
+16. A Sailors' Decree artefact allows you to specialise anywhere on
+[Type MORE if you wish to continue reading. (98% shown)]
+= Sl Furl - hp 99%,Hl: 99%,Wd SE@30kts,Cr/Sp N@0,Sea Rough
+more
+[File continued via MORE]
+      land.
+      You do not need to sail to the specialists. ARTSEARCH SEAFARING
+
+Questions or concerns, contact Czan
+= Sl Furl - hp 99%,Hl: 99%,Wd SE@30kts,Cr/Sp N@0,Sea Rough
+clhelp kraken
+Composed by: Icraa on or about the 21st of Mayan, 923 AF.
+
+Icraa's quick tips on fighting the kraken
+- you want to start the fight, firing at TENTACLE and not SEAMONSTER,
+since you might find yourself trying to aim for the kraken itself while
+one of its tentacles is wrapping itself around your ship
+
+- go around near the edge in a circle, most of the times everyone does
+this in a clockwise motion
+
+- try to stay at the max of ballista range, the kraken really hurts up
+close (and rip you off the figurehead) but cant even touch you if you
+are far enough away
+
+- if you find yourself getting hit by the kraken, your ONLY priority is
+to get outside his hitting range, if your hull gets low dont be afraid
+to go to the very edge and anchor down for repairs, and keep an eye on
+the incoming kraken, as it most likely have not lost sight of you
+
+- having one on your ship hitting with starshots and spidershots can
+make it a bit easier should you be so unfortuante to find yourself
+inside the reach of the kraken
+
+- finally, every ship that survives the battle also gets a tentacle, so
+pace yourself according to your own skill level, try to stay afloat and
+good luck!
+
+This scroll is in development. If you have information you wish to
+provide on how we can help our Navy annually summon the Kraken, please
+reach out.
+
+See CLHELP VOYAGELIST for a list of other available voyages.
+= Sl Furl - hp 99%,Hl: 99%,Wd SE@30kts,Cr/Sp N@0,Sea Rough
+clhelp seamonsterareas
+Composed by: Rhydian on or about the 8th of Glacian, 883 AF.
+
+Seamonsters can occasionally surface anywhere at sea. However, they are
+concentrated in certain areas, as listed below.
+
+EASTERN
+
+Caspite Reaches in the Borean Ocean - large area east of Falaq'tor,
+north of Valho. To avoid, once you are parallel with Valho harbour
+travel northeast until you can go no farther. Follow the easternmost
+channel north. These are level 4 and higher monsters.
+
+Bay of Dardanos - Huge area west of Minos. Draw an imaginary line from
+Tenwat harbour south, and stay east of it. These are mainly level 3
+monsters.
+
+Scyrian Reaches, directly east of Tasur'ke past the hard chops then NE
+to the statue of Lord Neraeos. These are mainly level 3 monsters.
+
+Southern Riparian Reaches, Northern Phocian Reaches. Medium sized area,
+directly east of Ulangi. It is between and amongst the slow go chops.
+This area is a level 5 area, windcutters beware.
+
+Eastern Phocian Reaches. Medium sized area, south-southeast of
+Zanzibaar. Drop south from the Zanzibaar harbour and as soon as you
+clear land head east. It's about 40 metrons east. These are level 4
+monsters.
+
+Notic Ocean. Medium sized area, directly east of Zaphar Isle. These are
+level 1 monsters.
+
+WESTERN
+
+Notic Ocean. Smallish area, south-southwest of Tapoa. These are level 2
+monsters except for the occasional Kashari raider, which is level 3.
+
+Sapphire Sea. Medium sized area, directly northwest of the Ashtan
+Harbour. Level 1s.
+
+Northern Sapphire Sea. Medium sized area, directly west of Phereklos
+harbour. Level 3s.
+
+
+NORTHERN
+
+Borean Ocean. Smallish area, directly north of Karbaz.
+
+Borean Ocean. Tiny area, along the coast directly north of the Vents of
+Hthrak.
+
+= Sl Furl - hp 99%,Hl: 99%,Wd SE@30kts,Cr/Sp N@0,Sea Rough
+clhelp seamonsters
+Composed by: Micharoj on or about the 17th of Ero, 914 AF.
+
+Seamonsters can be killed by shooting discs from a thrower and darts
+from a ballista at the monster. You can not target a seamonster like
+another ship, you must FIRE <weapon> AT SEAMONSTER. Darts and discs both
+count as the same thing, one shot.
+
+Firing from an onager:
+
+Spidershot   - Decrease the damage of a seamonster's next attack.
+
+Starshot     - Slow a seamonster's attack speed for a short time.
+
+Chainshot    - Slow a seamonster's movement speed for a short time.
+
+Flares - Stop a monster moving for a short time, fired from any weapon
+
+Chainshot and flares are useful if you are trying to escape a randomly
+drawn seamonster while sailing somewhere.
+
+
+
+Seamonster hunters like to classify monsters on different levels. Each
+level has a specific amount of shots from darts/discs to kill it.
+
+Level 1 - 20 shots
+Level 2 - 25 shots
+Level 3 - 30 shots
+Level 4 - 40 shots
+Level 5 - 60 shots
+
+For quick reference:
+
+
+1 - Flying Sheilei, Foam-Wreathed Sea Serpent, Mudback Septacean,
+Red-Faced Septacean
+
+Beware of close-ranged attacks on hull and sails (rarely both), very
+rarely sail entanglement, and little on-board adventurer damage.
+
+Monsters here take 20 hits to die, and trophies turn in for 5000 gold.
+
+--NESTS:
+There are no currently known nests for this type of monster, however
+they can be found through random encounters.
+
+
+2 - Mass of Sargassum, Gargantuan Angler Fish, Gargantuan Megalodon,
+Raging Shraymor
+
+Beware of mid-ranged attacks on hulls and sails (often both), common
+sail entanglement, and low on-board adventurer damage
+
+Monsters here die within 25 hits, and trophies turn in for 7500 gold.
+
+--NESTS:
+Southwest of Tapoa, around the statue (occasionally spawns level 3
+raiders)
+
+
+3 - Furious Sea Dragon, Pirate Ship, Red-Sailed Kashari Raider, Trio of
+Raging Sea Serpents
+
+Beware of mid-ranged, strong attacks on hulls and sails (often both),
+common sail entanglement, disruption of shipmelding, and low-medium
+on-board adventurer damage.
+
+Monsters here take 30 hits to die, and trophies turn in for 15000 gold.
+
+--NESTS:
+Southwest of Tapoa, around the statue (only raiders)
+*Northeast of Clockwork Isle, around the statue in the chops
+*South of Tenwat Harbour
+*BEWARE that these nests have a low chance of spawning a surprise
+leviathan
+
+
+4 - Monstrous Ketea, Monstrous Picaroon, Sea Hag, Unmarked Warship
+
+Beware of long-ranged, strong attacks on hulls and sails (often both),
+common sail entanglement, disruption of shipmelding and dragon-level
+on-board adventurer damage.
+
+Monsters here take 40 hits to die, and trophies turn in for 50000 gold.
+
+--NESTS:
+*East of Zanzibaar, south of the statue
+*West of Phereklos
+*BEWARE that these nests have a low chance of spawning a surprise
+leviathan
+
+
+5 - Hulking Oceanic Cyclops, Legendary Leviathan, Towering Oceanic Hydra
+
+Beware of long-ranged, very strong attacks on hulls and sails (often
+both), common sail entanglement, disruption of shipmelding, preventionof
+wavecall, and dragon-level on-board adventurer damage.
+
+Monsters here take 60 hits to die, and trophies turn in for 100000 gold.
+
+--NESTS:
+South of Clockwork Isle, through the straits
+
+
+Observed seamonsters include:
+
+FLYING SHEILEI (level 1 - 20 shots)
+The serpentine body of this sheilei shimmers with translucent golden
+scales, measuring more than nine feet in length. Its tail fin nearly
+doubles the length, however, lashing back and forth like a cat's tail. A
+pair of broad, flat pectoral fins extend outward like aqueous wings,
+delicate in appearance yet powerful enough to propel the creature out of
+the water. The most striking feature of the monster, however, is its
+broad jaw and enormous mouth, filled with three rows of razor-sharp
+teeth that curve and twist, locking together like a tangle of briars.
+
+FOAM-WREATHED SEA SERPENT (level 1 - 20 shots)
+Almost a league in true length, the serpentine motions of this great sea
+snake hides half of its sinuous coils beneath the surface of the waves.
+Iridescent fins frill along the undulating body, enabling propulsion
+through the deep waters of the ocean and churning up pallid seafoam with
+their passage above and beneath the surf. Akin to its landbound cousins,
+but much multiplied in size, the monster's head is that of the classic
+snake's in shape, but larger than a troll. Black eyes stare dully out
+from the blue mottled scaling, and a great forked tongue tastes the
+tidal spray, flickering from between a terrifying set of fangs.
+
+MUDBACK SEPTACEAN (level 1 - 20 shots)
+Covered with a mottled pattern of dark brown shades, the back of this
+creature appears to be covered in mud. Seven fleshy tentacles protrude
+from its underbelly, flashing yellow and green as they writhe around its
+form. A pair of beady black eyes is set near the base of the glob-like
+body, and a sharp, beak-like mouth periodically emits a shrill,
+punctuated shriek.
+
+RED-FACED SEPTACEAN (level 1 - 20 shots)
+Little more than a flat black glob of slime, the distinguishing feature
+of this tentacled creature is a patch of crimson surrounding two beady
+eyes. Seven serpentine tentacles twitch beneath the shapeless body,
+curling and twisting as it searches constantly for prey.
+
+MASS OF SARGASSUM (level 2 - 25 shots)
+Coloured an ugly brownish-green and composed of countless blades of
+algae, this mass of sea grass moves about at the whim of the ocean's
+current, carrying broken wood and debris along with it. Clutched in the
+briny grasp of the sargassum are numerous bloated bodies, each one
+devoid of eyes and in various states of decay. In some places, openings
+exist where fish circle about to feed on the rotting remains.
+
+GARGANTUAN ANGLER FISH (level 2 - 25 shots)
+The ghostly lantern hanging before it from an arcing, bony spine casts
+an eerie glow over the sea, illuminating the terrible visage of this
+enormous fish in spectral green light. Jagged teeth, each easily the
+length of a seastrider's bowsprit, protrude from its fell, yawning maw
+at all angles; a sailor's body could disappear into the horrid,
+rancorous pit without a trace. Spiny ridges cover the monster's body,
+which is armoured with a mail of blanched umber scales, oily and dark.
+Its beady, squinting black eyes, far too small for a beast of such size,
+gleam with remorseless, predatory hunger. The enormous fish powers
+forward relentlessly with an array of veiny, fan-shaped fins, its
+lurching gait doing nothing to abate the angler's focused, pitiless
+glare.
+
+GARGANTUAN MEGALODON (level 2 - 25 shots)
+Its streamlined, muscular body stretching out nearly eighty feet from
+snout to tail, this massive beast is terrifying to behold. Black eyes,
+small in comparison to the rest of its body, stare out from a large head
+lined by five gill slits and culminating in a pointed snout and an
+incredibly large mouth filled with row after row of huge, sharpened
+teeth. The dorsal fin of the oversized shark is proportionate to its
+size, and rises up from the monstrosity's back, while two pectoral fins
+extend out from its sides. Large enough to cause serious damage on its
+own, the megalodon's tail is, by itself, easily the size of a regular
+shark.
+
+RAGING SHRAYMOR (level 2 - 25 shots)
+Countless rows of jagged white teeth line the gaping black maw of this
+enormous shraymor, dripping with seawater and the acidic mucus of the
+creature's own body. Easily a dozen meters long, its monstrous shape
+looms as thick around as a redwood, culminating in a great tail fin that
+sends it hurtling through the water at furious speeds. The front of its
+body is entirely dedicated to its massive jaws, and three large black
+eyes glare out in a triangular formation on either side of its head. A
+constant roaring noise accompanies the monster's passage as churning
+waters and consumed materials whirl about violently within its cavernous
+stomach.
+
+FURIOUS SEA DRAGON (level 3 - 30 shots)
+This sinuous dragon is possessed of massive, serpentine proportions,
+bluish-black diamond-shaped scales interlocking seamlessly over its
+entire body and covering the creature in a powerful sheath of protective
+armour. Four clawed fins, a pair in the front and towards the back
+underside of the dragon, fold smoothly along each of its sides, their
+surfaces fluted at the ends and incredibly delicate in comparison to the
+scale-armoured parts of the creature. Long, spined fins are visible
+adorning its ventral and dorsal sides, and a mighty caudal fin beats
+vertically through the water, spanning approximately nine feet in
+length. The head of the dragon is tapered and massive, sporting five
+curved, slick black horns that project backwards from his crocodilian
+visage. A countless number of tiny, razor-sharp teeth shine within the
+dragon's gaping maw, while two wickedly sharp tusks curl out some length
+from the edges.
+
+PIRATE SHIP (level 3 - 30 shots)
+This ship is large but sleek in design, able to cut nimbly through the
+waves despite its size. Manned by a motley but efficient looking crew,
+the ship is equipped with an onager, ballista, and Arcanian arm thrower:
+sufficient weaponry to intimidate any ship caught unawares.
+
+RED-SAILED KASHARI RAIDER (level 3 - 30 shots)
+The stench of charnel and rot surrounds this raiding vessel in an
+odiferous, but invisible cloud, the telltales of a slaver's ship.
+Effluence stains the wood below the various portholes, the black streaks
+a mark of its abhorrent cargo. Trademarks of the Kashari raiders, the
+sails and flag are a bright, crimson red, blood their mark and blood
+their trade.
+
+TRIO OF RAGING SEA SERPENTS (level 3 - 30 shots)
+Almost a league in true length, the serpentine motions of this great sea
+snake hides half of its sinuous coils beneath the surface of the waves.
+Iridescent fins frill along the undulating body, enabling propulsion
+through the deep waters of the ocean and churning up pallid seafoam with
+their passage above and beneath the surf. Akin to its landbound cousins,
+but much multiplied in size, the monster's head is that of the classic
+snake's in shape, but larger than a troll. Black eyes stare dully out
+from the blue mottled scaling, and a great forked tongue tastes the
+tidal spray, flickering from between a terrifying set of fangs.
+
+MONSTROUS KETEA (level 4 - 40 shots)
+Olive scales greater in size than the burliest of warhorses cover this
+gargantuan creature. With slab-like teeth it gnashes at the surrounding
+waters, churning it into eddies and whirlpools effortlessly. Its length
+rises and dips into the water at various points, creating huge hills of
+olive in the foam-flecked torrents. Raised out of the water, the
+creatures' tail ends in a dripping barb, oozing caustic venom from its
+sharp point. At the other, a head rivalling a windcutter in size, is
+filled to the brim with countless fangs.
+
+MONSTROUS PICAROON (level 4 - 40 shots)
+A single, monstrous eye emerges from the centre of this sea creature's
+gigantic forehead. The skin is creased and deeply wrinkled around the
+oculus, indicating the great age of the monstrous picaroon. Scars are
+visible zig-zagging across the monster's face, extending over a pair of
+[Type MORE if you wish to continue reading. (77% shown)]
+= Sl Furl - hp 99%,Hl: 99%,Wd SE@30kts,Cr/Sp N@0,Sea Rough
+clhelp shiptrades
+Composed by: Alizais on or about the 13th of Mayan, 969 AF.
+
+SHIP TRADES
+
+1. What are Ship Trades?
+2. Ship Trades Restrictions
+3. Routing for Trades
+4. Tips on Trading
+5. How To Trade
+6. Trading on City Ships
+
+
+1. What is Ship Trading?
+
+Ship trading is accepting a trade from either the harbour at Thraasi or
+the harbour at Tasur'ke, and completing it as instructed. Trades change
+each month at Serenade, when new ones will be offered. Once you have
+accepted a trade, there is no time limit to completing it. The only
+restriction is to make sure you have accepted the trade before Serenade
+of the month it was offered. To see what can be gained from ship
+trading, see CLHELP TRADEREWARDS.
+
+2. Ship Trade Restrictions
+
+Ship trades are restricted in two ways. Personal-restricted trades are
+those that an individual captain can only complete once. If a trade is
+personal, then you could gather up enough cargo to do the trade multiple
+times, but it would have to be completed by different people.
+Ship-restricted trades are those where that specific ship can only
+complete it once. One person can do a ship-restricted trade multiple
+times if they do it on a different ship each time. Some trades carry
+both restrictions, so neither the person nor the ship can repeat it
+within the month.
+
+3. Routing for Trades
+
+Okay, you've found a trade that offers something you want, so now what?
+You know what you need to end up with, but how do you work out what you
+need to start with, and what do you need in between them? Good resources
+are CLHELP TRADEDEALCHART, CLHELP TRADEMATH, CLHELP TRADECARGO, and
+CLHELP TRADEROUTEGUIDE.
+
+4. Tips on Trading
+
+You do not have to accept a trade before working on it. You can also
+accept a trade in the middle of the route when it is most convenient to
+stop at the harbour offering the trade. Or, if the trade is accepted and
+completed at the same harbour, you can arrive with the correct cargo
+already on-hand to accept and immediately complete the deal.
+
+If you have a large enough ship, you can buy double or triple the cargo
+and take a friend or two along for trades that are personal, but not
+ship, so you can enjoy the trip together. You will need to sail back and
+forth from the starting to ending harbour for each person to accept and
+complete.
+
+Two pieces of ship equipment, the cargo buoy and cargo float, can be
+helpful on a ship you are planning to use for frequent trading. CLHELP
+SHIPEQUIPMENT has details on these.
+
+5. How To Trade
+
+HARBOUR INFO at Tasur'ke or Thraasi will show the available trade there.
+SHIP TRADE while on a ship will list out all required commands.
+
+6. Trading on City Ships
+
+City ships are available for trading on a first-come, first-served
+basis. Please make sure to check a ship's log to ensure it has not
+already done a ship-restricted trade. If you accept a trade on a city
+ship, complete it as quickly as possible since the ship will not be
+available for anyone else to use for trades until yours is complete.
+
+Remember to replenish the strongbox with all cargo costs and docking
+fees incurred throughout your trip.
+
+= Sl Furl - hp 99%,Hl: 99%,Wd SE@30kts,Cr/Sp N@0,Sea Rough
+clhelp tradecargo
+Composed by: Zorina on or about the 7th of Aeguary, 935 AF.
+
+TRADE CARGO
+
+These are the harbours, in alphabetical order, that offer cargo as part
+of ship trades (CLHELP SHIPTRADES), and the cargo available at each. For
+more detail on purchasing and exchanging cargo through trades, see
+CLHELP TRADEDEALCHART and CLHELP TRADEMATH.
+
+Ageiro: (no fee)
+   Cargo for trade: 1 gems. Price: 2 tabac.
+   Cargo for trade: 3 silk. Price: 2 tabac.
+
+Colchis: (no fee)
+   Cargo for trade: 2 silk. Price: 3 marble.
+   Cargo for trade: 2 perfume. Price: 3 incense.
+   Cargo for trade: 3 glass. Price: 2 incense.
+
+Karbaz: (200 gold fee)
+   Cargo for trade: 2 ceramics. Price: 3 honey.
+   Cargo for trade: 2 ceramics. Price: 3 hemp.
+   Cargo for trade: 2 marble. Price: 3 hemp.
+   Cargo for trade: 2 marble. Price: 3 granite.
+
+Minos: (no fee)
+   Cargo for trade: 3 honey. Price: 4 salt.
+   Cargo for trade: 2 wine. Price: 3 marble.
+   Cargo for trade: 2 wine. Price: 3 tea.
+
+Mysia: (1000 gold fee)
+   Cargo for trade: 2 tabac. Price: 3 porcelain.
+   Cargo for trade: 2 tabac. Price: 3 silk.
+   Cargo for trade: 3 ceramics. Price: 2 porcelain.
+   Cargo for trade: 3 ceramics. Price: 2 silk.
+
+Orilla: (no fee)
+   Cargo for trade: 3 terracotta. Price: 4 cotton.
+
+Shala-Khulia : (500 gold fee)
+   Cargo for trade: 2 incense. Price: 3 glass.
+
+Shastaan: (1000 gold fee)
+   Cargo for sale: 1 cotton. Price: 1000 gp.
+   Cargo for trade: 3 hemp. Price: 4 furs.
+   Cargo for trade: 1 gems. Price: 2 perfume.
+   Cargo for trade: 3 wine. Price: 2 perfume.
+   Cargo for sale: 1 sandstone. Price: 1000 gp.
+
+Suliel: (west 500 gold fee, east no fee)
+   Cargo for trade: 1 furs. Price: 1 wool.
+   Cargo for trade: 2 incense. Price: 3 kahwe.
+
+Tasur'ke: (2000 gold fee)
+   Cargo for sale: 1 wool. Price: 1000 gp.
+   Cargo for trade: 3 granite. Price: 4 sandstone.
+   Cargo for trade: 2 kahwe. Price: 3 sugar.
+
+Thraasi: (2000 gold fee)
+   Cargo for sale: 1 ore. Price: 1000 gp.
+   Cargo for trade: 2 glass. Price: 3 fruits.
+   Cargo for trade: 2 armaments. Price: 1 spices.
+   Cargo for sale: 1 grain. Price: 1000 gp.
+
+Umbrin: (no fee)
+   Cargo for trade: 2 porcelain. Price: 3 ceramics.
+   Cargo for trade: 2 armaments. Price: 3 wine.
+   Cargo for trade: 3 kahwe. Price: 2 wine.
+
+Zanzibaar: (2000 gold fee)
+   Cargo for trade: 3 fruits. Price: 4 ore.
+   Cargo for trade: 2 tea. Price: 3 terracotta.
+   Cargo for trade: 1 spices. Price: 2 armaments.
+   Cargo for trade: 2 perfume. Price: 1 gems.
+   Cargo for trade: 3 incense. Price: 2 armaments.
+
+Zaphar: (100 gold fee)
+   Cargo for sale: 1 salt. Price: 1000 gp.
+   Cargo for trade: 3 sugar. Price: 4 grain.
+= Sl Furl - hp 99%,Hl: 99%,Wd SE@30kts,Cr/Sp N@0,Sea Rough
+clhelp tradedealchart
+Composed by: Minkai on or about the 7th of Phaestian, 930 AF.
+
+|                      T R A D E D E A L   C H A R T                   |
+
+
+  _________   _________   _________   _________   _________   _________
+ |  SALT   | |  WOOL   | |SANDSTONE| | COTTON  | |  GRAIN  | |   ORE   |
+ | (ZAPH)  | | (TASUR) | | (SHAST) | | (SHAST) | | (THRAS) | | (THRAS) |
+ |  1000g  | |  1000g  | |  1000g  | |  1000g  | |  1000g  | |  1000g  |
+   Minos       Suliel     Tasur'ke     Orilla       Zaphar    Zanzibaar
+     4:3         1:1         4:3         4:3         4:3         4:3
+      V           V           V           V           V           V
+  _________   _________   _________   _________   _________   _________
+ |  HONEY  | |   FUR   | | GRANITE | |  TERRA  | |  SUGAR  | |  FRUIT  |
+ |         | |         | |         | |  COTTA  | |         | |         |
+   Karbaz     Shastaan      Karbaz    Zanzibaar    Tasur'ke    Thraasi
+     3:2         4:3         3:2         3:2         3:2         3:2
+      |           V           |           |           |           |
+      |       _________       |           |           |           |
+      |      |  HEMP   |      |           |           |           |
+      |   Karbaz     Karbaz   |           |           |           |
+      |    3:2         3:2    |           |           |           |
+      V   v              V    V           V           V           V
+  _________               _________   _________   _________   _________
+ |CERAMICS |             | MARBLE  | |   TEA   | |  KAWHE  | |  GLASS  |
+ |         |<--          |         | |         | |         | |         |
+  |     |    Mysia 2:3    |       |    Minos     /    | Shala-Khulia |
+  |     |         \       |        |    3:2     /     |     3:2      |
+  |   Umbrin       \    Colchis    Minos |     /     Suliel   |      |
+  |    3:2          \    3:2        3:2  |   Umbrin      3:2  |      |
+ Mysia  |            \    |           |  |    2:3         |   |      |
+  2:3   V             \   V           V  V     |          V   V  Colchis
+  | _________          \ _________      _________           ________2:3
+   |PORCELAIN|    ---->|  SILK   |    |  WINE   |         | INCENSE |-
+   |         |    |    |         |    |         | ------->|         |
+    ---------  Agiero   ---------      ---------  |        ---------
+          |      2:3      /              /    ^   |           |
+         Mysia    |   Mysia         Umbrin   |            Colchis
+          3:2     |    3:2           3:2     | Shastaan      3:2
+            |     |   /              /       |     2:3      /
+             V    |  V              V        |             V
+              _________           _________  Zanzibaar _________
+             |         |         |         |  3:2     |         |
+             |  TABAC  |         |ARMAMENTS|   |      | PERFUME |
+                  |          Thraasi  |           Zanzibaar  |
+               Ageiro          1:2    |              1:2     |
+                 2:1          /   Zanzibaar          /    Shastaan
+                  |      _________   2:1     _________      2:1
+                  |     | SPICES  |<---     |  GEMS   |<-----
+
+Original design ideal and research by Favonius Stormcrow-Xanatov
+Charting by Lisbethe Etienne Le'Murzen-Sparrow
+
+= Sl Furl - hp 99%,Hl: 99%,Wd SE@30kts,Cr/Sp N@0,Sea Rough
+clhelp trademath
+Composed by: Minkai on or about the 1st of Lupar, 950 AF.
+
+Calculating your Trade Routes in (a lot) of (fairly easy) steps!
+by Rhydian Malicieux
+
+
+I. Introduction
+Ship trading is one of those things that seems simple at first, but can
+be a bit confusing to the uninitiated. Although the official and clan
+help scrolls are a great place to start, it sometimes helps to see that
+information in a different format. I found that charting it out like
+this before I started helped a great deal.
+So let's get started!
+
+II. Preparation
+It's always good to prepare for your route beforehand. That way, you
+have a ready-made list of where you need to go and what cargo you need
+to pick up.
+Get yourself a pencil and a nice big sheet of parchment. You will want
+to spread this sheet out atop your desk - it will help you excel in
+creating your tradelists.
+
+Look at the clan trade help scrolls (the tradedealchart is very helpful
+here) and jot down the following information:
+(don't worry, I'll show you how to arrange it in just a bit!)
+Starting Harbours
+Mid-route Harbours
+Ending Harbour
+The cargo you will be trading, and the ratios (4:3, 3:2, etc.)
+Put this information into down onto your spread-out sheet of parchment
+like so. For this example, we're going to use the following trade deal:
+"Deliver 5 marble to Tasur'ke Harbour in return for crew morale (ship)."
+Harbour | Inbound Cargo |  # In   | # Out   | Outbound Cargo | Ratio |
+Shastaan| (nothing)     | XXXXXXX |         |  Sandstone     |  n/a  |
+Tasur'ke| Sandstone     |         |         |  Granite       |  4:3  |
+Karbaz  | Granite       |         |         |  Marble        |  3:2  |
+Tasur'ke| Marble        |         | XXXXXXX |  (nothing)     |  n/a  |
+This should be fairly self-explanatory, but I'll go over it right quick:
+Harbour - A stop along your trade route.
+Inbound Cargo - The TYPE of cargo you are bringing INTO a harbour.
+# In - AMOUNT of cargo you are bringing INTO a harbour.
+# Out - AMOUNT of cargo you are LEAVING with.
+Outbound Cargo - TYPE of cargo you are LEAVING with.
+Ratio - The ratio of exchange between two cargo types.
+III. Calculations
+For our example above, the calculations are fairly straightforward.
+1. Put a number into the first "# Out" box. We'll use "12" for this
+example.
+2. Next, put that same number in the "# In" box on the line just below
+it.
+3. Take that "# In" number and find the "# Out" number as so:
+  # Out = (# In) / (Ratio as a fraction)
+For this first one, it would be:
+  # Out = 12 / (4/3)
+        =  9
+There you go - if you bring 12 Sandstone from Shastaan to Tasur'ke, you
+will be able to exchange it for 9 Granite. The calculation for the trade
+at Karbaz is similar, just change the numbers and ratio:
+  # Out =  9 / (3/2)
+        =  6
+At this point, just take that final "# Out" and stick it in the row
+for your final stop - and you're done!
+Harbour | Inbound Cargo |  # In   | # Out   | Outbound Cargo | Ratio |
+Shastaan| (nothing)     | XXXXXXX |   12    |  Sandstone     |  n/a  |
+Tasur'ke| Sandstone     |   12    |    9    |  Granite       |  4:3  |
+Karbaz  | Granite       |    9    |    6    |  Marble        |  3:2  |
+Tasur'ke| Marble        |    6    | XXXXXXX |  (nothing)     |  n/a  |
+So, by using this method, we can see that on this route, if we leave
+Shastaan with 12 Sandstone, we can end up back in Tasur'ke with 6 Marble
+- enough for our trade! Of course, we will have a few extras left over
+at the end, but that's no worry - more for next time!
+
+IV. Conclusion
+This technique can be applied to any trade route - just write it out as
+shown here, and play with the numbers by starting with your first
+outbound cargo and working your way down. Remember to start out with the
+correct amount of cargo at the beginning, to get as few leftovers as
+possible.
+
+Thanks for reading, and may the trades be ever in your favour!
+
+= Sl Furl - hp 99%,Hl: 99%,Wd SE@30kts,Cr/Sp N@0,Sea Rough
+clhelp traderewards
+Composed by: Rhydian on or about the 8th of Glacian, 883 AF.
+
+TRADE REWARDS
+
+A breakdown of the rewards available through ship trading (CLHELP
+SHIPTRADES).
+
+
+Morale/Experience:
+Increases by a set amount. Morale is about 400 points, experience does
+not seem to scale to current crew levels. Not worthwhile except for a
+newling crew up to Apprentice rank.
+
+Gold:
+65,000, 75,000, 100,000, or 200,000
+
+Bound Credits:
+5, 10, or 25
+
+Weapon Ammunition:
+Ammo for ship weapons.
+
+A Barrel of Rum:
+You can DRINK out of it. Self-refilling, lasts 50 Achaean Months.
+
+A Striking Sea Captain's Hat:
+Tricorn hat made out of ostrich skin. PUSH or PULL to make your crew
+salute you. Lasts 200 months.
+
+A Great Notic Amulet:
+Amulet crafted in worship of the Caspeid Notia. Attach to figurehead and
+turn amulet to petition for a blessing. WARNING: The Caspeid's
+capricious nature may induce her to curse you rather than bless you.
+Tinker at your own risk.
+
+A Hollowed Skull:
+Use it to play the game Safe Passage. READ SKULL for instructions.
+
+An Unmarked Crate:
+Random ship furniture. Includes items like: Rope, lantern, iron bitts,
+sloop chest, etc. Purely decorative.
+
+A Pair of Seaworn Dice:
+Historically worthless for the price of the trade. Throw dice for a
+random reward.
+
+A Black-finned Flare:
+Light the flare to reveal all the ships in the same sea or ocean as your
+vessel. Must be on the water to work.
+
+A Birdcage Covered in White Cloth:
+Randomly contains (in order of rarity) a budgie/cockatiel or parrot. Can
+be taught a single word by practicing repeatedly.
+
+A Golden Gryphon:
+Legendary, flying mount.
+
+A Reticulated Giraffe:
+Legendary mount.
+
+A Wicker Basket Containing a Ginger Ship Kitten:
+A kitten to live on your ship. It will wander from room to room, and
+gradually grow older.
+
+= Sl Furl - hp 99%,Hl: 99%,Wd SE@30kts,Cr/Sp N@0,Sea Rough
+clhelp traderouteguide
+Composed by: Iolanthe on or about the 4th of Miraman, 727 AF.
+
+Calculating your Trade Routes in (a lot) of (fairly easy) steps!
+    by Captain Zbaco Silvertongue
+
+Special thanks go to my fellow members of The Sefyric Mariners Guild,
+for their work in developing the existing help scrolls, which I relied
+heavily upon while writing this guide. Extra-special thanks to my
+family, not only for their scrolls as well, but for their patience and
+understanding while answering all of my questions.
+
+
+I. Introduction
+
+Ship trading is one of those things that seems simple at first, but can
+be a bit confusing to the uninitiated. Although the official and clan
+help scrolls are a great place to start, it sometimes helps to see that
+information in a different format. I found that charting it out like
+this before I started helped a great deal.
+
+So let's get started!
+
+
+II. Preparation
+
+It's always good to prepare for your route beforehand. That way, you
+have a ready-made list of where you need to go and what cargo you need
+to pick up.
+
+Get yourself a pencil and a nice big sheet of parchment. You will want
+to spread this sheet out atop your desk - it will help you excel in
+creating your tradelists. (Yes, I did say EXCEL).
+
+Look at the clan trade help scrolls (the tradedealchart is very helpful
+here) and jot down the following information:
+
+(don't worry, I'll show you how to arrange it in just a bit!)
+
+Starting Harbours
+Mid-route Harbours
+Ending Harbour
+The cargo you will be trading, and the ratios (4:3, 3:2, etc.)
+
+Put this information into down onto your spread-out sheet of parchment
+like so. For this example, we're going to use the following trade deal:
+
+"Deliver 5 marble to Tasur'ke Harbour in return for crew morale (ship)."
+
+Harbour | Inbound Cargo |  # In   | # Out   | Outbound Cargo | Ratio |
+Shastaan| (nothing)     | XXXXXXX |         |  Sandstone     |  n/a  |
+Tasur'ke| Sandstone     |         |         |  Granite       |  4:3  |
+Karbaz  | Granite       |         |         |  Marble        |  3:2  |
+Tasur'ke| Marble        |         | XXXXXXX |  (nothing)     |  n/a  |
+
+This should be fairly self-explanatory, but I'll go over it right quick:
+
+Harbour - A stop along your trade route.
+Inbound Cargo - The TYPE of cargo you are bringing INTO a harbour.
+# In - AMOUNT of cargo you are bringing INTO a harbour.
+# Out - AMOUNT of cargo you are LEAVING with.
+Outbound Cargo - TYPE of cargo you are LEAVING with.
+Ratio - The ratio of exchange between two cargo types.
+
+
+III. Calculations
+
+For our example above, the calculations are fairly straightforward.
+
+1. Put a number into the first "# Out" box. We'll use "12" for this
+example.
+2. Next, put that same number in the "# In" box on the line just below
+it.
+3. Take that "# In" number and find the "# Out" number as so:
+
+  # Out = (# In) / (Ratio as a fraction)
+
+For this first one, it would be:
+  # Out = 12 / (4/3)
+        =  9
+		   
+There you go - if you bring 12 Sandstone from Shastaan to Tasur'ke, you
+will be able to exchange it for 9 Granite. The calculation for the trade
+at Karbaz is similar, just change the numbers and ratio:
+
+  # Out =  9 / (3/2)
+        =  6
+
+At this point, just take that final "# Out" and stick it in the row for
+your final stop - and you're done!
+
+Harbour | Inbound Cargo |  # In   | # Out   | Outbound Cargo | Ratio |
+Shastaan| (nothing)     | XXXXXXX |   12    |  Sandstone     |  n/a  |
+Tasur'ke| Sandstone     |   12    |    9    |  Granite       |  4:3  |
+Karbaz  | Granite       |    9    |    6    |  Marble        |  3:2  |
+Tasur'ke| Marble        |    6    | XXXXXXX |  (nothing)     |  n/a  |
+
+So, by using this method, we can see that on this route, if we leave
+Shastaan with 12 Sandstone, we can end up back in Tasur'ke with 6 Marble
+- enough for our trade! Of course, we will have a few extras left over
+at the end, but that's no worry - more for next time!
+
+
+IV. Conclusion
+
+This technique can be applied to any trade route - just write it out as
+shown here, and play with the numbers by starting with your first
+outbound cargo and working your way down. Remember to start out with the
+correct amount of cargo at the beginning, to get as few leftovers as
+possible.
+
+Thanks for reading, and may the trades be in your favour and the winds
+at your backs!
+
+= Sl Furl - hp 99%,Hl: 99%,Wd SE@30kts,Cr/Sp N@0,Sea Rough
+clhelp voyagelist
+Composed by: Icraa on or about the 4th of Ero, 924 AF.
+
+Voyages should be challenging and are a test of a sailors skill, but
+knowing how to obtain them and what to expect from them should not be
+part of the challenge. If you wish to add or change the information
+please follow the template and provide as much information as you are
+willing to (without ruining the surprise for those who have never done a
+voyage).
+
+See CLHELP VOYAGES and HELP VOYAGES for what voyages and how to properly
+obtain them for your ship.
+
+Tourist
+
+Obtained At: Thraasi with Otryn present
+
+Length: Long. Otryn wants to see 6 different places.
+
+Summary: Help a friendly traveler see the world, and not just from the
+deck of your ship.
+
+Helpful hints: Do not leave the tourist behind! It's hard to help
+someone sightsee when they are not following you.
+
+
+A Treasure Voyage
+
+Obtained: Look for a corked glass bottle in a harbour and open in on
+your ship.
+
+Length: Short. One destination.
+
+Summary: Read the treasure map, follow to clues, and find the treasure!
+
+Hints: This one is very short and straightforward. The toughest part is
+finding a corked bottle!
+
+
+A Captains Voyage
+
+Obtained: Harbormaster at man-made harbours.
+
+Length: Medium. Will take several days to complete.
+
+Summary: Guide an unusual companion around the world and dig for clues.
+I'm sure they will need whatever you can dig up as you sail to different
+islands.
+
+Helpful Hints: Share what you find with your pangolin friend and don't
+lose them!
+
+
+An Indebted Voyage
+
+Obtained: Harbormaster at man-made harbours.
+
+Length: Variable. Related to the Kraken hunt.
+
+Summary: This is necessary to gain the benefits of slaying the Kraken.
+
+Hints: Needs to be picked up before the Kraken is summoned. See CLHELP
+KRAKEN for more info on the Kraken hunt.
+
+
+A Surgeons Voyage
+
+Obtained: Averroes in New Hope.
+
+Length: Long. You must sail to one island in each of the four oceans.
+
+Summary: Speak to Averroes and then embark on a journey to find and give
+offerings to the four sea spirits. Blow the conch shell and return to
+Averroes after for your reward.
+
+Hints: None of the items to offer are on the island they are to be
+offered at. Obtain the offerings and then travel to the four location to
+offer them.
+
+
+A Cursed Voyage
+
+Obtained: Harbormaster at man-made harbours.
+
+Length: Long. Several islands to visit as well as additional quests to
+complete on them.
+
+Summary: Help break the curse and enlist Yudhishthira's help to do so.
+
+Hint: You will have to fetch an item to get Yudhishthira to agree to the
+quest and then fetch what he requires to break the curse.
+
+
+Smuggler
+
+Obtained: Dock workers on islands.
+
+Length: Short.
+
+Summary: Help a dock worker smuggle goods to an individual on another
+island.
+
+Hint: Very short and straightforward, but maybe not worth the meager
+reward.
+
+
+Priestess
+
+Obtained: Riparium during a New Moon
+
+Length: Short.
+
+Summary: Listen to the priestess' story and put her to rest.
+
+Hint: Remember to dig up the skull and drop it where needed.
+
+
+Grievous
+
+Obtained: from any harbour where you can pick up voyages.
+
+Length: The longest voyage of them all
+
+Summary: uncover a child trafficking plot.
+
+Helpful hints: This is a very dangerous voyage, bring a crew of dragons.
+
+
+Sight
+This one requires you and your crew to have completed the majority of
+the other voyages to be eligble.
+
+Obtained: can be found in either claw cove, new hope, valho coast or sea
+lion cove, it is only available from one of those locations at any given
+time, and the location moves.
+
+Length: Short.
+
+Summary: Haul Maya's Sundred Pearl up from the depths, and fight its
+crew.
+
+Helpful hints: the Pearl is near where the voyage was picked up. Be
+prepared for a long and difficult fight, bring a crew of dragons.
+Fog-wreathed
+
+Obtained: can only be picked up immediately after you have completed
+Voyage of Sight, from the same dockworker.
+
+Length: Short
+
+Summary: Travel into the mist...
+
+Helpful hints: Good luck!
+= Sl Furl - hp 99%,Hl: 99%,Wd SE@30kts,Cr/Sp N@0,Sea Rough
+clhelp voyages
+Composed by: Rhydian on or about the 8th of Glacian, 883 AF.
+
+VOYAGES
+
+This is a starting guide to voyaging on the high seas!
+
+Voyages or "seafaring quests" can be requested by a captain in harbours
+from dockworkers or harbourmasters:
+SAY REQUESTING A VOYAGE FOR SHIP <#>
+
+The ship in question has to be docked at the harbour where the quest is
+being requested, the person requesting it must have assumed command of
+said ship, and any crew looking to join need to be on the ship with CREW
+permissions set.
+
+Voyages will award gold and renown to everyone involved and seafaring
+talisman pieces usually only to the captain (with some exceptions).
+
+QUEST LOG OCEANS can be checked to see any voyages a person has signed
+up for, and it's important to note that while there are ways to get more
+voyages at the same time, a captain may not request a voyage if they
+already have one.
+
+Some voyages can only be requested at certain times (after new year, or
+on a full moon), and some can only be obtained at a certain harbour, and
+some only become available once you've completed the prerequisite
+voyages.
+
+See HELP VOYAGES for more details!

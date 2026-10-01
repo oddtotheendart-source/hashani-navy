@@ -1,0 +1,77 @@
+clhelp shiptrades
+Composed by: Alizais on or about the 13th of Mayan, 969 AF.
+
+SHIP TRADES
+
+1. What are Ship Trades?
+2. Ship Trades Restrictions
+3. Routing for Trades
+4. Tips on Trading
+5. How To Trade
+6. Trading on City Ships
+
+
+1. What is Ship Trading?
+
+Ship trading is accepting a trade from either the harbour at Thraasi or
+the harbour at Tasur'ke, and completing it as instructed. Trades change
+each month at Serenade, when new ones will be offered. Once you have
+accepted a trade, there is no time limit to completing it. The only
+restriction is to make sure you have accepted the trade before Serenade
+of the month it was offered. To see what can be gained from ship
+trading, see CLHELP TRADEREWARDS.
+
+2. Ship Trade Restrictions
+
+Ship trades are restricted in two ways. Personal-restricted trades are
+those that an individual captain can only complete once. If a trade is
+personal, then you could gather up enough cargo to do the trade multiple
+times, but it would have to be completed by different people.
+Ship-restricted trades are those where that specific ship can only
+complete it once. One person can do a ship-restricted trade multiple
+times if they do it on a different ship each time. Some trades carry
+both restrictions, so neither the person nor the ship can repeat it
+within the month.
+
+3. Routing for Trades
+
+Okay, you've found a trade that offers something you want, so now what?
+You know what you need to end up with, but how do you work out what you
+need to start with, and what do you need in between them? Good resources
+are CLHELP TRADEDEALCHART, CLHELP TRADEMATH, CLHELP TRADECARGO, and
+CLHELP TRADEROUTEGUIDE.
+
+4. Tips on Trading
+
+You do not have to accept a trade before working on it. You can also
+accept a trade in the middle of the route when it is most convenient to
+stop at the harbour offering the trade. Or, if the trade is accepted and
+completed at the same harbour, you can arrive with the correct cargo
+already on-hand to accept and immediately complete the deal.
+
+If you have a large enough ship, you can buy double or triple the cargo
+and take a friend or two along for trades that are personal, but not
+ship, so you can enjoy the trip together. You will need to sail back and
+forth from the starting to ending harbour for each person to accept and
+complete.
+
+Two pieces of ship equipment, the cargo buoy and cargo float, can be
+helpful on a ship you are planning to use for frequent trading. CLHELP
+SHIPEQUIPMENT has details on these.
+
+5. How To Trade
+
+HARBOUR INFO at Tasur'ke or Thraasi will show the available trade there.
+SHIP TRADE while on a ship will list out all required commands.
+
+6. Trading on City Ships
+
+City ships are available for trading on a first-come, first-served
+basis. Please make sure to check a ship's log to ensure it has not
+already done a ship-restricted trade. If you accept a trade on a city
+ship, complete it as quickly as possible since the ship will not be
+available for anyone else to use for trades until yours is complete.
+
+Remember to replenish the strongbox with all cargo costs and docking
+fees incurred throughout your trip.
+

@@ -1,0 +1,168 @@
+clhelp deepseadiving
+Composed by: Alizais on or about the 19th of Valnuary, 947 AF.
+
+DEEP SEA DIVING by Czanthria
+Table of Contents
+1. Deep Sea Diving - the grid while sailing
+2. Deep Sea Diving - ocean floor maps for diving
+3. Deep Sea Diving - creatures
+4. Deep Sea Diving - treasure chests
+5. Deep Sea Diving - techniques, tips, and tricks
+
+1. Deep Sea Diving - the grid while sailing
+There are 13 different ocean floor areas. Each one is depicted in the
+grid below by the first letter of the name of the ocean floor area and
+cooresponds to the sea floor map below that.
+
+Each letter in the grid is a 10x10 metron square of the ocean. Meaning,
+if you dive and are in "Cave around an undergroun volcano" depicted by
+the letter C, if you move your ship east 10 metrons, you will then dive
+and be in "On an Abysmal floor" depicted by the letter O.
+
+Raising the bell while any individual remains on the ocean floor kills
+them.
+
+Notes about deep sea diving are below the individual maps.
+
+    --The Grid--
+    COWRMPITNBAJF
+    MPITNBAJFCOWR
+    NBAJFCOWRMPIT
+    FCOWRMPITNBAJ
+    RMPITNBAJFCOW
+    TNBAJFCOWRMPI
+    JFCOWRMPITNBA
+    WRMPITNBAJFCO
+    ITNBAJFCOWRMP
+    AJFCOWRMPITNB
+    OWRMPITNBAJFC
+    PITNBAJFCOWRM
+    BAJFCOWRMPITN
+
+2. Deep Sea Diving - ocean floor maps for diving
+There are 13 distinct and separate locations, total is over 180 rooms
+
+Map Legend
+o = location of the diving bell when on the ocean floor
+? = hidden exit/entrance
+ A. Amidst the wreckage of a ship | B. Between Submerged Boulders
+         x-o-x                    |            x     o x
+ C. Cave around an underground    | F. Far below waves
+     volcano                      |
+        |/ /     \ \              |              x x--x     R
+              o   x               |          |\ /|       /|\|
+             / \                  |          | o |      x | x
+| R - south returns you to same room
+ I. In the murky depths           | J. Inside a chasm of coral
+        x--x--x                   |              o
+        x--o--x                   |              |
+ M. Murky Chasm                   | N. Near remains of gigantic Crabs
+         x---x-x-o                |               x    |
+                                  |           x   o
+ O. On an Abysmal floor           | P. Winding paths between sea
+                                  |      mountains
+       x     o     x              |        \ / \ /|
+        \   ? \   /               |         x   o |
+ R. Ruins of an undersea temple   | T. A twisting reef
+                      2   1       |                      x
+    x-x         x   / |           |               x   2--x
+      |/       \   x  |           |               |   | 1
+                 x   1|           |               |   x
+              x   o   x           |               x x   x x x
+                x   x             |             o?x x x   x
+ 1 - takes you to 2               | 1 - takes you to 2
+ W. Within the bleak and
+     caliginous ocean
+
+          x-o   x
+
+
+3. Deep Sea Diving - creatures
+Ocean Floor Sea Creatures (name, temperment, reagent)
+  malevolent sea dragon, aggressive, seadragonscales
+    seadragonscales - AB SHIPFITTING GIRDING
+  redfin tuna, aggressive, fishscales
+  duskfin tuna, aggressive, fishscales
+  pale, four-fin ray, aggressive, fishscales
+  silver sea spider, aggressive, meat/fat
+  fangtooth, aggressive, fishscales
+  coelacanth, aggressive, fishscales
+
+  hippocampi, peaceful, meat/fat, protected by Lord Neraeos
+  turtle, peaceful, runner, meat/fat
+  merrow, peaceful, meat/fat
+  geryas, peaceful, meat/fat
+  hideaway nautilus, peaceful, meat/fat
+  two-headed fish, peaceful, fishscales
+  hatchetfish, peaceful, fishscales
+  peppermint stripefish, peaceful, fishscales
+  whiskerknot skrei, peaceful, fishscales
+  millstone, peacefull, runner, fishscales
+  cucumber, peaceful, meat/fat
+
+4. Deep Sea Diving - treasure chests
+Chests
+a steel-encased strongchest
+   A large steel-encased strongchest sits conspicuously on the ground,
+     coated with silt.
+   Key will fall out of a corpse or can be dug up. If you do not find
+     the key, TURN CHEST HANDLE RIGHT
+   Gold: 500 to 22000
+
+a coral-encrusted chest
+   A coral-encrusted chest of moderate size blends in with its
+     surroundings.
+   PUSH CHEST every time it remains stuck
+   Gold: under 1000
+
+a strongchest of pale bone
+   A large strongchest embellished with pale bone sits unobtrusively
+     on the side.
+   OPEN WITH EXTREME CAUTION
+   Gold: I've opened 2. One was 22k the other was 45k. Salvage cost
+     me 20k.
+
+5. Deep Sea Diving - techniques, tips, and tricks
+1.  Leadlines are your friend. Any shipfitter can make one for you.
+      TRADEWHO SHIPFITTING. It requires 10 leather and 40 rope.
+      SHIP TAKE SOUNDING will tell you ahead of time if it's a good
+      location to dive and deep sea fish.
+2.  If you do not have a diamond-tipped shovel, take extras. They will
+      break.
+3.  Post one person topside deep sea fishing to serve as look out.
+4.  Do not raise the bell until everyone is accounted for.
+5.  You can return topside as soon as you are in the bell, while it
+      remains on the ocean floor just SHIP LEAVE BELL. You cannot
+      re-enter the bell until it's topside.
+6.  You do not have to raise the bell the entire way each time you dive.
+      Once you see brightness you can SHIP LOWER BELL. "The bell
+      continues its ascent into the brightness above."
+7.  Recommendations: Kill the aggressives, they are more likely to drop
+      a key. Kill the other creatures. Dig the entire area. Then if you
+      still have not found a key and have a steel-encased strongchest,
+      TURN CHEST HANDLE RIGHT.
+8.  Most of your dives will be one bell. Anything above one bell is more
+      likely to have a sea dragon. Those happen once a month, per sea
+      floor area.
+9.  When you cook, severed fingers are worth good gold, if one falls
+      out of the sea creature keep it, AB SHIPFITTING SCRIMSHAW.
+10. Pale bone chests - good gold, lots of risk. You open these up with
+      the skeleton keys made through shipfitting. At the moment you
+      unlock the chest, you have a random chance of summoning a sea
+      monster. Beware, I did not summon a level 1, I summoned a level 5.
+      2 chomps and my cutter was sunk. So get the gold and put it in
+      your pack, FAST and take necessary steps for this potential event.
+11. CLHELP DEEPSEATREASURE in the Hashan Navy clan gives you a list of
+      the items you might dig up, when digging on the ocean floor.
+12. All deep sea creatures can be used to cook; except dragons, spiders,
+      hippocampi, and merrow.
+13. You can butcher all creatures before cooking them.
+14. Activating Helm Aura level 5 is 20 pts to crew morale per creature
+      as you cook them.
+15. Deckhand level 1 or 2 adds 200 common food to larder per creature.
+      Deckhand level 3 to 5 adds 200 good food to larder per creature.
+16. A Sailors' Decree artefact allows you to specialise anywhere on
+      land.
+      You do not need to sail to the specialists. ARTSEARCH SEAFARING
+
+Questions or concerns, contact Czan

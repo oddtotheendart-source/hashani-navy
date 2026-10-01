@@ -1,0 +1,244 @@
+clhelp seamonsters
+Composed by: Micharoj on or about the 17th of Ero, 914 AF.
+
+Seamonsters can be killed by shooting discs from a thrower and darts
+from a ballista at the monster. You can not target a seamonster like
+another ship, you must FIRE <weapon> AT SEAMONSTER. Darts and discs both
+count as the same thing, one shot.
+
+Firing from an onager:
+
+Spidershot   - Decrease the damage of a seamonster's next attack.
+
+Starshot     - Slow a seamonster's attack speed for a short time.
+
+Chainshot    - Slow a seamonster's movement speed for a short time.
+
+Flares - Stop a monster moving for a short time, fired from any weapon
+
+Chainshot and flares are useful if you are trying to escape a randomly
+drawn seamonster while sailing somewhere.
+
+
+
+Seamonster hunters like to classify monsters on different levels. Each
+level has a specific amount of shots from darts/discs to kill it.
+
+Level 1 - 20 shots
+Level 2 - 25 shots
+Level 3 - 30 shots
+Level 4 - 40 shots
+Level 5 - 60 shots
+
+For quick reference:
+
+
+1 - Flying Sheilei, Foam-Wreathed Sea Serpent, Mudback Septacean,
+Red-Faced Septacean
+
+Beware of close-ranged attacks on hull and sails (rarely both), very
+rarely sail entanglement, and little on-board adventurer damage.
+
+Monsters here take 20 hits to die, and trophies turn in for 5000 gold.
+
+--NESTS:
+There are no currently known nests for this type of monster, however
+they can be found through random encounters.
+
+
+2 - Mass of Sargassum, Gargantuan Angler Fish, Gargantuan Megalodon,
+Raging Shraymor
+
+Beware of mid-ranged attacks on hulls and sails (often both), common
+sail entanglement, and low on-board adventurer damage
+
+Monsters here die within 25 hits, and trophies turn in for 7500 gold.
+
+--NESTS:
+Southwest of Tapoa, around the statue (occasionally spawns level 3
+raiders)
+
+
+3 - Furious Sea Dragon, Pirate Ship, Red-Sailed Kashari Raider, Trio of
+Raging Sea Serpents
+
+Beware of mid-ranged, strong attacks on hulls and sails (often both),
+common sail entanglement, disruption of shipmelding, and low-medium
+on-board adventurer damage.
+
+Monsters here take 30 hits to die, and trophies turn in for 15000 gold.
+
+--NESTS:
+Southwest of Tapoa, around the statue (only raiders)
+*Northeast of Clockwork Isle, around the statue in the chops
+*South of Tenwat Harbour
+*BEWARE that these nests have a low chance of spawning a surprise
+leviathan
+
+
+4 - Monstrous Ketea, Monstrous Picaroon, Sea Hag, Unmarked Warship
+
+Beware of long-ranged, strong attacks on hulls and sails (often both),
+common sail entanglement, disruption of shipmelding and dragon-level
+on-board adventurer damage.
+
+Monsters here take 40 hits to die, and trophies turn in for 50000 gold.
+
+--NESTS:
+*East of Zanzibaar, south of the statue
+*West of Phereklos
+*BEWARE that these nests have a low chance of spawning a surprise
+leviathan
+
+
+5 - Hulking Oceanic Cyclops, Legendary Leviathan, Towering Oceanic Hydra
+
+Beware of long-ranged, very strong attacks on hulls and sails (often
+both), common sail entanglement, disruption of shipmelding, preventionof
+wavecall, and dragon-level on-board adventurer damage.
+
+Monsters here take 60 hits to die, and trophies turn in for 100000 gold.
+
+--NESTS:
+South of Clockwork Isle, through the straits
+
+
+Observed seamonsters include:
+
+FLYING SHEILEI (level 1 - 20 shots)
+The serpentine body of this sheilei shimmers with translucent golden
+scales, measuring more than nine feet in length. Its tail fin nearly
+doubles the length, however, lashing back and forth like a cat's tail. A
+pair of broad, flat pectoral fins extend outward like aqueous wings,
+delicate in appearance yet powerful enough to propel the creature out of
+the water. The most striking feature of the monster, however, is its
+broad jaw and enormous mouth, filled with three rows of razor-sharp
+teeth that curve and twist, locking together like a tangle of briars.
+
+FOAM-WREATHED SEA SERPENT (level 1 - 20 shots)
+Almost a league in true length, the serpentine motions of this great sea
+snake hides half of its sinuous coils beneath the surface of the waves.
+Iridescent fins frill along the undulating body, enabling propulsion
+through the deep waters of the ocean and churning up pallid seafoam with
+their passage above and beneath the surf. Akin to its landbound cousins,
+but much multiplied in size, the monster's head is that of the classic
+snake's in shape, but larger than a troll. Black eyes stare dully out
+from the blue mottled scaling, and a great forked tongue tastes the
+tidal spray, flickering from between a terrifying set of fangs.
+
+MUDBACK SEPTACEAN (level 1 - 20 shots)
+Covered with a mottled pattern of dark brown shades, the back of this
+creature appears to be covered in mud. Seven fleshy tentacles protrude
+from its underbelly, flashing yellow and green as they writhe around its
+form. A pair of beady black eyes is set near the base of the glob-like
+body, and a sharp, beak-like mouth periodically emits a shrill,
+punctuated shriek.
+
+RED-FACED SEPTACEAN (level 1 - 20 shots)
+Little more than a flat black glob of slime, the distinguishing feature
+of this tentacled creature is a patch of crimson surrounding two beady
+eyes. Seven serpentine tentacles twitch beneath the shapeless body,
+curling and twisting as it searches constantly for prey.
+
+MASS OF SARGASSUM (level 2 - 25 shots)
+Coloured an ugly brownish-green and composed of countless blades of
+algae, this mass of sea grass moves about at the whim of the ocean's
+current, carrying broken wood and debris along with it. Clutched in the
+briny grasp of the sargassum are numerous bloated bodies, each one
+devoid of eyes and in various states of decay. In some places, openings
+exist where fish circle about to feed on the rotting remains.
+
+GARGANTUAN ANGLER FISH (level 2 - 25 shots)
+The ghostly lantern hanging before it from an arcing, bony spine casts
+an eerie glow over the sea, illuminating the terrible visage of this
+enormous fish in spectral green light. Jagged teeth, each easily the
+length of a seastrider's bowsprit, protrude from its fell, yawning maw
+at all angles; a sailor's body could disappear into the horrid,
+rancorous pit without a trace. Spiny ridges cover the monster's body,
+which is armoured with a mail of blanched umber scales, oily and dark.
+Its beady, squinting black eyes, far too small for a beast of such size,
+gleam with remorseless, predatory hunger. The enormous fish powers
+forward relentlessly with an array of veiny, fan-shaped fins, its
+lurching gait doing nothing to abate the angler's focused, pitiless
+glare.
+
+GARGANTUAN MEGALODON (level 2 - 25 shots)
+Its streamlined, muscular body stretching out nearly eighty feet from
+snout to tail, this massive beast is terrifying to behold. Black eyes,
+small in comparison to the rest of its body, stare out from a large head
+lined by five gill slits and culminating in a pointed snout and an
+incredibly large mouth filled with row after row of huge, sharpened
+teeth. The dorsal fin of the oversized shark is proportionate to its
+size, and rises up from the monstrosity's back, while two pectoral fins
+extend out from its sides. Large enough to cause serious damage on its
+own, the megalodon's tail is, by itself, easily the size of a regular
+shark.
+
+RAGING SHRAYMOR (level 2 - 25 shots)
+Countless rows of jagged white teeth line the gaping black maw of this
+enormous shraymor, dripping with seawater and the acidic mucus of the
+creature's own body. Easily a dozen meters long, its monstrous shape
+looms as thick around as a redwood, culminating in a great tail fin that
+sends it hurtling through the water at furious speeds. The front of its
+body is entirely dedicated to its massive jaws, and three large black
+eyes glare out in a triangular formation on either side of its head. A
+constant roaring noise accompanies the monster's passage as churning
+waters and consumed materials whirl about violently within its cavernous
+stomach.
+
+FURIOUS SEA DRAGON (level 3 - 30 shots)
+This sinuous dragon is possessed of massive, serpentine proportions,
+bluish-black diamond-shaped scales interlocking seamlessly over its
+entire body and covering the creature in a powerful sheath of protective
+armour. Four clawed fins, a pair in the front and towards the back
+underside of the dragon, fold smoothly along each of its sides, their
+surfaces fluted at the ends and incredibly delicate in comparison to the
+scale-armoured parts of the creature. Long, spined fins are visible
+adorning its ventral and dorsal sides, and a mighty caudal fin beats
+vertically through the water, spanning approximately nine feet in
+length. The head of the dragon is tapered and massive, sporting five
+curved, slick black horns that project backwards from his crocodilian
+visage. A countless number of tiny, razor-sharp teeth shine within the
+dragon's gaping maw, while two wickedly sharp tusks curl out some length
+from the edges.
+
+PIRATE SHIP (level 3 - 30 shots)
+This ship is large but sleek in design, able to cut nimbly through the
+waves despite its size. Manned by a motley but efficient looking crew,
+the ship is equipped with an onager, ballista, and Arcanian arm thrower:
+sufficient weaponry to intimidate any ship caught unawares.
+
+RED-SAILED KASHARI RAIDER (level 3 - 30 shots)
+The stench of charnel and rot surrounds this raiding vessel in an
+odiferous, but invisible cloud, the telltales of a slaver's ship.
+Effluence stains the wood below the various portholes, the black streaks
+a mark of its abhorrent cargo. Trademarks of the Kashari raiders, the
+sails and flag are a bright, crimson red, blood their mark and blood
+their trade.
+
+TRIO OF RAGING SEA SERPENTS (level 3 - 30 shots)
+Almost a league in true length, the serpentine motions of this great sea
+snake hides half of its sinuous coils beneath the surface of the waves.
+Iridescent fins frill along the undulating body, enabling propulsion
+through the deep waters of the ocean and churning up pallid seafoam with
+their passage above and beneath the surf. Akin to its landbound cousins,
+but much multiplied in size, the monster's head is that of the classic
+snake's in shape, but larger than a troll. Black eyes stare dully out
+from the blue mottled scaling, and a great forked tongue tastes the
+tidal spray, flickering from between a terrifying set of fangs.
+
+MONSTROUS KETEA (level 4 - 40 shots)
+Olive scales greater in size than the burliest of warhorses cover this
+gargantuan creature. With slab-like teeth it gnashes at the surrounding
+waters, churning it into eddies and whirlpools effortlessly. Its length
+rises and dips into the water at various points, creating huge hills of
+olive in the foam-flecked torrents. Raised out of the water, the
+creatures' tail ends in a dripping barb, oozing caustic venom from its
+sharp point. At the other, a head rivalling a windcutter in size, is
+filled to the brim with countless fangs.
+
+MONSTROUS PICAROON (level 4 - 40 shots)
+A single, monstrous eye emerges from the centre of this sea creature's
+gigantic forehead. The skin is creased and deeply wrinkled around the
+oculus, indicating the great age of the monstrous picaroon. Scars are
+visible zig-zagging across the monster's face, extending over a pair of

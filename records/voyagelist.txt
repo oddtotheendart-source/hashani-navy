@@ -1,0 +1,153 @@
+clhelp voyagelist
+Composed by: Icraa on or about the 4th of Ero, 924 AF.
+
+Voyages should be challenging and are a test of a sailors skill, but
+knowing how to obtain them and what to expect from them should not be
+part of the challenge. If you wish to add or change the information
+please follow the template and provide as much information as you are
+willing to (without ruining the surprise for those who have never done a
+voyage).
+
+See CLHELP VOYAGES and HELP VOYAGES for what voyages and how to properly
+obtain them for your ship.
+
+Tourist
+
+Obtained At: Thraasi with Otryn present
+
+Length: Long. Otryn wants to see 6 different places.
+
+Summary: Help a friendly traveler see the world, and not just from the
+deck of your ship.
+
+Helpful hints: Do not leave the tourist behind! It's hard to help
+someone sightsee when they are not following you.
+
+
+A Treasure Voyage
+
+Obtained: Look for a corked glass bottle in a harbour and open in on
+your ship.
+
+Length: Short. One destination.
+
+Summary: Read the treasure map, follow to clues, and find the treasure!
+
+Hints: This one is very short and straightforward. The toughest part is
+finding a corked bottle!
+
+
+A Captains Voyage
+
+Obtained: Harbormaster at man-made harbours.
+
+Length: Medium. Will take several days to complete.
+
+Summary: Guide an unusual companion around the world and dig for clues.
+I'm sure they will need whatever you can dig up as you sail to different
+islands.
+
+Helpful Hints: Share what you find with your pangolin friend and don't
+lose them!
+
+
+An Indebted Voyage
+
+Obtained: Harbormaster at man-made harbours.
+
+Length: Variable. Related to the Kraken hunt.
+
+Summary: This is necessary to gain the benefits of slaying the Kraken.
+
+Hints: Needs to be picked up before the Kraken is summoned. See CLHELP
+KRAKEN for more info on the Kraken hunt.
+
+
+A Surgeons Voyage
+
+Obtained: Averroes in New Hope.
+
+Length: Long. You must sail to one island in each of the four oceans.
+
+Summary: Speak to Averroes and then embark on a journey to find and give
+offerings to the four sea spirits. Blow the conch shell and return to
+Averroes after for your reward.
+
+Hints: None of the items to offer are on the island they are to be
+offered at. Obtain the offerings and then travel to the four location to
+offer them.
+
+
+A Cursed Voyage
+
+Obtained: Harbormaster at man-made harbours.
+
+Length: Long. Several islands to visit as well as additional quests to
+complete on them.
+
+Summary: Help break the curse and enlist Yudhishthira's help to do so.
+
+Hint: You will have to fetch an item to get Yudhishthira to agree to the
+quest and then fetch what he requires to break the curse.
+
+
+Smuggler
+
+Obtained: Dock workers on islands.
+
+Length: Short.
+
+Summary: Help a dock worker smuggle goods to an individual on another
+island.
+
+Hint: Very short and straightforward, but maybe not worth the meager
+reward.
+
+
+Priestess
+
+Obtained: Riparium during a New Moon
+
+Length: Short.
+
+Summary: Listen to the priestess' story and put her to rest.
+
+Hint: Remember to dig up the skull and drop it where needed.
+
+
+Grievous
+
+Obtained: from any harbour where you can pick up voyages.
+
+Length: The longest voyage of them all
+
+Summary: uncover a child trafficking plot.
+
+Helpful hints: This is a very dangerous voyage, bring a crew of dragons.
+
+
+Sight
+This one requires you and your crew to have completed the majority of
+the other voyages to be eligble.
+
+Obtained: can be found in either claw cove, new hope, valho coast or sea
+lion cove, it is only available from one of those locations at any given
+time, and the location moves.
+
+Length: Short.
+
+Summary: Haul Maya's Sundred Pearl up from the depths, and fight its
+crew.
+
+Helpful hints: the Pearl is near where the voyage was picked up. Be
+prepared for a long and difficult fight, bring a crew of dragons.
+Fog-wreathed
+
+Obtained: can only be picked up immediately after you have completed
+Voyage of Sight, from the same dockworker.
+
+Length: Short
+
+Summary: Travel into the mist...
+
+Helpful hints: Good luck!

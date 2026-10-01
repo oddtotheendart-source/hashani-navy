@@ -1,0 +1,65 @@
+clhelp traderewards
+Composed by: Rhydian on or about the 8th of Glacian, 883 AF.
+
+TRADE REWARDS
+
+A breakdown of the rewards available through ship trading (CLHELP
+SHIPTRADES).
+
+
+Morale/Experience:
+Increases by a set amount. Morale is about 400 points, experience does
+not seem to scale to current crew levels. Not worthwhile except for a
+newling crew up to Apprentice rank.
+
+Gold:
+65,000, 75,000, 100,000, or 200,000
+
+Bound Credits:
+5, 10, or 25
+
+Weapon Ammunition:
+Ammo for ship weapons.
+
+A Barrel of Rum:
+You can DRINK out of it. Self-refilling, lasts 50 Achaean Months.
+
+A Striking Sea Captain's Hat:
+Tricorn hat made out of ostrich skin. PUSH or PULL to make your crew
+salute you. Lasts 200 months.
+
+A Great Notic Amulet:
+Amulet crafted in worship of the Caspeid Notia. Attach to figurehead and
+turn amulet to petition for a blessing. WARNING: The Caspeid's
+capricious nature may induce her to curse you rather than bless you.
+Tinker at your own risk.
+
+A Hollowed Skull:
+Use it to play the game Safe Passage. READ SKULL for instructions.
+
+An Unmarked Crate:
+Random ship furniture. Includes items like: Rope, lantern, iron bitts,
+sloop chest, etc. Purely decorative.
+
+A Pair of Seaworn Dice:
+Historically worthless for the price of the trade. Throw dice for a
+random reward.
+
+A Black-finned Flare:
+Light the flare to reveal all the ships in the same sea or ocean as your
+vessel. Must be on the water to work.
+
+A Birdcage Covered in White Cloth:
+Randomly contains (in order of rarity) a budgie/cockatiel or parrot. Can
+be taught a single word by practicing repeatedly.
+
+A Golden Gryphon:
+Legendary, flying mount.
+
+A Reticulated Giraffe:
+Legendary mount.
+
+A Wicker Basket Containing a Ginger Ship Kitten:
+A kitten to live on your ship. It will wander from room to room, and
+gradually grow older.
+

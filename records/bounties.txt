@@ -1,0 +1,49 @@
+clhelp bounties
+Composed by: Atul on or about the 17th of Valnuary, 932 AF.
+
+Hashan Navy Bounty Board
+
+To claim a bounty, report your successful mission to the Admiral,
+Ministry of Defense, or a Regent.
+Only one bounty can be claimed at a time.
+The board is subject to change at any time.
+
+Eligibility
+Be a Petty Officer or Battle Officer.
+Complete the bounty as the Captain of an HN vessel.
+Sailors of a lower rank can crew for an Officer and use the battle
+experience towards promotion.
+
+
+Permanent Bounties
+
+BOUNTY: Sink a city enemy
+REWARD: 30,000 gold
+STATUS: OPEN. REPEATABLE
+*This can be claimed multiple times at once with a cap of 200k gold per
+year*
+
+
+Current Bounties
+
+BOUNTY: Sink Landon
+REWARD: 50,000 gold
+STATUS: OPEN
+
+BOUNTY: Sink the Last Word
+REWARD: 50,000 gold
+STATUS: OPEN
+
+BOUNTY: Sink Artanis
+REWARD: 50,000 gold
+STATUS: OPEN
+
+BOUNTY: Ashtani Ships (ANS, private owned, or Captained by Ashtani)
+REWARD: 50,000 gold
+STATUS: OPEN
+
+If you wish to have something added or removed from the bounty list,
+contact the Admiral.
+
+Happy hunting,
+Admiral Atul

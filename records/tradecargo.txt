@@ -1,0 +1,79 @@
+clhelp tradecargo
+Composed by: Zorina on or about the 7th of Aeguary, 935 AF.
+
+TRADE CARGO
+
+These are the harbours, in alphabetical order, that offer cargo as part
+of ship trades (CLHELP SHIPTRADES), and the cargo available at each. For
+more detail on purchasing and exchanging cargo through trades, see
+CLHELP TRADEDEALCHART and CLHELP TRADEMATH.
+
+Ageiro: (no fee)
+   Cargo for trade: 1 gems. Price: 2 tabac.
+   Cargo for trade: 3 silk. Price: 2 tabac.
+
+Colchis: (no fee)
+   Cargo for trade: 2 silk. Price: 3 marble.
+   Cargo for trade: 2 perfume. Price: 3 incense.
+   Cargo for trade: 3 glass. Price: 2 incense.
+
+Karbaz: (200 gold fee)
+   Cargo for trade: 2 ceramics. Price: 3 honey.
+   Cargo for trade: 2 ceramics. Price: 3 hemp.
+   Cargo for trade: 2 marble. Price: 3 hemp.
+   Cargo for trade: 2 marble. Price: 3 granite.
+
+Minos: (no fee)
+   Cargo for trade: 3 honey. Price: 4 salt.
+   Cargo for trade: 2 wine. Price: 3 marble.
+   Cargo for trade: 2 wine. Price: 3 tea.
+
+Mysia: (1000 gold fee)
+   Cargo for trade: 2 tabac. Price: 3 porcelain.
+   Cargo for trade: 2 tabac. Price: 3 silk.
+   Cargo for trade: 3 ceramics. Price: 2 porcelain.
+   Cargo for trade: 3 ceramics. Price: 2 silk.
+
+Orilla: (no fee)
+   Cargo for trade: 3 terracotta. Price: 4 cotton.
+
+Shala-Khulia : (500 gold fee)
+   Cargo for trade: 2 incense. Price: 3 glass.
+
+Shastaan: (1000 gold fee)
+   Cargo for sale: 1 cotton. Price: 1000 gp.
+   Cargo for trade: 3 hemp. Price: 4 furs.
+   Cargo for trade: 1 gems. Price: 2 perfume.
+   Cargo for trade: 3 wine. Price: 2 perfume.
+   Cargo for sale: 1 sandstone. Price: 1000 gp.
+
+Suliel: (west 500 gold fee, east no fee)
+   Cargo for trade: 1 furs. Price: 1 wool.
+   Cargo for trade: 2 incense. Price: 3 kahwe.
+
+Tasur'ke: (2000 gold fee)
+   Cargo for sale: 1 wool. Price: 1000 gp.
+   Cargo for trade: 3 granite. Price: 4 sandstone.
+   Cargo for trade: 2 kahwe. Price: 3 sugar.
+
+Thraasi: (2000 gold fee)
+   Cargo for sale: 1 ore. Price: 1000 gp.
+   Cargo for trade: 2 glass. Price: 3 fruits.
+   Cargo for trade: 2 armaments. Price: 1 spices.
+   Cargo for sale: 1 grain. Price: 1000 gp.
+
+Umbrin: (no fee)
+   Cargo for trade: 2 porcelain. Price: 3 ceramics.
+   Cargo for trade: 2 armaments. Price: 3 wine.
+   Cargo for trade: 3 kahwe. Price: 2 wine.
+
+Zanzibaar: (2000 gold fee)
+   Cargo for trade: 3 fruits. Price: 4 ore.
+   Cargo for trade: 2 tea. Price: 3 terracotta.
+   Cargo for trade: 1 spices. Price: 2 armaments.
+   Cargo for trade: 2 perfume. Price: 1 gems.
+   Cargo for trade: 3 incense. Price: 2 armaments.
+
+Zaphar: (100 gold fee)
+   Cargo for sale: 1 salt. Price: 1000 gp.
+   Cargo for trade: 3 sugar. Price: 4 grain.

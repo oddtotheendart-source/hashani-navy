@@ -1,0 +1,114 @@
+clhelp traderouteguide
+Composed by: Iolanthe on or about the 4th of Miraman, 727 AF.
+
+Calculating your Trade Routes in (a lot) of (fairly easy) steps!
+    by Captain Zbaco Silvertongue
+
+Special thanks go to my fellow members of The Sefyric Mariners Guild,
+for their work in developing the existing help scrolls, which I relied
+heavily upon while writing this guide. Extra-special thanks to my
+family, not only for their scrolls as well, but for their patience and
+understanding while answering all of my questions.
+
+
+I. Introduction
+
+Ship trading is one of those things that seems simple at first, but can
+be a bit confusing to the uninitiated. Although the official and clan
+help scrolls are a great place to start, it sometimes helps to see that
+information in a different format. I found that charting it out like
+this before I started helped a great deal.
+
+So let's get started!
+
+
+II. Preparation
+
+It's always good to prepare for your route beforehand. That way, you
+have a ready-made list of where you need to go and what cargo you need
+to pick up.
+
+Get yourself a pencil and a nice big sheet of parchment. You will want
+to spread this sheet out atop your desk - it will help you excel in
+creating your tradelists. (Yes, I did say EXCEL).
+
+Look at the clan trade help scrolls (the tradedealchart is very helpful
+here) and jot down the following information:
+
+(don't worry, I'll show you how to arrange it in just a bit!)
+
+Starting Harbours
+Mid-route Harbours
+Ending Harbour
+The cargo you will be trading, and the ratios (4:3, 3:2, etc.)
+
+Put this information into down onto your spread-out sheet of parchment
+like so. For this example, we're going to use the following trade deal:
+
+"Deliver 5 marble to Tasur'ke Harbour in return for crew morale (ship)."
+
+Harbour | Inbound Cargo |  # In   | # Out   | Outbound Cargo | Ratio |
+Shastaan| (nothing)     | XXXXXXX |         |  Sandstone     |  n/a  |
+Tasur'ke| Sandstone     |         |         |  Granite       |  4:3  |
+Karbaz  | Granite       |         |         |  Marble        |  3:2  |
+Tasur'ke| Marble        |         | XXXXXXX |  (nothing)     |  n/a  |
+
+This should be fairly self-explanatory, but I'll go over it right quick:
+
+Harbour - A stop along your trade route.
+Inbound Cargo - The TYPE of cargo you are bringing INTO a harbour.
+# In - AMOUNT of cargo you are bringing INTO a harbour.
+# Out - AMOUNT of cargo you are LEAVING with.
+Outbound Cargo - TYPE of cargo you are LEAVING with.
+Ratio - The ratio of exchange between two cargo types.
+
+
+III. Calculations
+
+For our example above, the calculations are fairly straightforward.
+
+1. Put a number into the first "# Out" box. We'll use "12" for this
+example.
+2. Next, put that same number in the "# In" box on the line just below
+it.
+3. Take that "# In" number and find the "# Out" number as so:
+
+  # Out = (# In) / (Ratio as a fraction)
+
+For this first one, it would be:
+  # Out = 12 / (4/3)
+        =  9
+		   
+There you go - if you bring 12 Sandstone from Shastaan to Tasur'ke, you
+will be able to exchange it for 9 Granite. The calculation for the trade
+at Karbaz is similar, just change the numbers and ratio:
+
+  # Out =  9 / (3/2)
+        =  6
+
+At this point, just take that final "# Out" and stick it in the row for
+your final stop - and you're done!
+
+Harbour | Inbound Cargo |  # In   | # Out   | Outbound Cargo | Ratio |
+Shastaan| (nothing)     | XXXXXXX |   12    |  Sandstone     |  n/a  |
+Tasur'ke| Sandstone     |   12    |    9    |  Granite       |  4:3  |
+Karbaz  | Granite       |    9    |    6    |  Marble        |  3:2  |
+Tasur'ke| Marble        |    6    | XXXXXXX |  (nothing)     |  n/a  |
+
+So, by using this method, we can see that on this route, if we leave
+Shastaan with 12 Sandstone, we can end up back in Tasur'ke with 6 Marble
+- enough for our trade! Of course, we will have a few extras left over
+at the end, but that's no worry - more for next time!
+
+
+IV. Conclusion
+
+This technique can be applied to any trade route - just write it out as
+shown here, and play with the numbers by starting with your first
+outbound cargo and working your way down. Remember to start out with the
+correct amount of cargo at the beginning, to get as few leftovers as
+possible.
+
+Thanks for reading, and may the trades be in your favour and the winds
+at your backs!
+

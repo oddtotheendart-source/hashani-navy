@@ -1,0 +1,30 @@
+clhelp voyages
+Composed by: Rhydian on or about the 8th of Glacian, 883 AF.
+
+VOYAGES
+
+This is a starting guide to voyaging on the high seas!
+
+Voyages or "seafaring quests" can be requested by a captain in harbours
+from dockworkers or harbourmasters:
+SAY REQUESTING A VOYAGE FOR SHIP <#>
+
+The ship in question has to be docked at the harbour where the quest is
+being requested, the person requesting it must have assumed command of
+said ship, and any crew looking to join need to be on the ship with CREW
+permissions set.
+
+Voyages will award gold and renown to everyone involved and seafaring
+talisman pieces usually only to the captain (with some exceptions).
+
+QUEST LOG OCEANS can be checked to see any voyages a person has signed
+up for, and it's important to note that while there are ways to get more
+voyages at the same time, a captain may not request a voyage if they
+already have one.
+
+Some voyages can only be requested at certain times (after new year, or
+on a full moon), and some can only be obtained at a certain harbour, and
+some only become available once you've completed the prerequisite
+voyages.
+
+See HELP VOYAGES for more details!
