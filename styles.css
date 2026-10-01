@@ -31,3 +31,9 @@
 .admiral-inner>a{margin-left:auto;font-size:13px}
 @media(max-width:1100px) and (min-width:601px){.hero .crest{width:280px}.vessel{right:15%;width:48%;bottom:0}.hero h1{font-size:62px}.hero-copy{max-width:420px}}
 @media(max-width:600px){.hero{height:760px;min-height:760px}.hero-copy{padding:230px 22px 0;max-width:85%}.hero h1{font-size:52px}.vessel{width:78%;right:2%;bottom:0}.hero-copy>p:not(.eyebrow){font-size:17px}.motion-control{top:auto;bottom:18px}.admiral-inner{padding:18px 22px;gap:18px;flex-wrap:wrap;min-height:180px}.admiral-portrait{width:100px;height:145px}.admiral-inner h2{font-size:25px}.admiral-inner .eyebrow{font-size:9px;letter-spacing:1px}.admiral-inner>a{margin-left:118px;margin-top:-15px}.admiral-inner p{font-size:12px}}
+.admiral-banner{left:30%;bottom:16px;gap:12px;padding:0;z-index:2;align-items:center}
+.admiral-banner .admiral-portrait{width:85px;height:120px;object-fit:cover;object-position:center top;align-self:auto}
+.admiral-banner h2{font-size:20px;margin:4px 0}
+.admiral-banner .eyebrow{font-size:9px;letter-spacing:2px}
+@media(max-width:1100px) and (min-width:601px){.admiral-banner{left:7%;bottom:12px}.admiral-banner .admiral-portrait{width:70px;height:95px}.admiral-banner h2{font-size:18px}}
+@media(max-width:600px){.hero{height:820px;min-height:820px}.vessel{bottom:100px}.admiral-banner{left:22px;bottom:14px}.admiral-banner .admiral-portrait{width:65px;height:90px}.admiral-banner h2{font-size:18px}.motion-control{bottom:20px}}
