@@ -1,0 +1,144 @@
+cityships
+clhelp cityships
+Composed by: Hendrik on or about the 21st of Chronos, 956 AF.
+
+This scroll contains information of interest regarding the Hashan Navy,
+Ministry of Maritime Affairs, and the vessels of the fleet.
+
+=== RULES OF OPERATION ===
+
+When taking out or returning any city ship, make sure you check the
+following:
+
+STRONGBOX GOLD:
+Return this to the original amount when you leave the ship, unless
+you're doing a city service such as a marque run, training run or
+monster hunt for Navy profit.
+
+TOKENS:
+These can be viewed using SHIP STORES CHECK.
+Each ship should have a total of three tokens per denizen crew member.
+For the cutters this is 126, for striders 318 and for the galleys 393.
+If you take a ship out and the number is below this, notify the
+Minister, or if you're an aide, withdraw funds and fix it.
+If it's below two per crew member (84 for the Cutters, 212 for the
+Striders and 262 for the Galley) then do not take that ship out until it
+is fixed.
+If you sink a ship, token stores need to be returned to three per member
+after salvaging. For more info on salvaging, see the section below.
+
+MANOEUVRES:
+Every ship should be left on EVASIVES, and if you change these during
+your trip, you should ensure that they are changed back once you finish
+your trip.
+
+FLAGS:
+All ships should be flying a Hashani emblazoned flag.
+Pre-emblazoned flags can be purchased at cost from Small Wicked Things
+in Hashan.
+
+GEAR:
+It is recommended to have a ship's axe for each crew member on board,
+along with sufficient buckets and rope for dousing fires.
+In case of emergency, tokens for adventurer crew can be purchased from
+Captain Maelstrom; these will return the user to Tasur'ke port when
+used, though they will deplete a very large chunk of your endurance and
+willpower reserves.
+**Note Maelstrom sells two types of tokens, the etched ones for 5,000
+gold and the blank ones for 100 gold. Anyone with near trans seafaring
+can etch the blank ones, and this is a much cheaper way of procuring
+them.
+
+COMMSCREEN:
+Keep this lowered at all times on city ships, to allow contact with the
+mainland to be unhindered.
+
+BOARDING/CREW PERMS:
+It is illegal to bring non-Hashani aboard Hashani naval ships for any
+reason, for more information read CHELP NAVALPOLICY.
+
+PIRACY:
+Hashani naval ships are only to be used to attack enemies of the Court
+or others with good reason, for more information read CHELP NAVALPOLICY.
+
+
+== REGARDING SINKING AND SALVAGING ==
+
+If you get a city ship sunk while on Navy business and obeying the rules
+for borrowing ships, the Navy will cover the costs. This includes things
+like marque runs for citizens, training runs, events for the city or
+endeavours such as fishing trips or monster hunts where the profit is
+going towards the Navy directly.
+
+If you are using a ship for personal use or a Trade deal, you must cover
+the costs of salvage including replacing tokens and food stores.
+
+To salvage a ship travel to the nearest harbour (any harbour, manmade or
+not) and HARBOUR SALVAGE SHORTNAME. Once it has been salvaged at the
+following midnight, you must re-equip it with token and food stores, and
+order the crew to repair it. If you are confused or in any way unsure
+about how to salvage a ship and re-equip it, DO NOT PROCEED. Message the
+Minister or an aide, make a log note to the Navy Clan and be prepared to
+refund costs when the ship is salvaged.
+
+While you can salvage a ship with another ship, this is not usually
+considered efficient, and in many cases can be highly dangerous and time
+consuming so it is not recommended. Only do so if you are experienced.
+
+**TOKENS SHOULD BE RETURNED TO THE LEVEL OF 3 PER DENIZEN CREW NUMBER
+AFTER SINKING. THIS IS EXTREMELY IMPORTANT, AND FORGETTING TO DO SO WILL
+RISK YOU LOSING YOUR CAPTAIN PERMISSIONS.**
+
+
+=== PIRACY ===
+
+If you are sailing a city ship or a ship owned by a citizen flying a
+Hashani or Hashani Navy flag and you are attacked without provocation,
+log the encounter and result along with anyone taking part on both
+sides, to the Hashani Navy clan. This is a crime, and they can be
+charged accordingly.
+
+
+=== WINDCUTTERS ===
+
+HNS Black Wave** (HNBW), located in Orilla
+HNS Silver Spectre** (HNSS), located in the Ilyrean Isles
+HNS Vasselart (HNVA), located in Shastaan
+
+These ships are not to be moved from their general areas (Ilyrean Isles,
+Meropis) unless given permission. HNBW must be returned to Orilla once
+your trip is over (do NOT strand it at Prin, unless given permission!)
+
+STRONGBOX: Should remain between 10,000 and 20,000 gold.
+TOKENS: 126
+STORES: Should remain over 10,000 stores of any type.
+AMMO: Should have at least 50 flares of any colour.
+
+
+=== SEASTRIDERS ===
+
+HNS Shadow Tempest (HNST)
+HNS Edge of Night (HNEN)
+
+These ships must be returned to any mainland harbour after use.
+
+STRONGBOX: Should remain between 10,000 and 25,000 gold.
+TOKENS: 318
+STORES: Should remain over 5000 stores of any type.
+AMMO: Should have at least 1000 of each ammo, and 50 flares of any
+colour.
+
+
+=== GALLEYS ===
+
+HNS Grey Wind (HNGW)
+HNS Verdict of the Court (HNVC)
+
+These ships must be returned to any mainland harbour after use.
+
+STRONGBOX: Should remain between 15,000 and 30,000 gold.
+TOKENS: 393
+STORES: Should remain over 5000 stores of any type.
+AMMO: Should have at least 1000 of each ammo, and 50 flares of any
+colour.
+  

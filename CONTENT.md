@@ -30,3 +30,7 @@ All exact scroll bodies; the expressly missing targetlist helpfile; rank hierarc
 ## Membership source received 2026-10-01
 
 The user supplied successful CLAN MEMBERS output, preserved verbatim in records/clan-members-2026-10-01.txt. It contains 60 ACTIVE member entries and marks Ildiko Isariel and Admiral Elius Mor'akova as clan heads. This supplies the original record for Elius's Admiral title. Active status is a snapshot of that output, not a live status claim. Displayed personal titles are preserved without treating them as an ordered Navy rank structure. The uploaded facing elius.png is used in the approved banner.
+
+## Operational source received 2026-10-01
+
+CLHELP CITYSHIPS, Hendrik, 21 Chronos 956 AF, copied unchanged from the attached Pasted text.txt to records/cityships.txt. CHELP NAVALPOLICY, Nezaya, 3 Sarapin 927 AF, transcribed from the user's message to records/navalpolicy.txt, preserving spelling and the supplied line structure. verified.js contains clearly labeled editorial summaries and exact-source links/inline text. These are the supplied records, not verification of later revisions. No enemy list is inferred. The 51-topic planned CLHELP catalogue remains separate from the CHELP policy section.

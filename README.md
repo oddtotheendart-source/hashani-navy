@@ -18,7 +18,7 @@ A task-based player reference for Achaea, with visual topic guides, readable edi
 - [ ] **Trade calculator:** establish inputs and formulas from trademath, tradecargo, tradedealchart, traderewards, and traderouteguide. Keep user-entered prices distinct from source figures, state units and rounding, and verify calculations against recorded examples before publication.
 - [x] **Elius portrait:** integrated into the approved banner. Ticca placement remains to be decided.
 - [x] **Admiral provenance:** supplied CLAN MEMBERS output records Admiral Elius Mor'akova (clan head).
-- [ ] **Original scrolls:** add verbatim successful CLHELP output with recorded attribution. All 51 catalogue entries currently reserve space for source text.
+- [ ] **Original scrolls:** CITYSHIPS and the separate CHELP NAVALPOLICY are now supplied, attributed, and preserved with editorial references above them. The other 50 planned CLHELP topics await exact output.
 - [ ] **Missing targetlist:** obtain the helpfile; do not invent targets.
 - [ ] **Navy ranks:** supply the exact rank order and advancement requirements.
 - [x] **Navy member roster:** 60 recorded ACTIVE members added with exact source output. Navy rank assignments remain outstanding.
