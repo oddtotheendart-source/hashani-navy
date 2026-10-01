@@ -6,3 +6,10 @@ document.querySelector('#navy-ranks').before(policy);
 const battle=document.querySelector('#battle-stations .editorial');battle.insertAdjacentHTML('beforeend','<p><a href="#naval-policy">Foreign ships, boarding, and engagement: read Naval Policy →</a></p>');
 const city=document.querySelector('#scroll-cityships');city.querySelector('summary .small').textContent='The Ship’s Book · Original text supplied';city.querySelector('p').innerHTML='<a href="#ships-book">View the city-ships readiness reference</a> · <a href="records/cityships.txt">Exact CLHELP CITYSHIPS · Hendrik · 21 Chronos, 956 AF</a>';
 document.querySelectorAll('.exact-scroll').forEach(async el=>{try{const response=await fetch(`records/${el.dataset.record}.txt`);if(!response.ok)throw new Error('Unavailable');el.textContent=await response.text();}catch{el.textContent='Inline source unavailable. Use the exact source link above.';}});
+/* Fixed parchment surface with an independently scrolling exact transcript. */
+const policyTranscript=document.querySelector('#naval-policy .exact-scroll');
+const policyPaper=document.createElement('div');policyPaper.className='policy-parchment';
+policyTranscript.before(policyPaper);
+const paperHeading=document.createElement('div');paperHeading.className='paper-heading';paperHeading.textContent='HASHANI NAVY · THE ORIGINAL RECORD';
+policyPaper.append(paperHeading,policyTranscript);
+policyTranscript.tabIndex=0;policyTranscript.setAttribute('role','region');policyTranscript.setAttribute('aria-label','Original naval policy scroll, scrollable text');
