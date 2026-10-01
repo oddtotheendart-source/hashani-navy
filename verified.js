@@ -13,3 +13,14 @@ policyTranscript.before(policyPaper);
 const paperHeading=document.createElement('div');paperHeading.className='paper-heading';paperHeading.textContent='HASHANI NAVY · THE ORIGINAL RECORD';
 policyPaper.append(paperHeading,policyTranscript);
 policyTranscript.tabIndex=0;policyTranscript.setAttribute('role','region');policyTranscript.setAttribute('aria-label','Original naval policy scroll, scrollable text');
+/* Reflow the policy source for reading while retaining its wording. */
+function typesetNavalPolicy(text){
+ const documentBody=document.createElement('div');documentBody.className='exact-scroll policy-document';documentBody.tabIndex=0;documentBody.setAttribute('role','region');documentBody.setAttribute('aria-label','Original naval policy, scrollable document');
+ const lines=text.replaceAll('\r','').split('\n');
+ const command=document.createElement('p');command.className='document-command';command.textContent=lines.shift();documentBody.append(command);
+ const attribution=document.createElement('p');attribution.className='document-attribution';attribution.textContent=lines.shift();documentBody.append(attribution);
+ const remaining=lines.join('\n').replace(/^[-]{3,}\s*$/gm,'').trim();
+ for(const block of remaining.split(/\n\s*\n/)){const wording=block.replace(/\s*\n\s*/g,' ').trim();if(!wording)continue;const heading=/^=NAVAL POLICY REGARDING FOREIGN SHIPS=$/.test(wording);const element=document.createElement(heading?'h3':'p');element.textContent=heading?wording.slice(1,-1):wording;documentBody.append(element);}
+ const oldTranscript=document.querySelector('#naval-policy .exact-scroll');if(oldTranscript)oldTranscript.replaceWith(documentBody);
+}
+fetch('records/navalpolicy.txt').then(r=>{if(!r.ok)throw new Error('Unavailable');return r.text();}).then(typesetNavalPolicy).catch(()=>{});

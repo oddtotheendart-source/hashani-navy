@@ -52,3 +52,11 @@
 .policy-parchment .exact-scroll::-webkit-scrollbar{width:10px}.policy-parchment .exact-scroll::-webkit-scrollbar-track{background:#d8c093;border-radius:5px}.policy-parchment .exact-scroll::-webkit-scrollbar-thumb{background:#8b6e42;border:2px solid #d8c093;border-radius:5px}
 .policy-parchment .exact-scroll:focus-visible{outline:2px solid #71522b;outline-offset:5px}
 @media(max-width:600px){.policy-parchment{padding:18px 14px}.policy-parchment .exact-scroll{max-height:65vh;font-size:12px;padding-right:10px}.paper-heading{font-size:9px;letter-spacing:1.5px}}
+.policy-parchment .exact-scroll{font-family:Georgia,'Times New Roman',serif;font-size:17px;font-weight:600;line-height:1.85;color:#292219}
+.policy-parchment .policy-document{white-space:normal;padding:12px 24px 12px 12px}
+.policy-document p{margin:0 0 22px}
+.policy-document .document-command{font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:2px;color:#66512f;margin-bottom:10px}
+.policy-document .document-attribution{font-size:14px;font-style:italic;color:#57462d;font-weight:500;padding-bottom:20px;border-bottom:1px solid #92734370}
+.policy-document h3{font-size:26px;font-weight:700;text-align:center;line-height:1.3;margin:25px 0 30px;color:#30281b}
+.paper-heading{font-weight:700;color:#453824;letter-spacing:2.5px}
+@media(max-width:600px){.policy-parchment .exact-scroll{font-size:15px;line-height:1.8}.policy-document h3{font-size:22px}.policy-parchment .policy-document{padding:8px 12px 8px 4px}}
