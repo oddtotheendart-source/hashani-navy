@@ -1,4 +1,10 @@
 'use strict';
+const hero=document.querySelector('.hero');
+const motionButton=document.createElement('button');
+motionButton.type='button';motionButton.className='motion-control';
+motionButton.textContent='Pause header motion';motionButton.setAttribute('aria-pressed','false');
+motionButton.addEventListener('click',()=>{const paused=hero.classList.toggle('motion-paused');motionButton.setAttribute('aria-pressed',String(paused));motionButton.textContent=paused?'Resume header motion':'Pause header motion';});
+hero.append(motionButton);
 const sections = [
  ['quarterdeck','The Quarterdeck','I have just joined','welcome whatnow basiccommands progression seafaring',['Welcome','First steps','Commands','Progression'],'For a first reading, begin with the welcome and introductory scrolls, then consult the command and progression records. This order is a reading guide; the Navy’s requirements must be taken from the original text.'],
  ['watch-bill','The Watch Bill','I need to choose a shipboard role','specialisations specialists command deckhand helm watch weapons',['Command','Deckhand','Helm','Watch','Weapons'],'Consult the specialisation records before turning to the scroll for a particular station. Duties, qualifications, and assignments remain to be transcribed from the Navy record.'],
