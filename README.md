@@ -14,6 +14,7 @@ A task-based player reference for Achaea, with visual topic guides, readable edi
 - GitHub Pages publication from main.
 
 ## Remaining work
+- [ ] **Specialisation alias pop-out (future):** explain and optionally generate client-specific aliases for saved point allocations by duty. Include per-rank/cumulative SPP costs (now shown beside rank descriptions). Verify the artefact name/help, exact change command, docked-location restriction reported by the project owner, and client syntax before providing runnable aliases. Teacher-based changes and artefact changes must be distinguished.
 - [ ] **Voyage details:** populate the Voyage Board from the exact voyages, voyagelist, and bounties records. Add source-backed conditions, requirements, and rewards; do not imply that a bounty is currently active without evidence.
 - [ ] **Trade calculator:** establish inputs and formulas from trademath, tradecargo, tradedealchart, traderewards, and traderouteguide. Keep user-entered prices distinct from source figures, state units and rounding, and verify calculations against recorded examples before publication.
 - [x] **Elius portrait:** integrated into the approved banner. Ticca placement remains to be decided.
