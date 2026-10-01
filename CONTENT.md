@@ -25,4 +25,8 @@ The at-a-glance displays organize topics, not verified gameplay procedures. All 
 
 ## Outstanding records
 
-All exact scroll bodies; the expressly missing targetlist helpfile; original Admiral log excerpt; Elius portrait; rank hierarchy and advancement requirements; Navy member roster. No gameplay thresholds, coordinates, targets, prices, or member assignments are inferred.
+All exact scroll bodies; the expressly missing targetlist helpfile; rank hierarchy and advancement requirements; Navy rank assignments. No gameplay thresholds, coordinates, targets, prices, or member assignments are inferred.
+
+## Membership source received 2026-10-01
+
+The user supplied successful CLAN MEMBERS output, preserved verbatim in records/clan-members-2026-10-01.txt. It contains 60 ACTIVE member entries and marks Ildiko Isariel and Admiral Elius Mor'akova as clan heads. This supplies the original record for Elius's Admiral title. Active status is a snapshot of that output, not a live status claim. Displayed personal titles are preserved without treating them as an ordered Navy rank structure. The uploaded facing elius.png is used in the approved banner.

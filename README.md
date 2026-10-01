@@ -16,12 +16,12 @@ A task-based player reference for Achaea, with visual topic guides, readable edi
 ## Remaining work
 - [ ] **Voyage details:** populate the Voyage Board from the exact voyages, voyagelist, and bounties records. Add source-backed conditions, requirements, and rewards; do not imply that a bounty is currently active without evidence.
 - [ ] **Trade calculator:** establish inputs and formulas from trademath, tradecargo, tradedealchart, traderewards, and traderouteguide. Keep user-entered prices distinct from source figures, state units and rounding, and verify calculations against recorded examples before publication.
-- [ ] **Portrait integration:** review the newly uploaded Elius and Ticca images, select Elius's front-facing portrait for the lower-left Admiral feature, and determine Ticca's placement. The uploaded files are available; the banner still uses an initial-letter placeholder.
-- [ ] **Admiral provenance:** attach the exact log excerpt naming Elius Mor'akova as Admiral.
+- [x] **Elius portrait:** integrated into the approved banner. Ticca placement remains to be decided.
+- [x] **Admiral provenance:** supplied CLAN MEMBERS output records Admiral Elius Mor'akova (clan head).
 - [ ] **Original scrolls:** add verbatim successful CLHELP output with recorded attribution. All 51 catalogue entries currently reserve space for source text.
 - [ ] **Missing targetlist:** obtain the helpfile; do not invent targets.
 - [ ] **Navy ranks:** supply the exact rank order and advancement requirements.
-- [ ] **Navy member roster:** supply names, ranks, and assignments.
+- [x] **Navy member roster:** 60 recorded ACTIVE members added with exact source output. Navy rank assignments remain outstanding.
 - [ ] **Operational references:** derive verified ship-readiness references, maps/routes, crew duties, combat procedures, hunting details, and trade tables from the source scrolls.
 - [ ] **Final content review:** check editorial explanations against originals and review desktop/mobile presentation after the content and portraits are integrated.
 
