@@ -1,0 +1,61 @@
+clhelp harbourdirections
+Composed by: Rhydian on or about the 7th of Glacian, 883 AF.
+
+Directions:
+Ashtan              "The harbour of Ashtan"
+                    From the Central Market, 4NW, 3N, E, 3N, W, 2NW, N,
+                    NW, 3N, NW, N
+
+Bitterfork          "Sandy beach"
+                    From "On Lake Orestis" (the entrance to Selene's
+                    temple), 2W, S, NW, SW, N, W, 2NE, NW, N, NW, SW, W,
+                    S, W, N, W, SW, W, SW, W, N
+
+Mhaldor Isle        "Northern end of Claw Cove"
+                    From "A broken landscape" (the surface entrance to
+                    Blackrock), N, W, NW, N, NE, N, E, 2N, W, SW, 3N,
+                    2W, 2N, SW, S, 2SW, 2SE
+
+Muurn River Valley  "A stretch of beach near the sea"
+                    From the ferry near the Aalen, S, SE, S, SE, SW,
+                    SE, S
+
+Mysia               "On the Mysian dock"
+                    From the ferry, N
+
+New Hope            "Rock-strewn beach"
+                    From Nearing the Peshwar Delta, SW, S, SW, SE, W,
+                    SW, S, SW, SE, S
+
+Phereklos           "In icy shallows"
+                    From "Rocky peninsula" at the far northwest of
+                    Northreach, CLIMB DOWN CLIFF, NW, W
+
+Polyargos           "Shore of a shallow bay"
+                    From the ferry to the Aalen, S
+
+Riparium            "A rocky beach in a cove"
+                    From the eastern bridge of Delos, 3E, 2NE, E, 2SE,
+                    4E, NE, SE, D, 2NE, U, E, SE, D, W, SW
+
+Sea Lion Cove       "A sandy stretch of beach"
+                    From Mount Nicator, 2D, SE, 2SW, D, NE, D, S, U, W,
+                    D, W, SW, 2D, E, 2D, NE, E
+
+Shala-Khulia        "A natural harbour"
+                    From the ferry to the Aalen, W
+
+Shastaan            "Overlooking the sea"
+                    From the Mermaid's Tail Bait and Bar, N, 2E, NE
+
+Tasur'ke            "The harbour of Tasur'ke"
+                    From the central square, 3E, U, 2E, TURN FIGURE,
+                    PUSH FIGURE, TURN FIGURE, 2D, OUT, 3D, NE, 2E
+
+Ulangi              "Beach alongside a rock-strewn lagoon"
+                    From the ferry to Shastaan, 3SE, D, SE
+
+Ulangi              "Fortified harbour"
+                    From the ferry to Shastaan, 2NE, 3E, NE, S, SE, W,
+                    S, U, NW, U, W, D, E, IN, 2E, N, W, NW, W, SW, W,
+                    D, NW

@@ -1,0 +1,123 @@
+Composed by: Rhydian on or about the 7th of Glacian, 883 AF.
+
+Friendly harbours are safe-havens for your ship. Once your ship is
+moored, hostile ships can no longer attack it. Keep in mind, however,
+that the weather will still damage her integrity, albeit much less than
+in the open ocean. If your ships hull garners too much damage, she will
+sink in the harbour and need to be salvaged.
+
+If your ship is in a man-made harbour, she will be drydocked after a
+length of time having never left the harbour. So keep in mind that the
+officials of man-made harbours will not allow a ship to sit idly at a
+jetty for an extended period of time. If your ship is drydocked, it
+costs gold and time to have the dockworkers move it back to the harbour
+proper.
+
+HARBOURS AND FEES
+
+Port          |            Description
+Aalen         | A stretch of beach near the sea.
+Ageiro        | Upon a rotting dock.
+Altar         | Upon a thin strip of fine black sand.
+Ashtan        | The Harbour of Ashtan.
+Bitterflow    | Sandy beach.
+Clockwork     | Rusted landing.
+Colchis       | End of a large dock.
+Eastern Shore | Overlooking the sea. (Shastaan)
+Eirenwaar     | Rocky beach at the base of a mountain.
+Ilyrean Isles | A nearly frozen harbour.
+Karbaz        | A quay upon dark waters
+Lothos        | Empty sandy beaches
+Mhaldor       | North End of Claw Cove
+Minos         | End of the eastern pier.
+Mysia         | On the Mysian dock.
+New Hope      | Rock-strewn beach.
+No Idea Isle  | A bleak rocky outcropping rising from the waves
+North Forest  | Sandy beach.
+N. Scrublands | Rockbound cove.
+Orilla        | Overlooking the lagoon.
+Phereklos     | In icy shallows.
+Polyargos     | Shore of a shallow bay.
+Prin          | A massive fallen tree.
+Rageteeth     | Rageteeth beach.
+Riparium      | A rocky beach in a cove.
+Sealion Cove  | A sandy stretch of beach.
+Shala-Khulia  | A natural harbour.
+Shallam       | The harbour of Shallam.
+Shiparena     | A broad beach/ A crescent-shaped island
+Shipwreck Isle| A hidden cove.
+Targossas     | A natural harbour. The harbour of Targossas
+Ulangi        | Beach alongside a rock-strewn lagoon.
+Suliel, East  | A lowland cove.
+Suliel, West  | An icy pier.
+Tapoa         | North end of the beach.
+Tasur'ke      | The harbour of Tasur'ke.
+Tenwat        | A desolate shoreline.
+Thraasi       | Upon a reinforced pier.
+Tuar          | A shadowy landing.
+Ulangi, North | Fortified harbour.
+Ulangi, South | Beach alongside a rock-strewn lagoon.
+Umbrin        | Boardwalk between moored ships.
+Valho Coast   | By the gelid waters.
+Zanzibaar     | Overlooking the harbour.
+Zaphar        | At the end of a pair of docks.
+
+
+N = Natural harbour that cannot service repairs. Only man-made docks can
+provide sail and hull repairs, and repair costs are higher the larger
+the harbour and the more damage that has been done. There is no option
+to drydock here and your ship will decay at an increased rate if left
+here for too long
+
+M - Manmande harbour that offers repair and drydocking services.
+#= shipmark that can be scribed to a map
+
+| Free Ports      |    AKA      | Capacity | Renown |
+|#N Aalen         | Muurn River |    20    |        |
+|#M Ageiro        |             |    10    |        |
+| N Altar         |             |    10    |        |
+|#N Bitterflow    | Northforest |     5    |        |
+|#M Colchis       |             |    10    |        |
+|#N Eirenwaar     |             |    10    |   50   |
+|#N Ilyrean Isles | Ilyrean     |    10    |   50   |
+|#N Lothos        |             |    30    |   50   |
+|#M Minos         |             |    30    |   50   |
+|#N New Hope      |             |    10    |   30   |
+| N No Idea Isle  |             |    40    |        |
+|#N North Forest  | Bitterflow  |     5    |        |
+| N N. Scrublands | Meropis     |    10    |        |
+|#N Orilla        | Meropis     |    30    |   50   |
+|#N Phereklos     |             |     5    |        |
+|#N Polyargos     |             |     5    |        |
+|#N Prin          |             |    30    |   30   |
+|#N Rageteeth     | Meropis     |    30    |        |
+|#N Riparium      |             |    25    |        |
+|#N Rheodad       |             |     5    |        |
+|#N Sea Lion Cove |             |     5    |   30   |
+|#N Shiparena     | Shiparena   |    10    |        |
+| N Shipwreck Isle|             |    10    |        |
+|#N Suliel (east) |             |    10    |        |
+|#N Tapoa         |             |     8    |        |
+|#N Tenwat        |             |    10    |   50   |
+|#N Tuar          |             |    10    |   50   |
+|#M Umbrin        |             |    30    |   50   |
+|#N Ulangi(south) |             |    15    |        |
+|#N Valho Coast   |             |    20    |        |
+
+C = Crew
+P = Provisions
+#R= Renown
+
+| Paying Ports     | Cost |  Services   | Capacity |
+|#M Clockwork      | 1000 |             |    5     |
+|#M Eastern Shore  | 500  | C  P  50R   |   75     |(Shastaan)
+|#M Karbaz         | 200  |             |    5     |
+|#M Mysia          | 1000 | C  P  30R   |   15     |
+|#M Shala-Khulia   | 500  |    P  30R   |    5     |(Shalakhulia)
+|#M Suliel (west)  | 500  | C     50R   |   15     |
+|#M Targossas      | 1000 | C  P        |   30     |
+|#M Tasur'ke       | 2000 | C  P        |   75     |(Tasurke)
+|#M Thraasi        | 2000 | C  P        |   75     |
+|#M Ulangi (north) | 34463|             |    0     |
+|#M Zanzibaar      | 2000 |       30R   |   20     |
+|#M Zaphar         | 100  |             |    5     |
