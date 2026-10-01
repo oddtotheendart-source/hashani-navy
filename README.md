@@ -43,3 +43,4 @@ Voyage Board includes voyage learning, sea trade, and Ship Arena suggestions sup
 
 ## Navy calendar
 Merchants-style twelve-month Achaean calendar, Eastern/UTC/device clocks, and Eastern event-time conversion with daylight-saving gap/overlap detection. Starting browse year 1015 is explicitly a reference, not current time. Live game-date synchronisation awaits a confirmed DATE/TIME anchor; Navy events await actual dates. Source: https://www.achaea.com/local/Achaea_Manual.pdf
+Shared Merchants festival dates and host periods are read from the Merchants repository on each visit, with a saved 1 October 2026 fallback. Crucible cooking event is also included; its source does not specify a real-world time zone.
