@@ -25,7 +25,7 @@ The at-a-glance displays organize topics, not verified gameplay procedures. All 
 
 ## Outstanding records
 
-All exact scroll bodies; the expressly missing targetlist helpfile; rank hierarchy and advancement requirements; Navy rank assignments. No gameplay thresholds, coordinates, targets, prices, or member assignments are inferred.
+All 51 indexed HN topics are captured. Twelve topics are still preserved in the supplied 1 October 2026 session log rather than extracted to individual repository text files: BASICCOMMANDS, MAPNEW, SHIPTYPES, SUNK, UNDERATTACK, AMMO, COMBATTRAINING, COMBATVOLUNTEERS, NWTCREW, NWTINTRO, NWTSTRATEGY, and SAILORS. Rank hierarchy/member assignments beyond the supplied role and membership records remain separate questions. No gameplay thresholds, coordinates, targets, prices, or member assignments are inferred.
 
 ## Membership source received 2026-10-01
 
@@ -50,3 +50,14 @@ CLHELP HARBOURDIRECTIONS: Rhydian, 7 Glacian 883 AF, preserved in records/harbou
 Additional captain command list: Rhydian, 8 Glacian 883 AF, crediting Ilsefi, preserved in records/captain-basic-commands.txt. No helpfile topic heading was supplied; routing under basiccommands is provisional and explicitly labeled. commands.js separates the command reference and editorial notes from exact source text. Original angle-bracket arguments, vertical-bar alternatives, capitalization, and the comma-separated rigging line are preserved in the source. The quick reference displays the rigging commands individually.
 
 CLHELP CITYSHIPS, Hendrik, 21 Chronos 956 AF, copied unchanged from the attached Pasted text.txt to records/cityships.txt. CHELP NAVALPOLICY, Nezaya, 3 Sarapin 927 AF, transcribed from the user's message to records/navalpolicy.txt, preserving spelling and the supplied line structure. verified.js contains clearly labeled editorial summaries and exact-source links/inline text. These are the supplied records, not verification of later revisions. No enemy list is inferred. The 51-topic planned CLHELP catalogue remains separate from the CHELP policy section.
+
+
+## Complete HN registry and TARGETLIST received 2026-10-01
+
+The HN index is now complete at **51 / 51 captured topics** across the original headings: Basics (12), Specialisations (7), Combat (8), Activities (14), Guides (9), and Misc (1). `registry.js` is the website master registry and maps every original topic to its working website section and presentation type without replacing the source hierarchy.
+
+CLHELP TARGETLIST was supplied directly by the user, composed by Aurola on or about the 18th of Mayan, 974 AF. The exact supplied text is archived unchanged as `records/targetlist.txt`. Its ship names, shortnames, and affiliations are reproduced as source data. Presence on the list is not independently interpreted as hostile because the same scroll includes HNS Verdict of the Court and describes the table as a common Hashani ship target list.
+
+## Navy calendar added 2026-10-01
+
+The site now includes an interactive month calendar for Navy events and sailings. The scheduled-event data begins empty because no dated Navy event has been supplied. Suggested activities remain on the Voyage Board and are not converted into calendar events until a date is actually announced.
