@@ -1,0 +1,145 @@
+clhelp seaspells
+Composed by: Minkai on or about the 19th of Mayan, 832 AF.
+
+Seaspells
+
+Seaspells are useful abilities that are gained 423 lessons into
+the Seafaring skill, excepting the Hunger seaspell which you gain
+automatically. They can be used to speed your journey from port
+to port, escape or hide from pirates, or chase after fleeing
+ships yourself.
+
+In order to use seaspells, you must first obtain a figurehead.
+These are sold in a variety of places in a variety of shapes. At
+first, your figurehead will simply be a block of carved wood. In
+order to empower it with the ability to use seaspells, you must
+take it to the Altar of Sea Spirits and consecrate it.
+
+The Altar of Sea Spirits is located roughly southwest of Zaphar's
+port. After disembarking, take the figurehead to the altar, place
+it on the gorund, and PRAY TO SEA SPIRITS. After a while, the
+figurehead will be consecrated, and hold a modest amount of
+power. Take it to the bow of your ship and SHIP MOUNT
+<figurehead>. From that point on, you can meld with the ship by
+standing at the bow and using INVOKE SEA SPIRIT. You can issue
+orders while melded as if you were on the quarterdeck, if you are
+the captain. RELSEASE SEA SPIRIT or move away from the bow in
+order to break the connection.
+
+Seaspells require a certain amount of power in the figurehead in
+order to use. Power is restored to a figurehead by sailing - the
+more you travel over water, the more power will build up. If a
+figurehead is completely drained of power, it will be destroyed.
+Resetting figureheads will merely pop off the bow and require
+reconsecration. It's important to track your figurehead's power,
+through TOUCH FIGUREHEAD while melded, so that you don't
+accidentally destroy it.
+
+Most seaspells must be invested into a figurehead in order to use
+them. Investing can only be done while in a port or harbour,
+though you can check what seaspells have been invested at any
+time. There are eight investable seaspells, of which you are only
+able to use four. There are two pairs of seaspells that are
+mutually exclusive with each other. Investing one spell means
+being unable to invest the other. These are Shipcloak and
+Wavecall, and Shield and Rainstorm. Hunger is a special seaspell
+that does not require investing to use.
+
+== HUNGER ==
+    INVOKE HUNGER <seamonster>
+    Power Cost: 300
+
+    This seaspell is specially designed to be used while hunting
+    seamonsters. It casts a spectral net upon the targetted
+    seamonster and, should the seamonster die before the net
+    fades, the figurehead that cast the net will be replenished
+    by a significant amount of power. This helps to replenish
+    figurehead power during long seamonster hunts.
+NOTE: This seaspell can only be used on level 2.5 or higher
+    seamonsters. You must be melded with the figurehead to use this
+    spell.
+
+
+== Shipcloak ==
+    INVOKE CLOAK
+    DISSOLVE CLOAK
+    Power Cost: 250
+
+    Surrounds your ship in a cloak of darkness, preventing it
+    from being seen by other ships. Any flares shot nearby will
+    dissolve the cloak and reveal you. As well, moving while
+    cloaked will still allow nearby sailors with shipwarning to
+    see that a ship is moving nearby, but won't reveal the name
+    of your ship.
+
+
+ == Wavecall ==
+    INVOKE WAVECALL <direction> <distance between 1-8>
+    Power Cost: Varies
+
+    This useful seaspell will catapult your ship instantly in
+    whatever direction you specify, by however many metrons you
+    specify, up to eight. It doesn't change the direction or the
+    speed at which your ship is moving, even when wavecalling in
+    the opposite direction. Use of this ability costs both power
+    and personal endurance, and damages the hull, all of which
+    will increase with the distance chosen. Also, if any nearby
+    sailors have shipwarning up, they will be able to see your
+    ship use wavecall, as well as the direction you went in. Be
+    aware that you cannot wavecall while grappled, and in the
+    presence of some high level seamonsters.
+    NOTE: You must be melded with the figurehead to use this spell.
+
+
+== Shield ==
+    INVOKE SHIELD
+    Power Cost: 200
+
+    Raises a shield around your ship to protect it from damage
+    attacks. Another ship using a wavescythe spell can shatter
+    it.
+
+
+== Rainstorm ==
+    INVOKE RAINSTORM
+    Power Cost: 50
+
+    Summon a rainstorm to douse all decks and sails of fires at
+    once.
+
+
+  == Barrier ==
+    INVOKE BARRIER
+    DISSOLVE BARRIER
+
+    Power Cost: 300
+
+    Provides prismatic barriers around all aboard your ship. Once
+    invoked, it will continually create barriers that are lost,
+    but at the cost of more power from the figurehead. You must
+    dissolve the barrier to stop them from being made.
+
+
+  == Windboost ==
+    INVOKE WINDBOOST
+    Power Cost: 150
+
+    A very handy seaspell, it temporarily boosts your ship's
+    speed.
+
+
+  == Whirlpool ==
+    INVOKE WHIRLPOOL <direction>
+    Power Cost: 200
+
+    Using this seaspell summons whirlpools temporarily around your
+    ship. Passage into and out of these whirlpools is slow and
+    difficult, making it easier to run from someone chasing you
+    that gets caught in one.
+
+
+  == Wavescythe ==
+    INVOKE WAVESCYTHE <target ship>
+    Power Cost: 200
+
+    Shatters the magical shield of another ship within range.

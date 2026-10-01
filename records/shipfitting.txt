@@ -1,0 +1,89 @@
+clhelp shipfitting
+Composed by: Rhydian on or about the 23rd of Ero, 886 AF.
+
+Shipfitters (TRADEWHO SHIPFITTING) can dye sails and paint, stain, or
+trim ship hulls. These modifications are visible when you SHIP LOOK from
+aboard the ship, SHIP LOOK <dir> at an adjacent ship, or SHIP LOOK
+<alias> while standing at the harbour. Dyed sails are visible on
+shipwarning.
+
+Ships that have already been prettified using an artefact pail must be
+restored before they can be further modified. A shipfitter can restore
+the ship using ship commodities.
+
+To decorate a ship, you will need shipfitting supplies that are made
+from regular comms. A shipfitter can prepare the following:
+Shipwood:  50 wood and 10 iron
+Shipiron:  50 iron and 10 steel
+Shipcloth: 50 cloth
+Shiplines: 50 rope and 10 iron
+Pitch:     50 wood and 10 animal fat
+
+To dye the sails of a ship, you will require a mixture of red, blue and
+yellow pigments and these base costs:
+Windcutter: 15 shipcloth. (750 regular cloth)
+Seastrider: 30 shipcloth. (1500 regular cloth)
+War Galley: 60 shipcloth. (3000 regular cloth)
+
+To paint/stain a ship, you will require a mixture of red, blue and
+yellow pigments and these base costs:
+Windcutter: 5 shipwood. (250 wood 50 iron)
+Seastrider: 15 shipwood. (750 wood 150 iron)
+War Galley: 30 shipwood. (1500 wood 300 iron)
+
+Colours available for sails/stains/paints:
+Crimson:            150 redpigment.
+Pink:               150 redpigment.
+Orange:             75 redpigment and 75 yellowpigment.
+Golden:             150 yellowpigment.
+Violet:             75 redpigment and 75 bluepigment.
+Indigo:             50 redpigment and 100 bluepigment.
+Forest green:       100 bluepigment and 50 yellowpigment.
+Cyan:               130 bluepigment and 20 yellowpigment.
+Blue:               150 bluepigment.
+Midnight blue:      150 bluepigment.
+Tan:                40 redpigment, 40 bluepigment and 70 yellowpigment.
+Maroon:             100 redpigment and 50 bluepigment.
+Brown:              50 redpigment, 50 bluepigment and 50 yellowpigment.
+Alabaster:          50 redpigment, 50 bluepigment and 50 yellowpigment.
+Grey:               50 redpigment, 50 bluepigment and 50 yellowpigment.
+Black:              50 redpigment, 50 bluepigment and 50 yellowpigment.
+Yellow:             150 yellowpigment.
+Burgundy:           120 redpigment and 30 bluepigment.
+Azure:              150 bluepigment.
+Beige:              40 redpigment, 40 bluepigment and 70 yellowpigment.
+Emerald:            75 bluepigment and 75 yellowpigment.
+
+
+To alter the trim of a ship, you will require samples of the material
+and these base costs:
+Base costs for hull trims:
+Windcutter: 5 shipwood and 5 shipiron. (250 wood 300 iron 50 steel)
+Seastrider: 10 shipwood and 10 shipiron. (500 wood 600 iron 100 steel)
+War Galley: 20 shipwood and 20 shipiron. (1000 wood 1200 iron 200 steel)
+
+Material costs for hull trimmings:
+
+Alder wood:         10 alder samples.
+Bamboo:             10 bamboo samples.
+Beech wood:         10 beech samples.
+Birch wood:         10 birch samples.
+Bone:               10 bone samples.
+Bronze:             10 bronze samples.
+Cedarwood:          10 cedar samples.
+Cherrywood:         10 cherrywood samples.
+Cocobolo wood:      10 cocobolo samples.
+Copper:             10 copper samples.
+Driftwood:          10 driftwood samples.
+Eucalyptus wood:    10 eucalyptus samples.
+Gold:               10 gold samples.
+Granite:            10 granite samples.
+Hazelwood:          10 hazelwood samples.
+Iron:               10 iron samples.
+Oak wood:           10 oak samples.
+Mother of pearl:    10 pearl samples.
+Pine wood:          10 pine samples.
+Platinum:           10 platinum samples.
+Silver:             10 silver samples.
+Steel:              10 steel samples.
+

@@ -1,0 +1,134 @@
+clhelp shipequipment
+Composed by: Rhydian on or about the 9th of Glacian, 883 AF.
+
+Shipfitters (TRADEWHO SHIPFITTING) can create many helpful items. The
+list below includes summaries of item functions and the commodity cost.
+See HELP SHIP EQUIPMENT for full details.
+
+Commodities are available through the commodities market in Hashan and
+Delos. Anyone who employs foragers can acquire cloth and rope (see HELP
+FORAGING). Miners refine iron and steel. Gatherers can obtain animal fat
+from butchering.
+
+Shipcloth:   50x cloth
+Shipiron:    50x iron, 10x steel
+Shipwood:    50x wood, 10x iron
+Shiplines:   50x rope, 10x iron
+Pitch:       50x wood, 10x animal fat
+
+
+==Bait Tank==
+40 shipiron   2000 iron, 400 steel
+5 pitch       250 wood, 50 animal fat
+Bait within the tank decays at a slower rate than usual. Can be placed
+in any ship location.
+
+==Beacon of Iocolas==
+20 shipiron   1000 iron, 200 steel
+50 goldbar
+50 stone
+Provides more detail in SHIP LIST. Placed on the bow.
+
+==Captain's Trunk==
+5 shipwood    250 wood, 50 iron
+5 shipiron    250 iron, 50 steel
+Placed in the cabin, the trunk prevents swashbucklers from patrolling
+within. It is not a usable trunk for holding items.
+
+==Cartographer's Desk ==
+Standard:
+5 shipwood    250 wood, 50 iron
+5 shipiron    250 iron, 50 steel
+
+Large:
+15 shipwood   750 wood, 150 iron
+15 shipiron   750 iron, 150 steel
+Holds ship maps, which can be purchased blank from Maelstrom and scribed
+by seafarers while on a ship in port. Placed in the cabin. The ship
+captain can get bearings (AB SEAFARING BEARINGS) to mapped harbours.
+
+==Diving Bell==
+20 shipwood    1000 wood, 200 iron
+10 shiplines   500 rope, 100 iron
+10 pitch       500 wood, 100 animal fat
+From an anchored ship, a sailor can SHIP ENTER BELL, then SHIP LOWER
+BELL to explore the undersea. Once in the bell, SHIP RAISE BELL and SHIP
+LEAVE BELL. Placed on the quarterdeck.
+
+==Leadline==
+10 leather
+40 rope
+Used to take soundings to determine if an area is suitable for diving
+and fishing. Held in one's inventory.
+
+==Mariner's Sextant==
+15 shipiron    750 iron, 150 steel
+At noon, SHIP TAKE SIGHTING will provide a rough latitude position. It
+can be placed anywhere except the cabin.
+
+==Salvage Crane==
+15 shipwood    750 wood, 150 iron
+15 shipiron    750 iron, 150 steel
+10 shiplines   500 rope, 100 iron
+Perform basic salvage operations to recover sunken ships.
+
+==Multipurpose Crane==
+20 shipwood    1000 wood, 200 iron
+25 shipiron    750 iron, 150 steel
+15 shiplines   750 rope, 150 iron
+The multipurpose crane and dredge allows you to salvage ships as well as
+sunken cargo. SHIP DREDGE gives more detail.
+
+==Ship Axe==
+15 wood
+15 iron
+Speeds up the process of chopping tethers for grappling lines. Held in
+inventory.
+
+==Cargo Buoy==
+3 shipcloth    150 cloth
+3 shiplines    150 rope, 30 iron
+Provides protection for cargo when a ship is sunk, usable only one time.
+A person with captain permissions on the sunken ship must collect the
+cargobox. When two months remain on the buoy, anyone can salvage it. It
+can be transferred back to the original ship while both ships are at the
+same harbour.
+
+==Cargo Float==
+3 shipwood     150 wood, 30 iron
+3 shiplines    150 rope, 30 iron
+Increases cargo capacity by 25 and lasts thirty months. SHIP INFO
+displays time remaining.
+
+==Loudhailer==
+10 wood
+5 cloth
+The loudhailer allows you to HAIL <ship> <message>! <ship> must be one
+word, it will work with ship target, ship IDs, partial ship names, and
+ship aliases. Everyone on your current ship and the target ship will
+hear your hails.
+
+==Bucket==
+Allows a mariner to DOUSE a ROOM where fire has been broken
+out, even in rigging.
+(Purchased in a city)
+
+==Rope==
+Required to drop a bucket over the rail to fill it with water.
+(Purchased in a city)
+
+==Spyglass==
+Allows a mariner to gain information about nearby ports,
+vessels, and creatures within certain distances.
+(Purchased from Captain Maelstrom)
+
+==Vat==
+Used to enhance ammo, giving them a chance to create fires upon
+hitting a target.
+(Purchased in Zanzibaar)
+                                              
+==Token==
+Allows a mariner to recall from a ship back to Tasur'ke.
+(Initially purchased from Captain Maelstrom, can be etched by a
+Seafarer)
+

@@ -1,0 +1,62 @@
+clhelp mapold
+Composed by: Mosr on or about the 3rd of Glacian, 682 AF.
+
+++====================================================================++
+||                     ^  Borean Ocean                                ||
+||                    (A)                                             ||
+||                                              Caspiite Reaches      ||
+||             __________________________________________             ||
+||            /                                          \            ||
+||(K)        |                                            |           ||
+||            \_____                                      |           ||
+||    _ (L)_________>                ____________________/            ||
+||   / \__/                         /                                 ||
+||  |        _______               |                                  ||
+||   \      /       \             /                (J)                ||
+||    \_    |        \            \  Bay of Darndanos                 ||
+||      \   |         |            \                                  ||
+||Breath|   \         \             \_             (I)   (H)          ||
+|| less |  _/         |               \__            Lothian Reaches  ||
+||  bay  \/            \                 \__             (G)          ||
+||      /\  Sapphire   |                    \                         ||
+||    _/ /   Sea      /                      |     ___                ||
+||   /__/            /                        \___/   \_              ||
+||                  /                                   \       Eusian||
+||                _/                                     \       Ocean||
+||               /                                        \__         ||
+||           ___/                                            \     (F)||
+||          /                                                 |       ||
+||(Mhaldor |                                                  |       ||
+||   Isle) |                                                  |       ||
+||          \                                                /  (C)   ||
+||          /                                                |     (D)||
+||         |                                                 |        ||
+||(M)       \                                              ___\Lemnian||
+||  Sea of   |                                             \     Sea  ||
+||  Terror    \                                            /          ||
+||             |                                    ______/           ||
+||              \_                                 /                  ||
+||                |                                |             ( E )||
+||               /__                                \                 ||
+||(N)      (O)      \                                |                ||
+||           (P)      |                             _/                ||
+||                   |                          __/                   ||
+||                   \______      _         ___/_                     ||
+||(Q)                       \    / \_      /   / \                    ||
+||                           |  |    \_    |  | B |                   ||
+||                            \/       \___|   \_/                    ||
+||                        Notic Ocean                                 ||
+||                                                                    ||
+||                                                                    ||
+||                                                                    ||
+||                                                                    ||
+||                                                                    ||
+||                                                       (R)          ||
+++====================================================================++
+
+A - Ilyrean Isles     B - Isle of New Hope      C - Ulangi
+D - Mysia             E - Zanzibaar             F - Clockwork Isle
+G - Colchis           H - Umbrin                I - Lothos
+J - Minos             K - Karbaz                L - Eirenwaar Island
+M - Aegiro            N - Tuar                  O - Polyargos
+P - Shala-Khulia      Q - Tapoa                 R - Zaphar

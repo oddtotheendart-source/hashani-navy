@@ -1,0 +1,36 @@
+clhelp needammo
+Composed by: Nezaya on or about the 11th of Ero, 946 AF.
+
+If you are going to be shooting things/people at sea, you are going to
+need ammo!
+
+Currently, we are allowing citizens to buy ammo from the Navy. If this
+status should change, this scroll will be altered to reflect it.
+
+You are required to leave a minimum of 1000 ammo of any time on the Navy
+ships. If it is below this, please alert the Admiral and do not take any
+of that type from that ship.
+
+We have presently set the price for ammunition at 100 gold per unit.
+This is significantly cheaper than broadly available market price.
+
+But wait! What if you want to actually donate extra ammo you have
+gathering dust to the Navy so that Hashani can buy it and our Navy can
+be strong and full of things to shoot at people? Please just go ahead
+and store it on any Navy ship and message the Admiral so they can say
+thank you.
+
+
+Useful information on ship ammo:
+
+DEPOSIT ## GOLD HN <reason>
+
+SHIP AMMO STATUS
+
+SHIP AMMO REMOVE ## <ammo type>
+
+SHIP AMMO STORE <ammo type> (no number!)
+
+Please do not hesitate to ask the Admiral or any Maritime Aides any
+questions you have regarding this. Happy sailing! Set them all on fire.
+

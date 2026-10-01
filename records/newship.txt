@@ -1,0 +1,71 @@
+clhelp newship
+Composed by: Kuriel on or about the 16th of Glacian, 829 AF.
+
+Congratulations on your new ship! This checklist will help ensure that
+you get the new vessel fully outfitted and ready for the rigors of the
+sea, at minimal cost and with only slight inconvenience. As ever, make
+sure to read the various clan scrolls and to ask for help when
+necessary. We also strongly recommend new captains pursue at least Petty
+Officer status in the Navy, via CLHELP PROGRESSION, to fill out any gaps
+in their sailing knowledge.
+
+CREW
+
+1) See CLHELP CREW, for relevant numbers.
+2) Visit Thraasi, Tasur'ke, or Shastaan and HARBOUR CREW FORHIRE to see
+how many are available to hire. Use HARBOUR commands to hire. We
+recommend hiring the maximum crew on all vessels.
+3) You can hire crew to any ship, from those harbours. So even if your
+ship is docked in Tasu'rke, you can hire crew from Shastaan. Presumably
+they walk to your ship on their own.
+4) Check SHIP CREW from anywhere on the ship, to confirm status.
+
+STORES
+
+1) The basic harbour commands are HARBOUR PURCHASE # TOKEN STORES FOR
+shipname and HARBOUR PURCHASE # COMMON/GOOD/FINE STORES FOR shipname.
+2) We recommend purchasing token stores equal to your total number of
+crew, times three. We recommend purchasing 10 common stores initially,
+to get your crew eating.
+3) If you have access to bait fish, cooking is often a better option for
+filling your stores, because it increases crew morale (especially in
+conjunction with the helm aura) while also filling your larders. But the
+specifics of cooking and increasing morale are beyond the scope of this
+scroll.
+4) Use the guidelines in HELP CREW to set rations. Better rations
+increase morale faster.
+5) Check SHIP STORES from the quarterdeck or cabin, to confirm status.
+
+STRONGBOX
+
+1) We recommend placing no more than 20-30k gold in your strongbox, to
+prevent very large plunders from enemy ships cleaning you out entirely.
+2) In the cabin, SHIP STRONGBOX DEPOSIT # gold.
+3) Use the guidelines in HELP CREW to set wages. Better wages increase
+morale faster.
+4) SHIP STRONGBOX CHECK in the cabin, to confirm status
+
+AMMO AND WEAPONS
+
+1) Ask the Navy clan for low prices on ammunition. We sell at a fraction
+of any market value.
+2) Review HELP SHIP WEAPONS for the costs. Consider nondecaying your
+weapons with SHIP REQUISITION NONDECAY weaponname.
+3) SHIP AMMO anywhere on the ship will allow you to store, remove, or
+check what you have. SHIP WEAPON STATUS anywhere on the ship will
+confirm location and status of all weapons.
+
+FIGUREHEAD
+
+1) Review CLHELP SEASPELLS for instructions
+
+NAMING AND FLAGGING
+
+1) Disembark, with a bottle of strong drink on hand
+2) SHIP NAME to name your ship
+3) Board, and use SHIP SET ALIAS to create a short name for your ship
+4) Obtain a flag with a recognisable coat of arms. Hashan sells Hashani
+flags, with our city arms over purple or violet, which we recommend all
+allied ships fly at all times
+5) SHIP HOIST FLAG, from the quarterdeck or bow.
+

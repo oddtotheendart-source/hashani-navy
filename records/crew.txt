@@ -1,0 +1,77 @@
+clhelp crew
+Composed by: Rhydian on or about the 6th of Glacian, 883 AF.
+
+SHIP CREW
+              
+                  
+CREWMATES (500g to hire)
+                              
+                  War Galley  Seastrider   Windcutter
+Size                Large       Medium       Small
+Crew Barebones        4            2            1
+Crew Low              8            5            2
+Crew Basic           32           20            8
+Crew Normal*         44           30           12
+Crew Large**         56           40           16
+Crew Huge***         70           60           24
+
+The more crewmates you have, the faster you row and the slower your crew
+tires (endurance). Your crewmates are unseen for the most part.
+
+SHIPMATES (3000g to hire)
+                                      
+                      Recommended     Maximum Useful
+                      -----------     --------------
+For a War Galley          50                50
+For a Seastrider          40                40
+For a Windcutter          15                15
+
+The more shipmates you have, the faster any repairs are managed.
+
+SWASHBUCKLERS (5000g to hire)
+                                      
+                      Recommended     Maximum Useful
+                      -----------     --------------
+For a War Galley           6                11
+For a Seastrider           5                 8
+For a Windcutter           3                 3
+
+Swashbucklers wander around your ship to protect your shipmates (and
+you!) in the event of an attack on deck. They are not able to be
+assigned a station either and CAN get trapped behind closed doors.
+
+RECOMMENDATIONS
+
+1. Personnel
+Though not necessarily the only option you have, the following are the
+crew numbers recommended in general for a successful ship. The numbers
+are presented in a format of Crewmates/Shipmates/Swashbucklers.
+
+For a Windcutter: 24/15/3  (72000g to hire)
+For a Seastrider: 60/40/5 (225000g to hire)
+For a War Galley: 70/50/6 (275000g to hire)
+
+2. New Crew
+While training and moralising your crew, it is recommended that you pay
+them generous wages and activate Helm aura at the maximum level to keep
+their spirits up and help them get the most out of every journey. The
+fastest way to boost morale is by cooking stores with Helm aura
+maximised. The fastest way to gain experience is by killing seamonsters,
+which is also good for morale.
+
+3. Crew Training & Upkeep
+Crewmates and shipmates will gradually gain experience from performing
+their rowing and repairing duties. Swashbucklers only gain experience
+from seamonster kills, crew experience trades, and plundering or being
+plundered. Morale needs to be maintained by keeping the crew fed and
+paid.
+Empty stores or strongboxes will harm morale.
+
+4. Base Wages - The End Goal
+Once a ship's crew is fully moralised, their wages can be reduced
+gradually, but you will need to compensate for decreased morale each
+time you lower them. The minimum pay levels or "base wages" are 4 bits
+for crewmates, 6 bits for shipmates, and 2 gold, 4 bits for
+swashbucklers. If you top up morale to maximum after dropping the wages
+to these levels, it will not decrease anymore due to low wages.
+

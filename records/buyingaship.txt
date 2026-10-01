@@ -1,0 +1,138 @@
+clhelp buyingaship
+Composed by: Kuriel on or about the 25th of Phaestian, 849 AF.
+
+Modern Ship Buying For The Discerning Captain
+By Kuriel Al'Jafri
+
+THE SHORT VERSION
+
+Usually the most cost-effective way to buy a new ship is to collect the
+maximum number of shiplines and shipcloth allowed for your desired ship
+type in HELP SHIPTYPES. As long as those commodities are outside of your
+rift when you COMMISSION, you will receive a discount on the total cost
+and you will be quoted a price about 70 percent of the total commission
+cost.
+
+The aforementioned applies in the era in which I am writing, in which
+rope and cloth are plentiful, iron and steel are only moderately
+expensive, and wood prices are ridiculously high.
+
+AN EXAMPLE
+
+Let us say you wish to purchase a brand new strider. Without any
+commodities, it will cost you 5 million gold. With all of the suggested
+commodities on HELP SHIPTYPES, it will cost you 1,250,000 gold. Because
+of many considerations explained below, the bottom line is that you'll
+want to collect 300 shiplines and 300 shipiron (the maximum allowed in
+HELP SHIPTYPES), remove those 600 commodities from your rift, WALKTO
+MAELSTROM and COMMISSION SEASTRIDER. Instead of the full price of 5
+million gold, he will quote you 3,950,000 gold. Unless you have access
+to free wood, iron, and steel, this is currently your best discount.
+
+THE BRIEF DETAILS
+
+Unless comm prices drastically change, you'll want to exclusively
+collect shiplines and shipcloth and pay for the rest of the ship out of
+pocket. Here's what you'll need:
+
+Cutter: 1.5K Iron, 7.5K Cloth, 7.5K Rope
+
+Stride: 3K Iron, 15K Cloth, 15K Rope
+
+Galley: 6K Iron, 30K Cloth, 30K Rope
+
+Bring those comms to any shipfitter, and ask them to make the maximum
+amount of shipcloth and shiplines available to the ship of your choice
+in HELP SHIPTYPES. Outrift those, walk to your ship vendor, commission
+the vessel, and see the discount.
+
+THE FULL DETAILS
+
+The full cost of each ship type, without any shipcomms, is:
+
+Cutter: 2.5 million gold
+Strider: 5 million gold
+Galley: 10 million gold
+
+But when commissioning a ship, each shipcomm that you are holding (not
+in your rift) is assigned a gold value that is deducted from the total
+cost of the ship, as long as the number of shipcomms that you're using
+does not exceed the figures in HELP SHIPTYPES. In the ship market, each
+shipcomm is valued at:
+
+Shipwood: 3000 gold
+Shipiron: 2250 gold
+Shipcloth: 1750 gold
+Shiplines: 1750 gold
+Pitch: 3000 gold
+
+That is not remotely its market value, because a shipcomm is a composite
+of normal commodities prepared by a shipfitter. Here's the conversion
+rate:
+
+Shipwood: 50 wood and 10 iron
+Shipiron: 50 iron and 10 steel
+Shipcloth: 50 cloth
+Shiplines: 50 rope and 10 iron
+Pitch: 50 wood and 10 animal fat
+
+As you may already have noticed, the ship market seriously undervalues
+most commodities. Although 1 shipwood deducts 3000 gold from your ship
+purchase, in the current market it would cost something like 10,000 gold
+to obtain 1 shipwood. However, it also overvalues some commodities. 1
+shipcloth deducts 1750 gold from your ship purchase, but at current
+market prices it would only cost 900 to purchase 1 shipcloth. Therefore,
+it pays to know the comms market, and to have a general idea of where
+shipcomms save money and where they cost it.
+
+Below is the total breakdown of comm costs for each ship type, converted
+to conventional comms so that you can easily check prices via CM LIST.
+Since we do conclude that, in most cases, you're best off buying just
+shipcloth/shiplines and paying for the rest in gold, the conversion rate
+for just that method is also included below.
+
+CUTTER
+Max Shipcomms: 100 pitch, 200 shipwood, 200 shipiron, 150 shiplines, 150
+shipcloth
+Total Comms Cost: 15K Wood, 13.5K Iron, 2K Steel, 7.5K Cloth, 7.5K Rope,
+1K Fat
+Total Shipcloth/Shiplines Alone: 1.5K Iron, 7.5K Cloth, 7.5K Rope
+
+STRIDER
+Max Shipcomms: 200 pitch, 400 shipwood, 400 shipiron, 300 shiplines, and
+300 shipcloth.
+Total Comms Cost: 30K Wood, 27K Iron, 4K Steel, 15K Cloth, 15K Rope, 2K
+Fat
+Total Shipcloth/Shiplines Alone: 3K Iron, 15K Cloth, 15K Rope
+
+GALLEY
+Max Shipcomms: 400 pitch, 800 shipwood, 800 shipiron, 600 shiplines, 600
+shipcloth
+Total Comms Cost: 60K Wood, 54K Iron, 8K Steel, 30K Cloth, 30K Rope, 4K
+Fat
+Total Shipcloth/Shiplines Alone: 6K Iron, 30K Cloth, 30K Rope
+
+Unfortunately, the formula for figuring out the value that the ship
+market places on any one commodity requires a few simultaneous
+equations, none of which are pretty. For the mathematically inclined,
+they are:
+
+Shipwood: 300 gp= 5*wood + iron
+Shipiron: 225 gp= 5*iron + steel
+Shipcloth: 175gp= 5*cloth
+Shiplines: 175gp= 5*rope + iron
+Pitch: 300gp= 5*wood + fat
+
+It would make little sense to solve any of these equations in a scroll,
+because the market value of each commodity is constantly in flux. But
+given the current market value of any commodity, it should be
+easy enough to use the above equations to figure out if you happen to
+have found a good deal, assuming you're buying all of the comms needed
+for that particular shipcomm. The mathematically inclined will note that
+there's no real way of figuring out the objective value of any of those
+comms except for cloth (35gp). The even more mathematically inclined may
+figure out a way and make me look pretty silly for saying that.
+
+Special prize to anyone who can figure out, based on all of this, the
+ship market value of each commodity. Until then, I leave you with the
+unsolved math and wish you fair winds and following seas.
