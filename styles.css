@@ -85,3 +85,30 @@ html{scroll-padding-top:calc(var(--nav-height,100px) + 12px)}
 .merchant-events{margin-top:30px;border-top:1px solid #92734370;padding-top:20px}#merchant-event-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin:20px 0}#merchant-event-list button{display:flex;flex-direction:column;gap:8px;text-align:left;background:#ead6ae;color:#21170f;border:1px solid #92734370;padding:16px;cursor:pointer;font:14px/1.5 system-ui}#merchant-period-list article{border-bottom:1px solid #92734370;padding:12px 0}.navy-days button.shared-event-day{background:#173143;color:#fff;box-shadow:inset 0 -4px #c7a759}#game-day-details{display:block}@media(max-width:700px){#merchant-event-list{grid-template-columns:1fr}}
 .calendar-sync textarea{display:block;width:100%;max-width:100%;background:#f4e8ce;color:#21170f;border:1px solid #8b6e42;padding:12px;font:16px/1.6 Georgia;resize:vertical}.calendar-sync button{background:#173143;color:#fff;border:1px solid #8b6e42;padding:12px;font:14px system-ui;cursor:pointer}.sync-actions{display:flex;gap:12px;flex-wrap:wrap;margin-top:20px}.calendar-sync input{width:100%;max-width:400px}#sync-game-clock{max-width:160px}#sync-status{overflow-wrap:anywhere}
 #selected-trade-planner select,#selected-trade-planner textarea{width:100%;max-width:100%;min-width:0;background:#f4e8ce;color:#21170f;border:1px solid #8b6e42;padding:12px;font:15px/1.5 system-ui}#selected-trade-planner select{margin-top:10px}#selected-trade-planner textarea{resize:vertical}#selected-trade-planner label{color:#30281b}#selected-trade-planner .small{color:#443822}#planner-output table{min-width:900px}#planner-output td input{width:100px;margin:0;padding:8px}#planner-output td small{display:block}#selected-trade-planner .source-box p{color:#30281b}
+/* Ship buying: ivory typography and restrained brass on midnight navy. */
+.ship-buying{--buy-ivory:#f2e8d5;--buy-brass:#c5a66b;background:#091725;color:var(--buy-ivory);border:1px solid #c5a66b66}
+.ship-buying>summary h2{color:var(--buy-ivory)}
+.ship-buying>.reference-body{padding:0!important;background:#091725;color:var(--buy-ivory)}
+.buying-harbour{display:block;width:100%;height:auto;max-width:none;object-fit:contain;filter:none}
+.buying-content{padding:clamp(20px,4vw,48px);font-family:Georgia,'Times New Roman',serif;font-size:1.0625rem;line-height:1.7}
+.buying-content p,.buying-content li,.buying-content h3,.buying-content h4{color:var(--buy-ivory)}
+.buying-content a{color:#e0c28a}.buying-content code{color:var(--buy-ivory);background:#142b3d;font-size:.9375rem;overflow-wrap:anywhere}
+.buying-content .buying-kicker{font: .875rem/1.5 Georgia,serif;letter-spacing:.14em;text-transform:uppercase;color:var(--buy-brass);margin:0 0 16px}
+.buying-prices{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));border-top:1px solid #c5a66b77;border-bottom:1px solid #c5a66b77}
+.buying-prices article{padding:24px 18px}.buying-prices article+article{border-left:1px solid #c5a66b44}
+.buying-prices h3{font-size:clamp(1.25rem,2vw,1.75rem);margin:0 0 10px}.buying-prices p{font-size:1.5rem;margin:0;color:#e0c28a}.buying-prices span{font-size:1rem}
+.buying-content .buying-price-note{font-size:.875rem;color:#d1c6b5;margin:14px 0 34px}
+.buying-routes{display:grid;grid-template-columns:minmax(0,.85fr) minmax(0,1.15fr);gap:24px;align-items:start}
+.buying-route{padding:26px;border:1px solid #c5a66b55;background:#102131}.buying-full{border-top:3px solid var(--buy-brass)}
+.buying-route h3,.buying-completion h3{font-size:1.75rem;line-height:1.25;margin:0 0 18px}
+.buying-steps{padding-left:24px;margin-bottom:0}.buying-steps li{padding-left:6px;margin:0 0 16px}.buying-steps li::marker{color:var(--buy-brass)}
+.buying-materials{margin:24px 0 36px;border-bottom:1px solid #c5a66b55;padding-bottom:20px}.buying-materials>summary{cursor:pointer;color:#e0c28a;padding:12px 0}.buying-materials p{margin:16px 0}
+.buying-materials table{width:100%;border-collapse:collapse;font-size:1rem}.buying-materials th,.buying-materials td{padding:14px;text-align:left;border-bottom:1px solid #c5a66b44;color:var(--buy-ivory);background:#102131}.buying-materials caption{font-size:.875rem;text-align:left;padding:12px 0;color:var(--buy-brass)}
+.buying-completion{scroll-margin-top:calc(var(--nav-height,100px) + 24px)}
+.buying-finish{list-style:none;display:grid;grid-template-columns:1.5fr .7fr 1fr;gap:24px;padding:0;margin:24px 0}
+.buying-finish li{display:flex;gap:14px;border-top:1px solid #c5a66b66;padding-top:20px}.buying-finish li>span{font-size:1.6rem;color:var(--buy-brass)}
+.buying-finish h4{font-weight:400;font-size:1.25rem;margin:0 0 10px}.buying-finish p{margin:0}
+.buying-provenance{font-family:system-ui,sans-serif;font-size:.875rem;border-top:1px solid #c5a66b44;padding-top:22px;margin-top:32px}
+.ship-buying .source-box{background:#102131;color:var(--buy-ivory);margin:24px 0}.ship-buying .source-box summary{color:var(--buy-ivory);font-size:.875rem;white-space:normal}
+.buying-quote{margin:36px 0 0;text-align:center;padding:30px 12px 0;border-top:1px solid #c5a66b66}.buying-quote p{font-size:clamp(1.25rem,2.4vw,1.65rem);line-height:1.6;font-style:italic;max-width:760px;margin:0 auto 18px}.buying-quote cite{font-size:1rem;color:var(--buy-brass)}
+@media(max-width:700px){.buying-routes,.buying-finish{grid-template-columns:1fr}.buying-prices{grid-template-columns:1fr}.buying-prices article{padding:18px 0}.buying-prices article+article{border-left:0;border-top:1px solid #c5a66b44}.buying-route{padding:20px}.buying-materials th,.buying-materials td{min-width:150px}.buying-content{padding:20px}}

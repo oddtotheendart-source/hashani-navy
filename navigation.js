@@ -3,7 +3,7 @@
   const bar = document.querySelector('.topbar');
   const nav = bar.querySelector('nav');
   const destinations = [['home','Home'], ['tasks','Find your bearings'],
-    ...sections.map(s => [s.id,s.title]), ['selected-trade-planner','Trade Planner'], ['navy-events','Navy Events'], ['navy-calendar','Navy Calendar'], ['navy-ranks','Navy Ranks'],
+    ...sections.map(s => [s.id,s.title]), ['guide-buyingaship','I want to own my own ship'], ['selected-trade-planner','Trade Planner'], ['navy-events','Navy Events'], ['navy-calendar','Navy Calendar'], ['navy-ranks','Navy Ranks'],
     ['navy-members','Navy Members'], ['all-scrolls','All Navy Scrolls']];
   const controls = document.createElement('div');
   controls.className = 'course-controls';
