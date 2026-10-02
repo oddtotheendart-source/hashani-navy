@@ -54,7 +54,6 @@
     </div>`;
   const content = guide.querySelector('.buying-content');
   content.append(source);
-  content.insertAdjacentHTML('beforeend', '<blockquote class="buying-quote"><p>“The sea does not ask you to be fearless. Only willing. Learn your rigging, mind your course, and every voyage will teach you something worth keeping.”</p><cite>— Ticca Indasha</cite></blockquote>');
   document.querySelector('#task-grid').insertAdjacentHTML('beforeend', '<a class="task-card" href="#guide-buyingaship"><span class="number" aria-hidden="true">⚓</span><h3>Own a ship</h3><p>I want to own my own ship</p><span class="arrow" aria-hidden="true">↗</span></a>');
   if (['#guide-buyingaship', '#buying-commission'].includes(location.hash)) openDestination();
 })();
