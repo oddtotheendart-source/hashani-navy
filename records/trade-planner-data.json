@@ -1,0 +1,708 @@
+{
+  "source": "Trade Deals Route Selector v2.xlsx; supplied 1 October 2026. Exchange ratios cross-checked against CLHELP TRADECARGO.",
+  "deals": [
+    {
+      "id": 1,
+      "quantity": 5,
+      "cargo": "Gems",
+      "reward": "200,000 gold sovereigns",
+      "gold": 200000
+    },
+    {
+      "id": 2,
+      "quantity": 5,
+      "cargo": "Armaments",
+      "reward": "100,000 gold sovereigns",
+      "gold": 100000
+    },
+    {
+      "id": 3,
+      "quantity": 4,
+      "cargo": "Perfume",
+      "reward": "100,000 gold sovereigns",
+      "gold": 100000
+    },
+    {
+      "id": 4,
+      "quantity": 4,
+      "cargo": "Incense",
+      "reward": "75,000 gold sovereigns",
+      "gold": 75000
+    },
+    {
+      "id": 5,
+      "quantity": 5,
+      "cargo": "Incense",
+      "reward": "75,000 gold sovereigns",
+      "gold": 75000
+    },
+    {
+      "id": 6,
+      "quantity": 5,
+      "cargo": "Silk",
+      "reward": "75,000 gold sovereigns",
+      "gold": 75000
+    },
+    {
+      "id": 7,
+      "quantity": 6,
+      "cargo": "Silk",
+      "reward": "75,000 gold sovereigns",
+      "gold": 75000
+    },
+    {
+      "id": 8,
+      "quantity": 6,
+      "cargo": "Marble",
+      "reward": "65,000 gold sovereigns",
+      "gold": 65000
+    },
+    {
+      "id": 9,
+      "quantity": 6,
+      "cargo": "Hemp",
+      "reward": "65,000 gold sovereigns",
+      "gold": 65000
+    },
+    {
+      "id": 10,
+      "quantity": 8,
+      "cargo": "Glass",
+      "reward": "65,000 gold sovereigns",
+      "gold": 65000
+    },
+    {
+      "id": 11,
+      "quantity": 8,
+      "cargo": "Tea",
+      "reward": "65,000 gold sovereigns",
+      "gold": 65000
+    },
+    {
+      "id": 12,
+      "quantity": 5,
+      "cargo": "Wine",
+      "reward": "5 bound credits",
+      "gold": 0
+    },
+    {
+      "id": 13,
+      "quantity": 7,
+      "cargo": "Silk",
+      "reward": "5 bound credits",
+      "gold": 0
+    },
+    {
+      "id": 14,
+      "quantity": 10,
+      "cargo": "Silk",
+      "reward": "10 bound credits",
+      "gold": 0
+    },
+    {
+      "id": 15,
+      "quantity": 6,
+      "cargo": "Spices",
+      "reward": "25 bound credits",
+      "gold": 0
+    },
+    {
+      "id": 16,
+      "quantity": 5,
+      "cargo": "Gems",
+      "reward": "25 bound credits",
+      "gold": 0
+    },
+    {
+      "id": 17,
+      "quantity": 8,
+      "cargo": "Hemp",
+      "reward": "a barrel of rum",
+      "gold": 0
+    },
+    {
+      "id": 18,
+      "quantity": 8,
+      "cargo": "Kawhe",
+      "reward": "a barrel of rum",
+      "gold": 0
+    },
+    {
+      "id": 19,
+      "quantity": 8,
+      "cargo": "Tea",
+      "reward": "a barrel of rum",
+      "gold": 0
+    },
+    {
+      "id": 20,
+      "quantity": 8,
+      "cargo": "Marble",
+      "reward": "a barrel of rum",
+      "gold": 0
+    },
+    {
+      "id": 21,
+      "quantity": 5,
+      "cargo": "Spices",
+      "reward": "a bridcage covered in a white cloth",
+      "gold": 0
+    },
+    {
+      "id": 22,
+      "quantity": 15,
+      "cargo": "Armaments",
+      "reward": "a bridcage covered in a white cloth",
+      "gold": 0
+    },
+    {
+      "id": 23,
+      "quantity": 10,
+      "cargo": "Tabac",
+      "reward": "a golden gryphon (Legendary, flying mount)",
+      "gold": 0
+    },
+    {
+      "id": 24,
+      "quantity": 11,
+      "cargo": "Armaments",
+      "reward": "a golden gryphon (Legendary, flying mount)",
+      "gold": 0
+    },
+    {
+      "id": 25,
+      "quantity": 5,
+      "cargo": "Spices",
+      "reward": "a wicker basket containing a ginger kitten",
+      "gold": 0
+    },
+    {
+      "id": 26,
+      "quantity": 12,
+      "cargo": "Tabac",
+      "reward": "a wicker basket containing a ginger kitten",
+      "gold": 0
+    },
+    {
+      "id": 27,
+      "quantity": 11,
+      "cargo": "Ceramics",
+      "reward": "a reticulated giraffe (Legendary ount)",
+      "gold": 0
+    },
+    {
+      "id": 28,
+      "quantity": 6,
+      "cargo": "Honey",
+      "reward": "a striking sea captain's hat",
+      "gold": 0
+    },
+    {
+      "id": 29,
+      "quantity": 6,
+      "cargo": "Glass",
+      "reward": "a striking sea captain's hat",
+      "gold": 0
+    },
+    {
+      "id": 30,
+      "quantity": 3,
+      "cargo": "Hemp",
+      "reward": "a striking sea captain's hat",
+      "gold": 0
+    },
+    {
+      "id": 31,
+      "quantity": 8,
+      "cargo": "Porcelain",
+      "reward": "a great notic amulet (attach to figurehead, then turn)",
+      "gold": 0
+    },
+    {
+      "id": 32,
+      "quantity": 9,
+      "cargo": "Marble",
+      "reward": "a hollowed skull (Safe Passage - game, READ SKULL)",
+      "gold": 0
+    },
+    {
+      "id": 33,
+      "quantity": 12,
+      "cargo": "Armaments",
+      "reward": "a seaworn pair of stone dice (THROW DICE)",
+      "gold": 0
+    },
+    {
+      "id": 34,
+      "quantity": 9,
+      "cargo": "Furs",
+      "reward": "an unmarked wooden crate (ship d\u00e9cor)",
+      "gold": 0
+    },
+    {
+      "id": 35,
+      "quantity": 12,
+      "cargo": "Honey",
+      "reward": "an unmarked wooden crate (ship d\u00e9cor)",
+      "gold": 0
+    },
+    {
+      "id": 36,
+      "quantity": 1,
+      "cargo": "Spices",
+      "reward": "a black finned flare",
+      "gold": 0
+    },
+    {
+      "id": 37,
+      "quantity": 12,
+      "cargo": "Incense",
+      "reward": "a black finned flare",
+      "gold": 0
+    },
+    {
+      "id": 38,
+      "quantity": 2,
+      "cargo": "Gems",
+      "reward": "Crew experience",
+      "gold": 0
+    },
+    {
+      "id": 39,
+      "quantity": 6,
+      "cargo": "Hemp",
+      "reward": "Crew experience",
+      "gold": 0
+    },
+    {
+      "id": 40,
+      "quantity": 4,
+      "cargo": "Wine",
+      "reward": "Crew experience",
+      "gold": 0
+    },
+    {
+      "id": 41,
+      "quantity": 4,
+      "cargo": "Incense",
+      "reward": "Crew experience",
+      "gold": 0
+    },
+    {
+      "id": 42,
+      "quantity": 4,
+      "cargo": "Silk",
+      "reward": "Crew experience",
+      "gold": 0
+    },
+    {
+      "id": 43,
+      "quantity": 6,
+      "cargo": "Tea",
+      "reward": "Crew morale",
+      "gold": 0
+    },
+    {
+      "id": 44,
+      "quantity": 6,
+      "cargo": "Glass",
+      "reward": "Crew morale",
+      "gold": 0
+    },
+    {
+      "id": 45,
+      "quantity": 5,
+      "cargo": "Marble",
+      "reward": "Crew morale",
+      "gold": 0
+    },
+    {
+      "id": 46,
+      "quantity": 5,
+      "cargo": "Incense",
+      "reward": "Weapon ammunition",
+      "gold": 0
+    },
+    {
+      "id": 47,
+      "quantity": 3,
+      "cargo": "Perfume",
+      "reward": "Weapon ammunition",
+      "gold": 0
+    },
+    {
+      "id": 48,
+      "quantity": 3,
+      "cargo": "Tabac",
+      "reward": "Weapon ammunition",
+      "gold": 0
+    }
+  ],
+  "exchanges": [
+    {
+      "output": "Salt",
+      "input": "Sovereigns",
+      "out": 1,
+      "cost": 1000,
+      "harbour": "Zaphar",
+      "fee": 100
+    },
+    {
+      "output": "Wool",
+      "input": "Sovereigns",
+      "out": 1,
+      "cost": 1000,
+      "harbour": "Tasur'ke",
+      "fee": 2000
+    },
+    {
+      "output": "Sandstone",
+      "input": "Sovereigns",
+      "out": 1,
+      "cost": 1000,
+      "harbour": "Shastaan",
+      "fee": 1000
+    },
+    {
+      "output": "Cotton",
+      "input": "Sovereigns",
+      "out": 1,
+      "cost": 1000,
+      "harbour": "Shastaan",
+      "fee": 1000
+    },
+    {
+      "output": "Grain",
+      "input": "Sovereigns",
+      "out": 1,
+      "cost": 1000,
+      "harbour": "Thraasi",
+      "fee": 2000
+    },
+    {
+      "output": "Ore",
+      "input": "Sovereigns",
+      "out": 1,
+      "cost": 1000,
+      "harbour": "Thraasi",
+      "fee": 2000
+    },
+    {
+      "output": "Honey",
+      "input": "Salt",
+      "out": 3,
+      "cost": 4,
+      "harbour": "Minos",
+      "fee": 0
+    },
+    {
+      "output": "Furs",
+      "input": "Wool",
+      "out": 1,
+      "cost": 1,
+      "harbour": "Suliel",
+      "fee": 500
+    },
+    {
+      "output": "Granite",
+      "input": "Sandstone",
+      "out": 3,
+      "cost": 4,
+      "harbour": "Tasur'ke",
+      "fee": 2000
+    },
+    {
+      "output": "Terracotta",
+      "input": "Cotton",
+      "out": 3,
+      "cost": 4,
+      "harbour": "Orilla",
+      "fee": 0
+    },
+    {
+      "output": "Sugar",
+      "input": "Grain",
+      "out": 3,
+      "cost": 4,
+      "harbour": "Zaphar",
+      "fee": 100
+    },
+    {
+      "output": "Fruit",
+      "input": "Ore",
+      "out": 3,
+      "cost": 4,
+      "harbour": "Zanzibaar",
+      "fee": 2000
+    },
+    {
+      "output": "Hemp",
+      "input": "Furs",
+      "out": 3,
+      "cost": 4,
+      "harbour": "Shastaan",
+      "fee": 1000
+    },
+    {
+      "output": "Ceramics",
+      "input": "Hemp",
+      "out": 2,
+      "cost": 3,
+      "harbour": "Karbaz",
+      "fee": 200
+    },
+    {
+      "output": "Marble",
+      "input": "Hemp",
+      "out": 2,
+      "cost": 3,
+      "harbour": "Karbaz",
+      "fee": 200
+    },
+    {
+      "output": "Ceramics",
+      "input": "Honey",
+      "out": 2,
+      "cost": 3,
+      "harbour": "Karbaz",
+      "fee": 200
+    },
+    {
+      "output": "Marble",
+      "input": "Granite",
+      "out": 2,
+      "cost": 3,
+      "harbour": "Karbaz",
+      "fee": 200
+    },
+    {
+      "output": "Tea",
+      "input": "Terracotta",
+      "out": 2,
+      "cost": 3,
+      "harbour": "Zanzibaar",
+      "fee": 2000
+    },
+    {
+      "output": "Kawhe",
+      "input": "Sugar",
+      "out": 2,
+      "cost": 3,
+      "harbour": "Tasur'ke",
+      "fee": 2000
+    },
+    {
+      "output": "Glass",
+      "input": "Fruit",
+      "out": 2,
+      "cost": 3,
+      "harbour": "Thraasi",
+      "fee": 2000
+    },
+    {
+      "output": "Porcelain",
+      "input": "Ceramics",
+      "out": 2,
+      "cost": 3,
+      "harbour": "Umbrin",
+      "fee": 0
+    },
+    {
+      "output": "Ceramics",
+      "input": "Porcelain",
+      "out": 3,
+      "cost": 2,
+      "harbour": "Mysia",
+      "fee": 1000
+    },
+    {
+      "output": "Silk",
+      "input": "Marble",
+      "out": 2,
+      "cost": 3,
+      "harbour": "Colchis",
+      "fee": 0
+    },
+    {
+      "output": "Wine",
+      "input": "Marble",
+      "out": 2,
+      "cost": 3,
+      "harbour": "Minos",
+      "fee": 0
+    },
+    {
+      "output": "Wine",
+      "input": "Tea",
+      "out": 2,
+      "cost": 3,
+      "harbour": "Minos",
+      "fee": 0
+    },
+    {
+      "output": "Incense",
+      "input": "Kawhe",
+      "out": 2,
+      "cost": 3,
+      "harbour": "Suliel",
+      "fee": 500
+    },
+    {
+      "output": "Incense",
+      "input": "Glass",
+      "out": 2,
+      "cost": 3,
+      "harbour": "Shala-Khulia",
+      "fee": 500
+    },
+    {
+      "output": "Ceramics",
+      "input": "Silk",
+      "out": 3,
+      "cost": 2,
+      "harbour": "Mysia",
+      "fee": 1000
+    },
+    {
+      "output": "Kawhe",
+      "input": "Wine",
+      "out": 3,
+      "cost": 2,
+      "harbour": "Umbrin",
+      "fee": 0
+    },
+    {
+      "output": "Glass",
+      "input": "Incense",
+      "out": 3,
+      "cost": 2,
+      "harbour": "Colchis",
+      "fee": 0
+    },
+    {
+      "output": "Tabac",
+      "input": "Porcelain",
+      "out": 2,
+      "cost": 3,
+      "harbour": "Mysia",
+      "fee": 1000
+    },
+    {
+      "output": "Tabac",
+      "input": "Silk",
+      "out": 2,
+      "cost": 3,
+      "harbour": "Mysia",
+      "fee": 1000
+    },
+    {
+      "output": "Silk",
+      "input": "Tabac",
+      "out": 3,
+      "cost": 2,
+      "harbour": "Ageiro",
+      "fee": 0
+    },
+    {
+      "output": "Armaments",
+      "input": "Wine",
+      "out": 2,
+      "cost": 3,
+      "harbour": "Umbrin",
+      "fee": 0
+    },
+    {
+      "output": "Wine",
+      "input": "Perfume",
+      "out": 3,
+      "cost": 2,
+      "harbour": "Shastaan",
+      "fee": 1000
+    },
+    {
+      "output": "Perfume",
+      "input": "Incense",
+      "out": 2,
+      "cost": 3,
+      "harbour": "Colchis",
+      "fee": 0
+    },
+    {
+      "output": "Incense",
+      "input": "Armaments",
+      "out": 3,
+      "cost": 2,
+      "harbour": "Zanzibaar",
+      "fee": 2000
+    },
+    {
+      "output": "Gems",
+      "input": "Tabac",
+      "out": 1,
+      "cost": 2,
+      "harbour": "Ageiro",
+      "fee": 0
+    },
+    {
+      "output": "Spices",
+      "input": "Armaments",
+      "out": 1,
+      "cost": 2,
+      "harbour": "Zanzibaar",
+      "fee": 2000
+    },
+    {
+      "output": "Armaments",
+      "input": "Spices",
+      "out": 2,
+      "cost": 1,
+      "harbour": "Thraasi",
+      "fee": 2000
+    },
+    {
+      "output": "Gems",
+      "input": "Perfume",
+      "out": 1,
+      "cost": 2,
+      "harbour": "Shastaan",
+      "fee": 1000
+    },
+    {
+      "output": "Perfume",
+      "input": "Gems",
+      "out": 2,
+      "cost": 1,
+      "harbour": "Zanzibaar",
+      "fee": 2000
+    }
+  ],
+  "preferred": {
+    "Salt": "Sovereigns",
+    "Wool": "Sovereigns",
+    "Sandstone": "Sovereigns",
+    "Cotton": "Sovereigns",
+    "Grain": "Sovereigns",
+    "Ore": "Sovereigns",
+    "Honey": "Salt",
+    "Furs": "Wool",
+    "Granite": "Sandstone",
+    "Terracotta": "Cotton",
+    "Sugar": "Grain",
+    "Fruit": "Ore",
+    "Hemp": "Furs",
+    "Ceramics": "Honey",
+    "Marble": "Granite",
+    "Tea": "Terracotta",
+    "Kawhe": "Sugar",
+    "Glass": "Fruit",
+    "Porcelain": "Ceramics",
+    "Silk": "Marble",
+    "Wine": "Tea",
+    "Incense": "Glass",
+    "Tabac": "Silk",
+    "Armaments": "Wine",
+    "Perfume": "Incense",
+    "Spices": "Armaments",
+    "Gems": "Perfume"
+  }
+}

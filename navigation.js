@@ -3,7 +3,7 @@
   const bar = document.querySelector('.topbar');
   const nav = bar.querySelector('nav');
   const destinations = [['home','Home'], ['tasks','Find your bearings'],
-    ...sections.map(s => [s.id,s.title]), ['navy-events','Navy Events'], ['navy-calendar','Navy Calendar'], ['navy-ranks','Navy Ranks'],
+    ...sections.map(s => [s.id,s.title]), ['selected-trade-planner','Trade Planner'], ['navy-events','Navy Events'], ['navy-calendar','Navy Calendar'], ['navy-ranks','Navy Ranks'],
     ['navy-members','Navy Members'], ['all-scrolls','All Navy Scrolls']];
   const controls = document.createElement('div');
   controls.className = 'course-controls';
@@ -35,10 +35,10 @@
     update();
   });
   function update() {
-    let current = destinations[0][0];
+    let current = destinations[0][0], nearest = -Infinity;
     for(const [id] of destinations) {
       const el = document.getElementById(id);
-      if(el && el.getBoundingClientRect().top <= bar.offsetHeight + 40) current = id;
+      if(el && el.getClientRects().length) { const top=el.getBoundingClientRect().top; if(top<=bar.offsetHeight+40 && top>=nearest){current=id;nearest=top;} }
     }
     if(document.activeElement !== select) select.value = current;
     nav.querySelectorAll('a').forEach(a => {
