@@ -1,0 +1,25 @@
+23.5 Ship Command
+
+       PREV |                                                   | NEXT
+       23.4 | SHIP RACES                            Ship Repair | 23.6
+
+
+True ship command consists in giving all verbal orders. As you speak, your
+executive officer confirms the order and translates it into specific commands
+to the crew. These are words you speak. SAY them.
+
+
+Movement                   Direction/Course      Docking/Harbours
+--------                   ----------------      ----------------
+ALL STOP                   COURSE dir            CAST OFF or CASTOFF
+MAN THE OARS               TURN [TO] dir         DOCK direction
+STRIKE|REEF [THE] SAILS    BRING HER TO dir      WEIGH|RAISE [THE] ANCHOR
+SET|FULL SAILS                                   DROP|LOWER [THE] ANCHOR
+ROW                                              RAISE|LOWER [THE] PLANK
+
+
+At Sea / Between Ships               Other
+----------------------               -----
+EXTEND [THE] PLANK                   HOIST|RAISE [THE] FLAG
+WITHDRAW [THE] PLANK                 LOWER [THE] FLAG
+GRAPPLE direction                    RAISE|LOWER [THE] [ROPE]LADDER[S]

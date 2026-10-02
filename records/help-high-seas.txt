@@ -1,0 +1,33 @@
+23.7 High Seas and Weather
+
+       PREV |                               Ship Crew - Morale, | NEXT
+       23.6 | Ship Repair               Experience, Wages, and  | 23.8
+
+
+(See also: HELP SAILING, HELP WINDS)
+
+Higher winds often disturb the sea in a manner sometimes dangerous to those
+venturing in ships. The seas may be described in any of these terms, in order
+from least to most disturbed:
+
+ Short   Full          Description
+ -----   ----          -----------
+ I       glassy        look down and see the sky reflected perfectly.
+ II      smooth        not quite perfect, but close.
+ III     calm          barely disturbed.
+ IV      choppy        irregular, tiny wavelets.
+ V       whitecapped   when you see the white caps, you'll know it.
+ VI      rough         pretty serious.
+ VII     stormy        usually requires a gale.
+ VIII    tempestuous   just about as bad as it can get.
+ IX      raging        short of Divine action, as BAD as it can get.
+       
+
+Rowing and Seas
+---------------
+Roughness of IV or greater will reduce the speed at which your oarsmen
+are able to propel your vessel. In VIII or IX seas it is almost useless
+to row.
+
+
+(See also: HELP SAILING, HELP WINDS)

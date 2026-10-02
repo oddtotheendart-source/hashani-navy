@@ -1,0 +1,43 @@
+23.1 Ships
+
+       PREV |                              Getting Started - an | NEXT
+         23 | Ships and Seafaring       Overview for New Owners | 23.2
+
+(See also: HELP COMPASS, HELP CREW, HELP SAILING, HELP SHIP COMMAND,
+           HELP SHIP REPAIR, HELP SHIP TYPES, HELP NEW TO SHIPS)
+
+With a ship, you can navigate the vast oceans surrounding the continent of
+Sapience, giving commands to your denizen crew which will result in your ship
+being sailed or rowed through the wilderness map interface (see HELP
+WILDERNESS).
+
+You can discover and explore islands which can only be reached by
+ships. Go deep-sea fishing, dive for treasure, battle with other ships, and
+more! Learning the skill of Seafaring (see HELP SEAFARING) further expands your
+options.
+
+Harbours may be found all around Sapience and on many of the surrounding
+islands. To get started, try:
+
+   HARBOUR SHIPS to see what ships are currently docked.
+   BOARD SHIP <ship name|ship #> to ascend the gangplank!
+
+Type HARBOUR at any harbour to see available commands. Man-made harbours will
+have more available commands than natural harbours, such as hiring denizen crew
+and purchasing repairs.
+
+To purchase a new ship, you will need to acquire ship commodities
+(see HELP SHIPFITTING), then visit a shipyard and COMMISSION <vessel>.
+
+See HELP SHIP TYPES for the different kinds of ships you may commission and
+the associated costs.
+
+Ship ownership is an expensive endeavour; you may be able to purchase a ship
+from another adventurer, for a reduced cost! Even those who do not own a ship
+may still sail the seas as captain or crew in another's fleet.
+
+(See also: HELP COMPASS, HELP CREW, HELP SAILING, HELP SHIP COMMAND,
+           HELP SHIP REPAIR, HELP SHIP TYPES, HELP NEW TO SHIPS)
+
+       PREV |                              Getting Started - an | NEXT
+         23 | Ships and Seafaring       Overview for New Owners | 23.2
