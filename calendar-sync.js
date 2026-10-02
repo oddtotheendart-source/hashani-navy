@@ -11,12 +11,18 @@
   const reading=form.querySelector('#game-reading');const capture=form.querySelector('#sync-capture');const clock=form.querySelector('#sync-game-clock');const status=form.querySelector('#sync-status');let captureEdited=false;
   function now(){capture.value=new Date().toISOString().slice(0,19);captureEdited=false;}
   now();capture.addEventListener('input',()=>captureEdited=true);reading.addEventListener('paste',()=>{if(!captureEdited)now();});form.querySelector('#sync-now').addEventListener('click',now);
+  reading.addEventListener('input',()=>{
+    const stamps=[...reading.value.matchAll(/\b(\d{4})\/(\d{2})\/(\d{2})\s+(\d{2}):(\d{2}):(\d{2})\s+GMT\b/g)];
+    const values=[...new Set(stamps.map(m=>`${m[1]}-${m[2]}-${m[3]}T${m[4]}:${m[5]}:${m[6]}`))];
+    if(values.length===1){const value=values[0];const date=new Date(value+'Z');if(Number.isFinite(+date)&&date.toISOString().slice(0,19)===value){capture.value=value;captureEdited=true;status.textContent='GMT capture time recognised from the pasted TIME output. Check it, then sync.';}}
+    else if(values.length>1)status.textContent='Multiple GMT readings found. Paste one matching DATE/TIME pair and check its capture time.';
+  });
   function valid(c){return c&&Number.isInteger(c.year)&&c.year>=1&&c.year<=99999&&Number.isInteger(c.month)&&c.month>=0&&c.month<12&&Number.isInteger(c.day)&&c.day>=1&&c.day<=25&&Number.isFinite(c.capturedAt)&&(c.minute===null||(Number.isInteger(c.minute)&&c.minute>=0&&c.minute<1440));}
   function apply(c,message){window.navyCalibration=c;status.textContent=message;window.dispatchEvent(new Event('navy-calibration-changed'));}
   function describe(c){return `${c.day} ${months[c.month]}, ${c.year} AF${c.minute===null?' (game clock unknown)':` at ${String(Math.floor(c.minute/60)).padStart(2,'0')}:${String(c.minute%60).padStart(2,'0')} Achaean time`}, captured ${new Date(c.capturedAt).toISOString().replace('T',' ').replace('.000Z',' GMT')}.`;}
   try{const saved=JSON.parse(localStorage.getItem(key));if(valid(saved)){capture.value=new Date(saved.capturedAt).toISOString().slice(0,19);captureEdited=true;apply(saved,'Your saved calibration: '+describe(saved));}}catch{status.textContent='No saved calibration loaded. You can sync below.';}
   form.addEventListener('submit',event=>{event.preventDefault();
-    const datePattern=new RegExp('\\b(\\d{1,2})(?:st|nd|rd|th)?\\s+(?:of\\s+)?('+months.join('|')+')\\b[\\s,]*(?:(?:in\\s+)?(?:the\\s+)?year\\s+)?(\\d{1,5})\\s*AF\\b','gi');
+    const datePattern=new RegExp('\\b(\\d{1,2})(?:st|nd|rd|th)?\\s+(?:of\\s+)?('+months.join('|')+')\\b[\\s,]*(?:(?:in\\s+)?(?:the\\s+)?year\\s+)?(\\d{1,5})\\s*(?:AF\\b|years?\\s+after\\s+the\\s+fall\\s+of\\s+the\\s+Seleucarian\\s+Empire\\b)','gi');
     const dates=[...reading.value.matchAll(datePattern)];const distinct=new Map(dates.map(m=>[[+m[1],m[2].toLowerCase(),+m[3]].join('-'),m]));
     if(distinct.size!==1){status.textContent=distinct.size?'More than one game date found. Paste just the current DATE/TIME reading.':'I could not recognise the date. Include the day, Achaean month, and AF year (for example: 6 Glacian 1015 AF).';return;}
     const match=[...distinct.values()][0];const capturedAt=Date.parse(capture.value+'Z');
@@ -29,3 +35,4 @@
   form.querySelector('#sync-reset').addEventListener('click',()=>{try{localStorage.removeItem(key);}catch{}reading.value='';clock.value='';now();apply(null,'Using the site’s saved Merchants reference again.');});
   if(location.hash==='#navy-calendar')openDestination();
 })();
+
